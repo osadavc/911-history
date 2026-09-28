@@ -154,8 +154,8 @@ export function CarStage({
       lastX = e.clientX;
       lastY = e.clientY;
       const k = 0.0085;
-      goalAz -= dx * k;
-      velAz = -dx * k;
+      goalAz += dx * k;
+      velAz = dx * k;
       goalEl = Math.min(1.45, Math.max(0.02, goalEl + dy * k * 0.7));
       dirty = true;
     };
