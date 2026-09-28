@@ -1,0 +1,125 @@
+{
+  "stop_id": "18-992-2-2024",
+  "coverage_summary": "Vendor (watermarked) 5-view with dims for the 992.2 Carrera S (2025) + 992.2 Targa GTS 4-view.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-30945_porsche-911-carrera-s-2025_5view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side (L)",
+        "side (R)",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x1038",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/30945/porsche_911_carrera_s/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_s_2025.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "992.2 Carrera S (2025): new front apron with horizontal slats, headlamps with integrated functions, revised rear.",
+      "labeled_dims": "wheelbase 2450, length 4519, width 1852, height 1299 (mm)",
+      "measured_wb_over_len": 0.534,
+      "accuracy_notes": "Measured 0.534 (auto, verified) vs printed 0.542 (-1.6%): trust printed/official numbers, scale by wheelbase.",
+      "bytes": 476758,
+      "ratio_check_vs_official": "measured WB/L 0.534 vs official 2450/4542 mm = 0.539 -> -1.0% : close (1-2%)"
+    },
+    {
+      "file": "vec-29644_porsche-911-targa-gts-2025_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/29644/porsche_911_targa_gts/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_targa_gts_2024.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "992.2 Targa 4 GTS (2025) - front/rear shapes of the facelift; roof differs.",
+      "labeled_dims": "wheelbase 2451, length 4533, height 1292 (mm)",
+      "accuracy_notes": "Not measured.",
+      "bytes": 367474
+    },
+    {
+      "file": "vec-29642_porsche-911-carrera-gts-2025_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/29642/porsche_911_carrera_gts/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_gts_2025.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "992.2 Carrera GTS (2025, T-Hybrid) coupe - GTS-specific apron/trim; body shell as Carrera.",
+      "labeled_dims": "wheelbase 2451, length 4533, height 1292 (mm)",
+      "accuracy_notes": "Not measured.",
+      "bytes": 295097
+    },
+    {
+      "file": "official_render_992-2_carrera_side-right.png",
+      "views_included": [
+        "side, right (transparent-background render)"
+      ],
+      "source_page": "https://www.porsche.com/international/models/911/carrera-models/911-carrera/",
+      "image_url": "https://a.storyblok.com/f/322327/2616x712/5d81165a01/cz25w01ix0010911-carrera-side.png",
+      "license_notes": "Official porsche.com image, 2616x712 RGBA; copyright Porsche AG",
+      "accuracy_notes": "Roof top cropped by ~1 px at the image edge. Perspective: body 128-2501 px, hubs 658/2000 px -> L/WB 1.769 vs true 4542/2450 = 1.854. Wheels shown are an option (5-spoke), not necessarily standard.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "2616x712"
+    },
+    {
+      "file": "official_render_992-2_carrera_front.png",
+      "views_included": [
+        "front (transparent-background render)"
+      ],
+      "source_page": "https://www.porsche.com/international/models/911/carrera-models/911-carrera/",
+      "image_url": "https://a.storyblok.com/f/322327/1720x1210/c6b3d109aa/cz25w01ix0011911-carrera-front.png",
+      "license_notes": "Official porsche.com image, 1720x1210 RGBA",
+      "accuracy_notes": "Straight-on front with perspective; no plate fitted. Shows Matrix LED four-module headlights, apron without light strips, horizontal-slat outer intakes, central intake, side markers.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1720x1210"
+    },
+    {
+      "file": "official_render_992-2_carrera_side-left_bahamayellow.jpg",
+      "views_included": [
+        "side, left (studio render on coloured background)"
+      ],
+      "source_page": "https://www.porsche.com/international/models/911/carrera-models/911-carrera/",
+      "image_url": "https://a.storyblok.com/f/322327/1272x1696/68f6cc22fb/911-carrera-side-bahamayellow.jpg",
+      "license_notes": "Official porsche.com colour-story image, 1272x1696",
+      "accuracy_notes": "Small car in frame (~570 px long) on yellow background; low resolution, perspective not measured. Optional 5-double-spoke wheels.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1272x1696"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5394,
+    "dims": "2450/4542 mm",
+    "sources": [
+      "https://newsroom.porsche.com/dam/jcr:7f3751ae-477c-48a5-b087-31f4fde1c124/pag-911-carrera-en.pdf",
+      "https://newsroom.porsche.com/dam/jcr:86fc9a9b-ece1-4cca-9930-39a78e89baf3/992.2%20911%20Carrera%20and%20Carrera%20Cabriolet%20Technical%20Specifications.pdf",
+      "https://newsroom.porsche.com/dam/jcr:baaedc84-1430-447f-9bd1-94636087e9bc/PAG_Pressemappe_911-EN.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

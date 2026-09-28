@@ -1,0 +1,122 @@
+{
+  "stop_id": "13-997-1-2005",
+  "coverage_summary": "Vendor 4-view (997.1 front) + 997.1 C4S Cabriolet 4-view + cutaway and side line drawings.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-1030_porsche-911-carrera-2-997_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/1030/porsche_911_carrera_2_997/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_2_997_2004.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview titled 'Porsche 911 Carrera 2 997 (2009)' (same image for MY2004-09); front view shows round auxiliary lamps in the apron corners (997.1 style).",
+      "labeled_dims": "wheelbase 2350, length 4460, width 1852 (incl. mirrors?), height 1311 (mm)",
+      "measured_wb_over_len": 0.521,
+      "accuracy_notes": "Manual reading: hubs ~210/~605 px, extremes 42-800 px -> 0.521 vs printed 2350/4460 = 0.527 (~-1.5%; Wikipedia 997 range 2350-2360 / 4430-4496 mm gives 0.523-0.533 https://en.wikipedia.org/wiki/Porsche_911_(997)).",
+      "bytes": 415283,
+      "ratio_check_vs_official": "measured WB/L 0.521 vs official 2350/4427 mm = 0.531 -> -1.8% : close (1-2%)"
+    },
+    {
+      "file": "vec-25733_porsche-911-carrera-4s-cabriolet-2005_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/25733/porsche_911_carrera_4s_cabriolet/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_4s_cabriolet_2005.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "997.1 Carrera 4S Cabriolet (wide body, rear light band) - front/rear shapes valid for 997.1.",
+      "labeled_dims": "wheelbase 2350, length 4427, width 1808, height 1310 (mm)",
+      "accuracy_notes": "Not measured; compare printed 4427 with the sourced 997.1 length in geometry.json.",
+      "bytes": 317116
+    },
+    {
+      "file": "tbp-8809_porsche-911-carrera-s-2005_cutaway-side.gif",
+      "rank": "secondary",
+      "views_included": [
+        "side (cutaway)"
+      ],
+      "resolution_px": "1085x337",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/8809/view/porsche_911_carrera_s_2005/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-s-2005.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "997.1 Carrera S cutaway.",
+      "accuracy_notes": "Silhouette only.",
+      "bytes": 46476
+    },
+    {
+      "file": "tbp-25358_porsche-911-carrera-997_side.gif",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "945x344",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/25358/view/porsche_911_carrera_997/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-997.gif",
+      "contributor": "Freak-DS",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Freak-DS.",
+      "depicts": "997 side outline (hand-traced).",
+      "accuracy_notes": "Not verified.",
+      "bytes": 20103
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/64517/view/porsche_911_997_2004/",
+      "reason": "Side drawing measures WB/L 0.582 vs 0.531 official - distorted, not copied."
+    }
+  ],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5308,
+    "dims": "2350/4427 mm",
+    "sources": [
+      "https://web.archive.org/web/20070618195353/http://www.porsche.com/international/models/911/911-carrera/featuresandspecs/",
+      "https://web.archive.org/web/20071130055840/http://www.porsche.com/all/media/pdf/Catalogue_911_997_MY08_PCGB.pdf",
+      "https://web.archive.org/web/20071203210816/http://www.porsche.com/filestore.aspx/default.pdf?pool=japan&type=download&id=download-911-all&lang=jp&filetype=default",
+      "https://web.archive.org/web/20150122124455/http://press.porsche.com:80/archive/products/press_kits/press_kits_2005/pdf/carrera_carreras/911_carrera_specs.pdf",
+      "https://www.excellence-mag.com/resources/specs/96",
+      "https://www.netcarshow.com/porsche/2005-911_carrera/"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": {
+    "checked_without_orthographic_drawings": [
+      "https://web.archive.org/web/20091227041946/http://files.porsche.com/all/media/pdf/Catalogue_911_997_MY10_EN.pdf",
+      "https://web.archive.org/web/20101128132732/http://files.porsche.com:80/filestore.aspx/default.pdf?pool=international&type=download&id=997-2nd-c2-catalogue&lang=none&filetype=default&version=2",
+      "https://web.archive.org/web/20111015154826/http://files.porsche.com/filestore.aspx/default.pdf?pool=usa&type=download&id=997-2nd-c2-catalogue&lang=none&filetype=default&version=4",
+      "https://web.archive.org/web/20071130055840/http://www.porsche.com/all/media/pdf/Catalogue_911_997_MY08_PCGB.pdf",
+      "https://web.archive.org/web/20071203210816/http://www.porsche.com/filestore.aspx/default.pdf?pool=japan&type=download&id=download-911-all&lang=jp&filetype=default",
+      "https://web.archive.org/web/20110928143539/http://files.porsche.com/filestore.aspx/default.pdf?pool=japan&type=download&id=porscheservice-ownersmanualdownload-911carrera&lang=jp&filetype=default&version=3",
+      "https://web.archive.org/web/20150324053349/http://press.porsche.com:80/archive/products/press_kits/press_kits_2002/PDF/34-35_CarreraFastFacts.pdf",
+      "https://web.archive.org/web/20151004064215/http://press.porsche.com/archive/products/press_kits/press_kits_2002/PDF/13-14_911C4SSpecs.pdf",
+      "https://web.archive.org/web/20150324053404/http://press.porsche.com:80/archive/products/press_kits/press_kits_2003/PDF/46-47_911_car_cp_cabspecs.pdf",
+      "https://web.archive.org/web/20160706001137/http://press.porsche.com:80/archive/products/press_kits/press_kits_2004/PDF/new/12-13_Carrera_Specs.pdf",
+      "https://web.archive.org/web/20150122124455/http://press.porsche.com:80/archive/products/press_kits/press_kits_2005/pdf/carrera_carreras/911_carrera_specs.pdf",
+      "https://web.archive.org/web/20150105235627/http://press.porsche.com:80/archive/products/press_kits/press_kits_2005/pdf/carrera_carreras/911_carrera_release.pdf",
+      "https://newsroom.porsche.com/dam/jcr:3b30f3aa-1d07-42b4-9e2f-9806803cc0fd/06_911er_Generationen_997_EN.jpg"
+    ],
+    "note": "No Porsche dimension drawings (side/front/top with measurements) were found for 996.2, 997.1 or 997.2 in any freely reachable official document; catalogue tech-data pages are tables only. Only low-res straight-on brochure photos of the 997.2 were saved (14-997-2-2009/brochure_*). 996.2/997.1 official 3/4 press photos are on netcarshow (URLs in sources) but are not orthographic."
+  },
+  "updated": "2026-09-27"
+}

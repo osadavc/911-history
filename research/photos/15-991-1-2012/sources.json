@@ -1,0 +1,499 @@
+[
+  {
+    "file": "01-side-left.jpg",
+    "view": "side-left",
+    "description": "Official Porsche studio profile captioned '911 Carrera 3,4 Coupé from 2011' (type 991.1 base Carrera); red (paint name not stated by source). Car's LEFT flank, nose pointing to image-left. Plain dark gradient studio background; one of a matched set of seven same-setup generation profiles (see research/photos/lineups/modern-7gen-*). Same photo also appears at 1000 px in the 60 Years of 911 press kit (pmdb id 250541).",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-one-millionth-911-milestone-seven-generations-13735.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/porsche_newsroom/Produkte/911/1-Mio.-911/7-Generationen/b-HDI-45031.jpg",
+    "author": "Porsche AG (Newsroom article 'From zero to 1,000,000: Seven generations of the Porsche 911', 11/05/2017)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption: '911 Carrera 3,4 Coupé from 2011' = 991.1 base Carrera",
+      "door handle with separate recessed grip panel (991.1)",
+      "no side air duct on rear apron (991.2 adds one)",
+      "slim 991.1 taillight; transverse engine-lid louvres visible at deck edge",
+      "991 long wheelbase, door-mounted mirror",
+      "true 90-degree profile at wheel-hub height: both wheels appear as circles"
+    ],
+    "tracing": "side",
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "02-side-left.jpg",
+    "view": "side-left",
+    "description": "991.1 911 Carrera S coupe parked in Nancy, France (photo 2012-09-09); grey metallic (name not stated). Car's LEFT flank, nose to image-left; near-orthographic profile, camera at about hub height.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(7963689884).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Porsche_911_Carrera_S_%287963689884%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "photo dated 2012 (before 991.2 launch in 2015) and Commons category '911 Carrera S coupes (2011–2015)'",
+      "door handle with separate recessed grip panel (991.1 style)",
+      "slim 991.1 taillight, DRL strip in front apron",
+      "20-inch 10-spoke Carrera S wheels with red calipers (S model)",
+      "unmodified factory body"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "03-side-left.jpg",
+    "view": "side-left",
+    "description": "Early 991.1 911 Carrera S coupe (MY2012) on a Porsche display stand, 13 Oct 2011 (same 'The next 911' display as the Rennsport Reunion IV photos, Laguna Seca); dark blue metallic (name not stated). Car's LEFT flank, nose to image-left.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:New_2012_911_(6282855787).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/New_2012_911_%286282855787%29.jpg",
+    "author": "Bill Abbott",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "photographed Oct 2011 at the car's US launch display -> 991.1",
+      "991.1 door handle with recess panel",
+      "red calipers + 20-inch 10-spoke wheels (Carrera S)",
+      "wide rear deck, slim taillights, spoiler retracted"
+    ],
+    "size": [
+      1920,
+      1285
+    ]
+  },
+  {
+    "file": "04-side-right.jpg",
+    "view": "side-right",
+    "description": "991.1 911 Carrera coupe (MY2012) on a London street, photo 2011-12-29; black. Car's RIGHT flank, nose to image-right; distant camera near hub height, good near-orthographic profile.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_Porsche_Carrera_2012_(6595745197).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Porsche_Porsche_Carrera_2012_%286595745197%29.jpg",
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "photo dated Dec 2011 -> can only be 991.1 (991.2 launched Sept 2015)",
+      "Commons category 'Porsche 991 Carrera (2011–2015) coupes'",
+      "991 roof/side-glass line, door-mounted mirror, slim taillight",
+      "stock body, 10-spoke two-tone wheels"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "05-side-right.jpg",
+    "view": "side-right",
+    "description": "2013 911 Carrera S (991.1) coupe driving past (panned shot); grey metallic (name not stated). Car's RIGHT flank, nose to image-right.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(991,_2013)_(54857878982).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Porsche_911_Carrera_S_%28991%2C_2013%29_%2854857878982%29.jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verified_features": [
+      "transverse (horizontal) louvres visible on engine lid = 991.1",
+      "slim pre-facelift taillight",
+      "991.1 door handle with recess panel",
+      "red calipers, 20-inch Carrera S wheels",
+      "profile only slightly above hub height"
+    ],
+    "size": [
+      1920,
+      1228
+    ]
+  },
+  {
+    "file": "06-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Official Porsche photo: 911 Carrera coupe, type 991 (991.1), MY2012, red (paint name not stated), front three-quarter showing front + car's LEFT flank. Native 1000 px.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/7.-Generation-Porsche-911,-(991),-2011-2019.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=250535&w=1000&h=666&crop=0&public=1&cs=e92ddc56c74c31bf",
+    "author": "Porsche AG (60 Years of Porsche 911 press kit, gallery '60 Years of Porsche 911 - Generations')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption: 2012, 911 Carrera Coupé, Type 991, 3.4 litre",
+      "991.1 front apron: DRL/indicator strip floating above each side intake, 2 horizontal slats per intake",
+      "bi-xenon headlights without 4-point DRL",
+      "door handle with recess panel"
+    ],
+    "note": "Press plate S-GO 4020 was reused by Porsche on the 2015 991.2 launch car; this image was checked visually as 991.1 (two-slat intakes with wide DRL bar / three transverse engine-lid slats) and is captioned 2012 by Porsche.",
+    "size": [
+      1000,
+      666
+    ]
+  },
+  {
+    "file": "07-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Base 911 Carrera (991.1) coupe at its world premiere, IAA Frankfurt, Sept 2011; silver metallic (name not stated), optional twin-spoke wheels. Front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_silver_IAA.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Porsche_991_silver_IAA.jpg",
+    "author": "Abehn",
+    "license": "Public domain (PD-self; also dual-licensed CC BY-SA 3.0)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "verified_features": [
+      "'911 Carrera' plate on the display car, IAA 2011 world premiere",
+      "991.1 front apron: wide LED DRL strip above each 2-slat side intake",
+      "bi-xenon headlights, no 4-point DRL",
+      "door handle with recess panel"
+    ],
+    "size": [
+      1280,
+      853
+    ]
+  },
+  {
+    "file": "08-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "2013 911 Carrera S (991.1) coupe, Germany, photo 2013-09-15; white. Front + car's RIGHT flank, fairly side-on. Optional black-painted 20-inch wheels and side '911 Carrera S' script (factory options).",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(991),_Bj._2013_(2013-09-15).JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Porsche_911_Carrera_S_%28991%29%2C_Bj._2013_%282013-09-15%29.JPG",
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "verified_features": [
+      "photo 2013 -> 991.1",
+      "991.1 front apron: LED DRL/indicator bar above side intake",
+      "bi-xenon headlight without 4-point DRL",
+      "door handle with recess panel (991.1)",
+      "fuel filler flap on right front wing"
+    ],
+    "size": [
+      1920,
+      1154
+    ]
+  },
+  {
+    "file": "09-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "991.1 911 Carrera S coupe in Nancy, France, photo 2013-09-20; brown metallic (name not stated). Front + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_Carrera_S_-_Flickr_-_Alexandre_Pr%C3%A9vot_(1).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Porsche_991_Carrera_S_-_Flickr_-_Alexandre_Pr%C3%A9vot_%281%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "photo 2013 -> 991.1",
+      "front apron DRL strip + 2-slat side intakes (991.1)",
+      "stock 20-inch Carrera S wheels"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "10-front.jpg",
+    "view": "front",
+    "description": "991.1 911 Carrera S coupe, straight-on front view, Nancy, France, 2012-09-09; grey metallic (same car as the side-left photo).",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(7963673160).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Porsche_911_Carrera_S_%287963673160%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "991.1 front: wide LED DRL/indicator strips above the two side intakes, central intake below plate",
+      "bi-xenon headlights (no 4-point LED DRL)",
+      "front lid without the 992's recessed centre",
+      "camera centred on car axis"
+    ],
+    "tracing": "front",
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "11-front.jpg",
+    "view": "front",
+    "description": "Base 911 Carrera (991.1) coupe, straight-on front at Tokyo Motor Show, Dec 2011; silver metallic.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TOKYO_MOTOR_SHOW_2011_109_(6461088267).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/TOKYO_MOTOR_SHOW_2011_109_%286461088267%29.jpg",
+    "author": "TAKA@P.P.R.S",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "'911 Carrera' plate, Dec 2011 -> 991.1",
+      "991.1 front apron and DRL strips",
+      "slightly elevated camera"
+    ],
+    "size": [
+      1920,
+      1275
+    ]
+  },
+  {
+    "file": "12-rear.jpg",
+    "view": "rear",
+    "description": "Base 911 Carrera (991.1) coupe, straight-on rear at IAA Frankfurt 2011 world premiere; silver metallic.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_silver_IAA_rear.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Porsche_991_silver_IAA_rear.jpg",
+    "author": "Abehn",
+    "license": "Public domain (PD-self; also dual-licensed CC BY-SA 3.0)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "verified_features": [
+      "engine-lid grille with 3 transverse slats + centre third brake light (991.1; 991.2 has longitudinal ribs)",
+      "slim separate taillights, no full-width light bar (rear-drive model)",
+      "single oval tailpipe each side (base Carrera)",
+      "'PORSCHE' lettering + '911 Carrera' script"
+    ],
+    "tracing": "rear",
+    "size": [
+      1280,
+      853
+    ]
+  },
+  {
+    "file": "13-rear.jpg",
+    "view": "rear",
+    "description": "991.1 911 Carrera coupe (MY2012), rear view with lights on, London, 2011-12-29; black.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_Porsche_Carrera_2012_(6595739669).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Porsche_Porsche_Carrera_2012_%286595739669%29.jpg",
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "photo Dec 2011 -> 991.1",
+      "3 transverse engine-lid louvres",
+      "'911 Carrera' badge, oval single tailpipes",
+      "slim illuminated taillights (pre-facelift graphic)"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "14-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "Official Porsche photo: 911 Carrera coupe, type 991 (991.1), MY2012, red; rear three-quarter showing rear + car's LEFT flank. Native 1000 px.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/7.-Generation-Porsche-911,-(991),-2011-2019.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=250536&w=1000&h=634&crop=0&public=1&cs=7e8cf49000053546",
+    "author": "Porsche AG (60 Years of Porsche 911 press kit, gallery '60 Years of Porsche 911 - Generations')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption: 2012, 911 Carrera Coupé, Typ 991",
+      "3 transverse engine-lid louvres",
+      "slim taillights, oval single tailpipes, '911 Carrera' script"
+    ],
+    "note": "Press plate S-GO 4020 was reused by Porsche on the 2015 991.2 launch car; this image was checked visually as 991.1 (two-slat intakes with wide DRL bar / three transverse engine-lid slats) and is captioned 2012 by Porsche.",
+    "size": [
+      1000,
+      634
+    ]
+  },
+  {
+    "file": "15-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "991.1 911 Carrera S coupe at Rétromobile Paris, Feb 2012; silver metallic. Rear + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_003.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_003.jpg",
+    "author": "Thesupermat",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "Feb 2012 -> 991.1",
+      "transverse engine-lid louvres",
+      "twin round tailpipes each side (Carrera S)",
+      "slim taillights"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "16-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Same 991.1 911 Carrera S coupe at Rétromobile Paris, Feb 2012; silver metallic. Rear + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_004.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_004.jpg",
+    "author": "Thesupermat",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "transverse engine-lid louvres",
+      "slim 991.1 taillights",
+      "door handle with recess panel"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "17-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "991.1 911 Carrera S coupe at IAA Frankfurt 2011; dark blue metallic. Rear + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(6146762685).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Porsche_911_Carrera_S_%286146762685%29.jpg",
+    "author": "Autoviva",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "verified_features": [
+      "IAA 2011 premiere car",
+      "slim taillights, '911 Carrera S' script, quad tailpipes",
+      "wide rear haunches of 991 coupe"
+    ],
+    "size": [
+      1920,
+      1285
+    ]
+  },
+  {
+    "file": "18-top.jpg",
+    "view": "top",
+    "description": "991.1 911 Carrera S coupe photographed from high above (front-top view), 2012-04-19 (location not stated); grey metallic.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Porsche_911_Carrera_S_-_Flickr_-_Alexandre_Pr%C3%A9vot_%283%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "2012 -> 991.1",
+      "plan view of front lid, headlights and front apron DRL strips",
+      "not orthographic (perspective from a balcony)"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "19-top.jpg",
+    "view": "top",
+    "description": "991.1 911 coupe (Commons title: 911 Carrera; rear badge shows only '911', sunroof) photographed from high above, rear-top view, 2012-04-20; silver metallic.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_(7266824180).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Porsche_911_Carrera_%287266824180%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "2012 -> 991.1",
+      "engine-lid grille with transverse slats and centre brake light, seen from above",
+      "slim taillights, quad round tailpipes",
+      "plan shape of roof, rear screen and rear haunches (perspective, not orthographic)"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "20-detail-headlight.jpg",
+    "view": "detail-headlight",
+    "description": "Headlight close-up of a 2013 911 Carrera S (991.1) at the LA Auto Show, Nov 2012; red.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2013_Porsche_911_Carrera_S_(8234401130).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/2013_Porsche_911_Carrera_S_%288234401130%29.jpg",
+    "author": "steve lyon from los angeles, ca, usa",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "991.1 bi-xenon headlight: projector + separate lower lamp, no 4-point LED signature",
+      "amber side marker below headlight (US-spec)"
+    ],
+    "size": [
+      1920,
+      1275
+    ]
+  },
+  {
+    "file": "21-detail-taillight.jpg",
+    "view": "detail-taillight",
+    "description": "Crop (made for this research, 590x330 px) of the right taillight from the Tokyo 2011 base 911 Carrera (991.1) photo above; silver metallic.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche911(991)rear.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Porsche911%28991%29rear.JPG",
+    "author": "Missile shot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "991.1 slim taillight with horizontal LED light band",
+      "no 991.2 four-point brake light, no full-width light bar"
+    ],
+    "note": "Derived crop of the Commons file; same license/attribution.",
+    "size": [
+      590,
+      330
+    ]
+  },
+  {
+    "file": "22-detail-engine-lid.jpg",
+    "view": "detail-engine-lid",
+    "description": "High rear view of a base 911 Carrera (991.1) at Tokyo Motor Show, Dec 2011; silver metallic. Shows the engine-lid grille, spoiler lip, lettering and apron.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche911(991)rear.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Porsche911%28991%29rear.JPG",
+    "author": "Missile shot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "engine-lid grille with 3 transverse slats and third brake light between them (991.1 signature)",
+      "slim taillights",
+      "single oval tailpipe each side (base Carrera)",
+      "rear reflectors in lower apron"
+    ],
+    "size": [
+      1920,
+      1572
+    ]
+  },
+  {
+    "file": "23-detail-wheel.jpg",
+    "view": "detail-wheel",
+    "description": "Rear wheel close-up of a 991.1 911 Carrera S at Rennsport Reunion IV, Oct 2011; silver car. 20-inch 10-spoke Carrera S wheel, red caliper.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:New_2012_911_(6282856299).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/New_2012_911_%286282856299%29.jpg",
+    "author": "Bill Abbott",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "Oct 2011 launch display car -> 991.1",
+      "20-inch 10-spoke Carrera S wheel, red caliper, cross-drilled disc",
+      "edge of slim taillight visible top-left"
+    ],
+    "size": [
+      1920,
+      1285
+    ]
+  },
+  {
+    "file": "24-interior.jpg",
+    "view": "interior",
+    "description": "Cockpit of a 991.1 911 Carrera S at IAA Frankfurt 2011: sloping centre console, 5-dial cluster, grey leather.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(6147313924).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Porsche_911_Carrera_S_%286147313924%29.jpg",
+    "author": "Autoviva",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "verified_features": [
+      "991.1 interior: rising centre console with many buttons, PDK selector, 3-spoke wheel",
+      "IAA 2011 premiere car"
+    ],
+    "size": [
+      1920,
+      1285
+    ]
+  },
+  {
+    "file": "25-other.jpg",
+    "view": "other",
+    "description": "Front apron/headlight detail of a 991.1 911 at the international press launch, Santa Barbara CA, Jan 2012; Guards Red (colour stated by uploader).",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_front_detail.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Porsche_911_front_detail.jpg",
+    "author": "User:Edgy01 (Dan Lindsay)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "991.1 front apron: wide LED DRL/indicator bar above the side intake",
+      "side intake with 2 horizontal slats",
+      "S-GO press registration (Porsche press car)"
+    ],
+    "size": [
+      1920,
+      1278
+    ]
+  }
+]

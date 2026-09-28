@@ -1,0 +1,78 @@
+{
+ "side": {
+  "image": "research/blueprints/03-911-lwb-1969/tbp-68304_porsche-911e-1968_autocar-top-side-dims.png",
+  "wheelF": [
+   268.9,
+   1149.6
+  ],
+  "wheelR": [
+   905.9,
+   1148.1
+  ],
+  "tipF": 25.3,
+  "crop": [
+   0,
+   820,
+   1203,
+   1251
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/03-911-lwb-1969/01-side-right.jpg",
+  "wheelF": [
+   1466.3,
+   976.4
+  ],
+  "wheelR": [
+   629.1,
+   982.5
+  ],
+  "tipF": 1786.4,
+  "crop": [
+   230,
+   560,
+   1900,
+   1110
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/03-911-lwb-1969/tbp-68304_porsche-911e-1968_autocar-top-side-dims.png",
+  "tipF": 25.3,
+  "tipR": 1180.4,
+  "centreY": 514,
+  "crop": [
+   0,
+   250,
+   1203,
+   780
+  ]
+ },
+ "front": {
+  "image": "research/blueprints/03-911-lwb-1969/tbp-68305_porsche-911s-1970_rally-3view-colour.png",
+  "centreX": 134.0,
+  "groundY": 199,
+  "left": 6,
+  "right": 262,
+  "width": 1.61,
+  "crop": [
+   0,
+   0,
+   300,
+   205
+  ]
+ },
+ "rear": {
+  "image": "research/blueprints/03-911-lwb-1969/tbp-68305_porsche-911s-1970_rally-3view-colour.png",
+  "centreX": 503.5,
+  "groundY": 204,
+  "left": 375,
+  "right": 632,
+  "width": 1.61,
+  "crop": [
+   340,
+   0,
+   637,
+   210
+  ]
+ }
+}

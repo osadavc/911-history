@@ -1,0 +1,45 @@
+{
+ "side": {
+  "image": "research/blueprints/10-993-1994/tbp-92535_porsche-911-carrera-1997_4view.png",
+  "wheelF": [
+   837.24,
+   169.22
+  ],
+  "wheelR": [
+   475.76,
+   169.22
+  ],
+  "tipF": 986.8,
+  "crop": [
+   300,
+   0,
+   988,
+   222
+  ]
+ },
+ "top": {
+  "image": "research/traces/10-993-1994/ref-top.png",
+  "tipF": 679.3,
+  "tipR": 0.0,
+  "centreY": 154.20637570343962,
+  "crop": null
+ },
+ "front": {
+  "image": "research/traces/10-993-1994/ref-front.png",
+  "centreX": 159.5,
+  "groundY": 214.45302593659943,
+  "left": 22.80000000000001,
+  "right": 296.2,
+  "width": 1.735,
+  "crop": null
+ },
+ "rear": {
+  "image": "research/traces/10-993-1994/ref-rear.png",
+  "centreX": 155.2,
+  "groundY": 217.24495677233432,
+  "left": 12.899999999999977,
+  "right": 297.5,
+  "width": 1.735,
+  "crop": null
+ }
+}

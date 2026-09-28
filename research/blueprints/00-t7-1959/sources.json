@@ -1,0 +1,35 @@
+{
+  "stop_id": "00-t7-1959",
+  "coverage_summary": "NO orthographic drawing of the Type 754 T7 found (the-blueprints.com, drawingdatabase.com, getoutlines.com, carblueprints.info and Wikimedia Commons searched; Commons only has photographs of the museum car, e.g. 'File:Porsche Typ 754 1959 T7 RSideFront PorscheM 9June2013 (14825880219).jpg' and 'File:Porsche 754 T7 Prototype 1959 backleft 2010-03-12 A.jpg').",
+  "closest_substitute": "Closest available orthographic reference = the 1963 Porsche 901 side elevation (copied here as closest_*) plus the SWB 911 4-view/factory body drawings in ../02-911-swb-1964/. The T7 differs visibly (fastback roof but different glasshouse, bumpers, lights and nose) - use T7 photos for those details.",
+  "blueprints": [
+    {
+      "file": "closest_tbp-64510_porsche-901-1963_side.png",
+      "rank": "closest-substitute",
+      "views_included": [
+        "side (left, car facing right)"
+      ],
+      "resolution_px": "1513x477",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/64510/view/porsche_901_1963/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-901-1963.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Porsche 901 (1963) side elevation - NOT the T7.",
+      "accuracy_notes": "See ../01-901-1963/sources.json (measured WB/L 0.542 vs 0.531 for 2211/4163 mm).",
+      "bytes": 20905
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": null,
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

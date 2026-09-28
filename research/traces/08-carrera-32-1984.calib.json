@@ -1,0 +1,66 @@
+{
+ "side": {
+  "image": "research/blueprints/08-carrera-32-1984/vec-1941_porsche-911-carrera-1985_4view-dims-watermarked.jpg",
+  "wheelF": [
+   230.5,
+   280.5
+  ],
+  "wheelR": [
+   622.5,
+   280.5
+  ],
+  "tipF": 69.69718309859152,
+  "crop": [
+   55,
+   90,
+   830,
+   345
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/08-carrera-32-1984/03-side-left.jpg",
+  "wheelF": [
+   740.5,
+   653.5
+  ],
+  "wheelR": [
+   1409.0,
+   654.5
+  ],
+  "tipF": 466.2737676056338,
+  "crop": [
+   470,
+   330,
+   1760,
+   760
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/08-carrera-32-1984/vec-1941_porsche-911-carrera-1985_4view-dims-watermarked.jpg",
+  "tipF": 68,
+  "tipR": 797,
+  "centreY": 628.5,
+  "crop": [
+   50,
+   440,
+   830,
+   810
+  ]
+ },
+ "front": {
+  "image": "research/traces/08-carrera-32-1984/ref-front.png",
+  "centreX": 231.5,
+  "groundY": 352.31161945159823,
+  "left": 23.0,
+  "right": 440.0,
+  "width": 1.61
+ },
+ "rear": {
+  "image": "research/traces/08-carrera-32-1984/ref-rear.png",
+  "centreX": 173.0,
+  "groundY": 240.21487696379302,
+  "left": 30.0,
+  "right": 316.0,
+  "width": 1.652
+ }
+}

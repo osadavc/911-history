@@ -1,0 +1,99 @@
+{
+  "stop_id": "12-996-2-2002",
+  "coverage_summary": "Only a colour 3-view of the Carrera 4S (wide body) and cutaways found for the 996.2; no top view -> use the 996.1 top view (../11) with the 996.2 front/rear.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-68297_porsche-911-carrera-4s-2003_3view-colour.png",
+      "rank": "primary",
+      "views_included": [
+        "front",
+        "rear",
+        "side"
+      ],
+      "resolution_px": "1135x698",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68297/view/porsche_911_carrara_4s_2003/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrara-4s-2003.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "996.2 Carrera 4S (Turbo-width body, full-width red rear reflector band, Turbo-style headlamps, 5-spoke wheels). Base Carrera is narrower at the rear and lacks the reflector band.",
+      "measured_wb_over_len": 0.533,
+      "accuracy_notes": "Measured 0.533 (auto, verified) vs Wikipedia 996 C4S/Turbo 92.6 in / 174.6 in (2352/4435 mm) = 0.530 (+0.5%) https://en.wikipedia.org/wiki/Porsche_911_(996).",
+      "bytes": 679441,
+      "ratio_check_vs_official": "measured WB/L 0.533 vs official 2350/4430 mm = 0.530 -> +0.5% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-8819_porsche-911-targa-996-2003_cutaway-side.gif",
+      "rank": "secondary",
+      "views_included": [
+        "side (cutaway)"
+      ],
+      "resolution_px": "1100x344",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/8819/view/porsche_911_targa_996/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-targa-2003.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "996.2 Targa cutaway (glass roof).",
+      "accuracy_notes": "Silhouette/front-bumper cross-check only.",
+      "bytes": 45973
+    },
+    {
+      "file": "vec-688_porsche-911-turbo-996-2002_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/688/porsche_911_turbo_996/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_turbo_996_2001.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "996 Turbo - shares the headlamp shape adopted by the 996.2 Carrera, but body/apron/wing/side intakes differ.",
+      "labeled_dims": "wheelbase 2352, length 4435, width 1829 (mm)",
+      "accuracy_notes": "Closest-substitute for headlamp/plan shape only.",
+      "bytes": 443767
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5305,
+    "dims": "2350/4430 mm",
+    "sources": [
+      "https://web.archive.org/web/20030724115326/http://www3.porsche.com:80/english/usa/911/c2/technicalspecifications/default.htm",
+      "https://web.archive.org/web/20150324053404/http://press.porsche.com:80/archive/products/press_kits/press_kits_2003/PDF/46-47_911_car_cp_cabspecs.pdf",
+      "https://web.archive.org/web/20160706001137/http://press.porsche.com:80/archive/products/press_kits/press_kits_2004/PDF/new/12-13_Carrera_Specs.pdf",
+      "https://www.excellence-mag.com/resources/specs/63"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": {
+    "checked_without_orthographic_drawings": [
+      "https://web.archive.org/web/20091227041946/http://files.porsche.com/all/media/pdf/Catalogue_911_997_MY10_EN.pdf",
+      "https://web.archive.org/web/20101128132732/http://files.porsche.com:80/filestore.aspx/default.pdf?pool=international&type=download&id=997-2nd-c2-catalogue&lang=none&filetype=default&version=2",
+      "https://web.archive.org/web/20111015154826/http://files.porsche.com/filestore.aspx/default.pdf?pool=usa&type=download&id=997-2nd-c2-catalogue&lang=none&filetype=default&version=4",
+      "https://web.archive.org/web/20071130055840/http://www.porsche.com/all/media/pdf/Catalogue_911_997_MY08_PCGB.pdf",
+      "https://web.archive.org/web/20071203210816/http://www.porsche.com/filestore.aspx/default.pdf?pool=japan&type=download&id=download-911-all&lang=jp&filetype=default",
+      "https://web.archive.org/web/20110928143539/http://files.porsche.com/filestore.aspx/default.pdf?pool=japan&type=download&id=porscheservice-ownersmanualdownload-911carrera&lang=jp&filetype=default&version=3",
+      "https://web.archive.org/web/20150324053349/http://press.porsche.com:80/archive/products/press_kits/press_kits_2002/PDF/34-35_CarreraFastFacts.pdf",
+      "https://web.archive.org/web/20151004064215/http://press.porsche.com/archive/products/press_kits/press_kits_2002/PDF/13-14_911C4SSpecs.pdf",
+      "https://web.archive.org/web/20150324053404/http://press.porsche.com:80/archive/products/press_kits/press_kits_2003/PDF/46-47_911_car_cp_cabspecs.pdf",
+      "https://web.archive.org/web/20160706001137/http://press.porsche.com:80/archive/products/press_kits/press_kits_2004/PDF/new/12-13_Carrera_Specs.pdf",
+      "https://web.archive.org/web/20150122124455/http://press.porsche.com:80/archive/products/press_kits/press_kits_2005/pdf/carrera_carreras/911_carrera_specs.pdf",
+      "https://web.archive.org/web/20150105235627/http://press.porsche.com:80/archive/products/press_kits/press_kits_2005/pdf/carrera_carreras/911_carrera_release.pdf",
+      "https://newsroom.porsche.com/dam/jcr:3b30f3aa-1d07-42b4-9e2f-9806803cc0fd/06_911er_Generationen_997_EN.jpg"
+    ],
+    "note": "No Porsche dimension drawings (side/front/top with measurements) were found for 996.2, 997.1 or 997.2 in any freely reachable official document; catalogue tech-data pages are tables only. Only low-res straight-on brochure photos of the 997.2 were saved (14-997-2-2009/brochure_*). 996.2/997.1 official 3/4 press photos are on netcarshow (URLs in sources) but are not orthographic."
+  },
+  "updated": "2026-09-27"
+}

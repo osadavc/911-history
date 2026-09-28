@@ -1,0 +1,169 @@
+{
+  "stop_id": "17-992-1-2019",
+  "coverage_summary": "Vendor (watermarked) 4-view with dims for the 992.1 Carrera 4S; GTS and Aerokit variants as secondary. Official Porsche dimension drawings: see any official_* files added from press material.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-17529_porsche-911-carrera-4s-992-2019_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/17529/porsche_911_carrera_s_992/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_s_992_2019.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview title reads 'Porsche 911 Carrera 4S 992 (2019)' (served on the Carrera S 992 product page, identical for MY2019-23): wide body, full-width rear light bar, flush door handles, staggered wheels.",
+      "labeled_dims": "wheelbase 2450, length 4519, width 2024 (incl. mirrors), height 1300 (mm)",
+      "measured_wb_over_len": 0.538,
+      "accuracy_notes": "Measured 0.538 (auto, verified) vs printed 2450/4519 = 0.542 (-0.7%). Wikipedia 992: 2450 / 4519-4535 mm https://en.wikipedia.org/wiki/Porsche_911_(992).",
+      "bytes": 440712,
+      "ratio_check_vs_official": "measured WB/L 0.538 vs official 2450/4519 mm = 0.542 -> -0.8% : matches (within 1%)"
+    },
+    {
+      "file": "vec-22616_porsche-911-carrera-gts-992-2021_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/22616/porsche_911_carrera_gts_992/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_gts_992_2021.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "992.1 Carrera GTS (black trim, centre-lock wheels).",
+      "labeled_dims": "wheelbase 2450, length 4528, width 1852, height 1284 (mm)",
+      "accuracy_notes": "Not measured.",
+      "bytes": 425524
+    },
+    {
+      "file": "vec-19430_porsche-911-carrera-aerokit-992_4view-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/19430/porsche_911_carrera_aerokit_992/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_aerokit_992_2019.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "992.1 Carrera with optional Aerokit (fixed rear wing, front lip) - NOT standard.",
+      "accuracy_notes": "Not measured.",
+      "bytes": 429345
+    },
+    {
+      "file": "official_992-1_TWS-body_side_dimensions.jpg",
+      "views_included": [
+        "side (with interior package figure) - dimensioned"
+      ],
+      "source_page": "https://presskit.porsche.de/workshops/en/porsche-new-911/downloads.html (Technology Workshop 'The new 911 Carrera - Body and manufacturing', slide 8 'Dimensions'; retrieved via Wayback snapshot 2024-11-27)",
+      "image_url": "https://presskit.porsche.de/workshops/en/porsche-new-911/downloads.html?file=daten/assets/workshops-porsche-new-911/documents/presentation/en/TWS_992_Body_EN.pdf (retrieved via http://web.archive.org/web/2024id_/ snapshot)",
+      "license_notes": "Porsche AG press/workshop material for journalistic use; embedded JPEG extracted at native 1820x652 px",
+      "accuracy_notes": "Official Porsche line drawing with dimensions in mm, 992 (red) vs 991.2 (grey): length 4519/4499, wheelbase 2450/2450, height 1298/1294, front tyre dia 671/671, rear tyre dia 715/690 (so this is the Carrera S on 21-inch rears), front axle to heel point 432. NOT TO SCALE: measured wheelbase 872 px vs length ~1527 px gives L/WB 1.75 while true 4519/2450 = 1.84 (drawing traced from a perspective view). Use numbers, not pixels.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1820x652",
+      "measured_wb_over_len": 0.574,
+      "measurement_note": "read from the drawing's own dimension lines (2450 -> 870 px, 4519 -> 1517 px): the artwork is a SCHEMATIC, NOT TO SCALE - use the printed numbers, not the picture proportions",
+      "ratio_check_vs_official": "measured WB/L 0.574 vs official 2450/4519 mm = 0.542 -> +5.9% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "official_992-1_TWS-body_slide8_dimensions.png",
+      "views_included": [
+        "side - full slide render"
+      ],
+      "source_page": "same as above",
+      "image_url": "https://presskit.porsche.de/workshops/en/porsche-new-911/downloads.html?file=daten/assets/workshops-porsche-new-911/documents/presentation/en/TWS_992_Body_EN.pdf (retrieved via http://web.archive.org/web/2024id_/ snapshot)",
+      "license_notes": "Porsche AG workshop slide rendered at 2x (1928x1085)",
+      "accuracy_notes": "Same drawing, full slide context",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1928x1085",
+      "measured_wb_over_len": 0.574,
+      "measurement_note": "same artwork as the side_dimensions crop - schematic, not to scale",
+      "ratio_check_vs_official": "measured WB/L 0.574 vs official 2450/4519 mm = 0.542 -> +5.9% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "official_render_992-1_carrera_side-right_3840.jpg",
+      "views_included": [
+        "side, right (studio render, standard 19/20 Carrera wheels)"
+      ],
+      "source_page": "http://web.archive.org/web/20200227225631/https://www.porsche.com/uk/models/911/911-carrera-models/",
+      "image_url": "https://files.porsche.com/filestore/image/multimedia/none/992-c2-technicalspecs/normal/ae5c8230-999a-11e9-80c4-005056bbdc38/porsche-normal.jpg",
+      "license_notes": "Official porsche.com image ('992-c2-technicalspecs'), 3840x2160; copyright Porsche AG",
+      "accuracy_notes": "Near-side-on render with perspective: image L/WB = 3211/1826 px = 1.759 vs true 4519/2450 = 1.844 (~4.6 % shortening of the ends). Hub-cap centres at x=956 / 2782 px. Best available official 992.1 base-Carrera side image; do not scale-measure without correction.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "3840x2160"
+    },
+    {
+      "file": "official_render_992-1_carrera_side-right_1920.png",
+      "views_included": [
+        "side, right (transparent-background render)"
+      ],
+      "source_page": "http://web.archive.org/web/20200227225631/https://www.porsche.com/uk/models/911/911-carrera-models/",
+      "image_url": "https://files.porsche.com/filestore/image/multimedia/none/992-c2-modelimage-sideshot/model/5df3abc0-999a-11e9-80c4-005056bbdc38/porsche-model.png",
+      "license_notes": "Official porsche.com model image ('992-c2-modelimage-sideshot'), 1920x1080 RGBA",
+      "accuracy_notes": "Same camera as above: body 81-1836 px, hubs 463/1458 px -> L/WB 1.763 vs 1.844 true. Transparent background makes silhouette extraction easy.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1920x1080"
+    },
+    {
+      "file": "official_photo_992-1_carrera_rear.jpg",
+      "views_included": [
+        "rear (straight-on studio photo)"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/2019/products/porsche-911-carrera-coupe-cabriolet-eighth-generation-18248.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/ee8e5bff-4099-4151-979c-d1ad797d674f.zip (media/Images/gallery_1/img_4.jpg)",
+      "license_notes": "Porsche newsroom press image (journalistic use), 3300x1860",
+      "accuracy_notes": "Straight-on rear with perspective; shows full-width light bar, black louvres + '11' brake light, single oval tailpipe each side, plate between tailpipes.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "3300x1860"
+    },
+    {
+      "file": "official_photo_992-1_carrera_top.jpg",
+      "views_included": [
+        "top (overhead studio photo)"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/2019/products/porsche-911-carrera-coupe-cabriolet-eighth-generation-18248.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/ee8e5bff-4099-4151-979c-d1ad797d674f.zip (media/Images/gallery_1/img_11.jpg)",
+      "license_notes": "Porsche newsroom press image, 3300x1860",
+      "accuracy_notes": "Overhead with visible perspective (car slightly rotated); plan-view reference for bonnet recess, mirrors, fuel flap (right front wing).",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "3300x1860"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5422,
+    "dims": "2450/4519 mm",
+    "sources": [
+      "http://web.archive.org/web/20200227225631/https://www.porsche.com/uk/models/911/911-carrera-models/",
+      "http://www.auto-brochures.com/makes/Porsche/911/992/Porsche_US%20911_2021.pdf",
+      "https://de.wikipedia.org/wiki/Porsche_992",
+      "https://presskit.porsche.de/workshops/en/porsche-new-911/downloads.html?file=daten/assets/workshops-porsche-new-911/documents/presentation/en/TWS_992_Body_EN.pdf (retrieved via http://web.archive.org/web/2024id_/ snapshot)"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

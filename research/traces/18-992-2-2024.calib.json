@@ -1,0 +1,60 @@
+{
+ "side": {
+  "image": "research/blueprints/18-992-2-2024/vec-30945_porsche-911-carrera-s-2025_5view-dims-watermarked.jpg",
+  "wheelF": [
+   222.28,
+   240.7
+  ],
+  "wheelR": [
+   631.64,
+   240.49
+  ],
+  "tipF": 47.591885714285695,
+  "crop": [
+   30,
+   70,
+   850,
+   310
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/18-992-2-2024/vec-30945_porsche-911-carrera-s-2025_5view-dims-watermarked.jpg",
+  "tipF": 45.0,
+  "tipR": 813.0,
+  "centreY": 806.0,
+  "crop": [
+   30,
+   620,
+   850,
+   990
+  ]
+ },
+ "front": {
+  "image": "research/blueprints/18-992-2-2024/vec-30945_porsche-911-carrera-s-2025_5view-dims-watermarked.jpg",
+  "centreX": 1043.0,
+  "groundY": 299.34341252699784,
+  "left": 887,
+  "right": 1199,
+  "width": 1.852,
+  "crop": [
+   860,
+   70,
+   1230,
+   310
+  ]
+ },
+ "rear": {
+  "image": "research/blueprints/18-992-2-2024/vec-30945_porsche-911-carrera-s-2025_5view-dims-watermarked.jpg",
+  "centreX": 1043.0,
+  "groundY": 592.3434125269978,
+  "left": 887,
+  "right": 1199,
+  "width": 1.852,
+  "crop": [
+   860,
+   365,
+   1230,
+   600
+  ]
+ }
+}

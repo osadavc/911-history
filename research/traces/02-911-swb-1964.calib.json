@@ -1,0 +1,50 @@
+{
+ "side": {
+  "image": "research/blueprints/02-911-swb-1964/tbp-40868_porsche-911-1967_factory-body-4view-mm.png",
+  "wheelF": [
+   2066,
+   522.1849676395163
+  ],
+  "wheelR": [
+   2966,
+   522.1849676395163
+  ],
+  "tipF": 1693,
+  "crop": [
+   1650,
+   60,
+   3420,
+   680
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/02-911-swb-1964/tbp-40868_porsche-911-1967_factory-body-4view-mm.png",
+  "tipF": 1693,
+  "tipR": 3387,
+  "centreY": 1014,
+  "crop": [
+   1650,
+   660,
+   3420,
+   1360
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/02-911-swb-1964/01-side-left.jpg",
+  "wheelF": [
+   575,
+   693
+  ],
+  "wheelR": [
+   1418,
+   693
+  ],
+  "tipF": 280,
+  "crop": [
+   240,
+   280,
+   1820,
+   840
+  ]
+ }
+}

@@ -1,0 +1,94 @@
+{
+  "stop_id": "10-993-1994",
+  "coverage_summary": "Good: 4-view line drawing (ratio matches official within 0.5%) + vendor 5-view + 993 Cabriolet 4-view.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-92535_porsche-911-carrera-1997_4view.png",
+      "rank": "primary",
+      "views_included": [
+        "rear",
+        "side",
+        "top",
+        "front"
+      ],
+      "resolution_px": "988x519",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/92535/view/porsche_911_carrera_1997/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-1997.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "993 Carrera coupe line 4-view (5-hole 'Cup'-style wheels, fixed-look engine lid, rear light bar).",
+      "measured_wb_over_len": 0.536,
+      "accuracy_notes": "Manual reading: hubs ~478/~840 px, extremes ~312-985 px -> 0.536 vs Wikipedia 993 89.45 in / 167.7 in (2272/4260 mm) = 0.533 https://en.wikipedia.org/wiki/Porsche_911_(993) -> within ~0.6%.",
+      "bytes": 48420,
+      "ratio_check_vs_official": "measured WB/L 0.536 vs official 2272/4245 mm = 0.535 -> +0.1% : matches (within 1%)"
+    },
+    {
+      "file": "vec-10962_porsche-911-carrera-993-1994_5view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side (L)",
+        "side (R)",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x1112",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/10962/porsche_911_carrera_993/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_993_1993.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 carrera 993 (1994)' colour 5-view.",
+      "labeled_dims": "length 4270, width 1800, height 1310 (mm)",
+      "accuracy_notes": "Printed width 1800 disagrees with Wikipedia 993 coupe width 68.3 in (1735 mm) https://en.wikipedia.org/wiki/Porsche_911_(993) - use shapes, not its numbers.",
+      "bytes": 454924
+    },
+    {
+      "file": "tbp-68296_porsche-911-993-cabriolet_4view.png",
+      "rank": "secondary",
+      "views_included": [
+        "front",
+        "rear",
+        "side",
+        "top"
+      ],
+      "resolution_px": "876x931",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68296/view/porsche_911_carerra_cabriolet_1993/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carerra-cabriolet-1993.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Titled 'Carrera Cabriolet (1993)' but it is a 993 Cabriolet (993 headlamps, 5-spoke wheels, 993 rear) - front/rear/top of the lower body valid for the coupe.",
+      "accuracy_notes": "Not measured.",
+      "bytes": 99941
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/64515/view/porsche_911_993_1995/",
+      "reason": "Side line drawing measures WB/L 0.583 (hubs ~355/~1245 px, extremes ~8-1535 px) vs 2272/4245 = 0.535 official (+9%) - distorted, removed."
+    }
+  ],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5352,
+    "dims": "2272/4245 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_993",
+      "https://www.auto-motor-und-sport.de/marken-modelle/porsche/911/993/technische-daten/",
+      "https://www.excellence-mag.com/resources/specs/312",
+      "https://www.stuttcars.com/porsche-911-1994-1998-sales-brochures/",
+      "https://www.stuttcars.com/wp-content/uploads/2021/05/993-1993.pdf",
+      "https://www.stuttcars.com/wp-content/uploads/2021/05/993-1995.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

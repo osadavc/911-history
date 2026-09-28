@@ -1,0 +1,20 @@
+{
+ "side_photo": {
+  "image": "research/photos/00-t7-1959/01-side-left.jpg",
+  "wheelF": [
+   363.73,
+   1009.56
+  ],
+  "wheelR": [
+   1453.28,
+   1020.14
+  ],
+  "tipF": -47.1,
+  "crop": [
+   0,
+   450,
+   1920,
+   1170
+  ]
+ }
+}

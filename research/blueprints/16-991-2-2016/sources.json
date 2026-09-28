@@ -1,0 +1,84 @@
+{
+  "stop_id": "16-991-2-2016",
+  "coverage_summary": "Excellent: official Porsche dimension drawing (front/rear/side with mm and angles) + matching 3-view line drawing + vendor 4-view (top).",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "dd_porsche-official_911-carrera-s-2016_front-rear-side-mm.gif",
+      "rank": "primary",
+      "views_included": [
+        "front",
+        "rear",
+        "side"
+      ],
+      "resolution_px": "1709x1474",
+      "source_page": "https://drawingdatabase.com/porsche-911-carrera-s-2016/",
+      "image_url": "https://drawingdatabase.com/wp-content/uploads/2016/12/2016_Porsche-911-Carrera-S.gif",
+      "license_notes": "drawingdatabase.com free blueprint image (site states drawings are for reference/3D modelling). Original copyright belongs to the author/publisher of the drawing. Reference only. The drawing itself is Porsche AG press/brochure dimension artwork (Porsche typeface, German decimal points); copyright Porsche AG.",
+      "depicts": "991.2 Carrera S coupe.",
+      "labeled_dims": "length 4499, wheelbase 2450, width 1808-1852 (w/o mirrors), 1978 (with mirrors), height 1294-1298, track F 1541-1543, R 1518-1558, ground clearance 124-129 mm; approach 9.6-10.1 deg, ramp 12.6-13.0 deg, departure 13.8-14.3 deg",
+      "measured_wb_over_len": 0.543,
+      "accuracy_notes": "Measured 0.543 (auto, verified) vs printed 2450/4499 = 0.5446 (-0.3%). Authoritative.",
+      "bytes": 62112,
+      "ratio_check_vs_official": "measured WB/L 0.543 vs official 2450/4499 mm = 0.545 -> -0.3% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-83850_porsche-911-carrera-s-coupe-2015_3view.png",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "1455x885",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/83850/view/porsche_911_carrera_s_coupe_2015/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-s-coupe-2015.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "991.2 Carrera S coupe line 3-view.",
+      "measured_wb_over_len": 0.543,
+      "accuracy_notes": "Measured 0.543 vs 0.5446 (-0.2%).",
+      "bytes": 100755,
+      "ratio_check_vs_official": "measured WB/L 0.543 vs official 2450/4499 mm = 0.545 -> -0.3% : matches (within 1%)"
+    },
+    {
+      "file": "vec-12233_porsche-911-carrera-s-991-2-2016_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/12233/porsche_911_carrera_s_9912/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_s_9912_2015.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 Carrera (S) 991 (2016)' - the only top view found for the 991.2.",
+      "labeled_dims": "wheelbase 2450, length 4499, width 1808, height 1294 (mm)",
+      "accuracy_notes": "Printed dims equal the official drawing.",
+      "bytes": 432243
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5446,
+    "dims": "2450/4499 mm",
+    "sources": [
+      "http://web.archive.org/web/20180923124536/https://www.porsche.com/international/models/911/911-carrera-models/911-carrera/featuresandspecs/",
+      "http://www.auto-brochures.com/makes/Porsche/911/Porsche_int%20911_2016-1.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

@@ -1,0 +1,66 @@
+{
+ "side": {
+  "image": "research/traces/05-g-series-1974/ref-side.png",
+  "wheelF": [
+   327.4,
+   436.48150594451783
+  ],
+  "wheelR": [
+   1069.4,
+   436.48150594451783
+  ],
+  "tipF": 22.88921180096861,
+  "crop": [
+   0,
+   50,
+   1445,
+   560
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/05-g-series-1974/01-side-left.jpg",
+  "wheelF": [
+   564.5,
+   605.0823634226789
+  ],
+  "wheelR": [
+   1425.5,
+   603.0823634226789
+  ],
+  "tipF": 211.16186450316565,
+  "crop": [
+   200,
+   200,
+   1820,
+   760
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/07-911-sc-1978/vec-30946_porsche-911sc_4view-dims-watermarked.jpg",
+  "tipF": 84,
+  "tipR": 806,
+  "centreY": 629.0,
+  "crop": [
+   60,
+   440,
+   850,
+   810
+  ]
+ },
+ "front": {
+  "image": "research/traces/05-g-series-1974/ref-front.png",
+  "centreX": 303.5,
+  "groundY": 495.29908598510485,
+  "left": 30.988151658767777,
+  "right": 576.0118483412323,
+  "width": 1.61
+ },
+ "rear": {
+  "image": "research/traces/05-g-series-1974/ref-rear.png",
+  "centreX": 328.0,
+  "groundY": 498.4133925521012,
+  "left": 52.97437649470447,
+  "right": 603.0256235052955,
+  "width": 1.61
+ }
+}

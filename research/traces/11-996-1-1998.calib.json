@@ -1,0 +1,54 @@
+{
+ "side": {
+  "image": "research/traces/11-996-1-1998/ref-side.png",
+  "wheelF": [
+   332.9931378665002,
+   323.3142857142857
+  ],
+  "wheelR": [
+   1004.4217092950718,
+   323.3142857142857
+  ],
+  "tipF": 42.857142857142854
+ },
+ "top": {
+  "image": "research/traces/11-996-1-1998/ref-top.png",
+  "tipF": 42.857142857142854,
+  "tipR": 1308.5714285714287,
+  "centreY": 300.0
+ },
+ "front": {
+  "image": "research/traces/11-996-1-1998/ref-front.png",
+  "centreX": 300.0,
+  "groundY": 414.2857142857143,
+  "left": 47.85714285714288,
+  "right": 552.1428571428571,
+  "width": 1.765
+ },
+ "rear": {
+  "image": "research/traces/11-996-1-1998/ref-rear.png",
+  "centreX": 300.0,
+  "groundY": 414.2857142857143,
+  "left": 47.85714285714288,
+  "right": 552.1428571428571,
+  "width": 1.765
+ },
+ "side_photo": {
+  "image": "research/photos/11-996-1-1998/01-side-left.jpg",
+  "wheelF": [
+   492.8,
+   542.8
+  ],
+  "wheelR": [
+   1356.0,
+   548.2
+  ],
+  "tipF": 119.8,
+  "crop": [
+   100,
+   170,
+   1780,
+   680
+  ]
+ }
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "file": "01-side-left.jpg",
+    "view": "side-left",
+    "description": "991.2 911 Carrera (base) coupe, Graphite Blue Metallic (colour stated by photographer), photographed 2023-10-16 in South Korea. Car's LEFT flank, nose to image-left; near-orthographic profile, camera slightly above hub height; optional sunroof and 20-inch Carrera Classic-style wheels.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(18).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2818%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "door handle integrated flush without separate recess panel (991.2)",
+      "small air duct in rear apron behind rear wheel + reflector strip wrapping round the hip (991.2 additions)",
+      "slim 991.2 DRL bar above the 3-slat front side intake",
+      "991 wheelbase/roofline; wheels appear as circles"
+    ],
+    "tracing": "side",
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "02-side-right.jpg",
+    "view": "side-right",
+    "description": "991.2 911 Carrera (base) coupe at the São Paulo motor show (Salão do Automóvel), Nov 2016; Graphite Blue Metallic-like blue-grey (colour not stated). Car's RIGHT flank, nose to image-right; slightly front-biased profile (not fully orthographic). Only 960 px wide; photographer watermark bottom-right.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sal%C3%A3o_do_Autom%C3%B3vel_2016_(25332436249).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sal%C3%A3o_do_Autom%C3%B3vel_2016_%2825332436249%29.jpg",
+    "author": "Paulo Guereta from São Paulo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "verified_features": [
+      "Nov 2016 show car -> 991.2 era",
+      "flush door handle without recess panel (991.2)",
+      "fuel-filler flap on right front wing",
+      "3-slat front side intake with slim DRL above",
+      "20-inch 5-twin-spoke wheels"
+    ],
+    "size": [
+      960,
+      640
+    ]
+  },
+  {
+    "file": "03-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Same Graphite Blue Metallic 991.2 911 Carrera coupe (2023-10-16, South Korea), front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(7).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%287%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 front apron: 3 horizontal slats in each side intake, slim LED DRL strip above",
+      "LED headlights with 4-point DRL (991.2 option)",
+      "flush door handle"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "04-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "991.2 911 Carrera S coupe at its world premiere, IAA Frankfurt, 16 Sept 2015; silver metallic. Front + car's LEFT flank; a second car's rear visible top-left.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_S_(991)_facelift_front.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Porsche_911_Carrera_S_%28991%29_facelift_front.jpg",
+    "author": "Rutger van der Maar",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "verified_features": [
+      "IAA 2015 = 991.2 launch show",
+      "3-slat side intakes with slim DRL",
+      "'911 Carrera S' plate",
+      "flush door handle"
+    ],
+    "size": [
+      1920,
+      1354
+    ]
+  },
+  {
+    "file": "05-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "2019 911 Carrera (991.2) coupe in Agate Grey Metallic (colour stated by photographer), US marina, 2022-08-27. Front + car's LEFT flank; 19-inch twin-spoke wheels.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2019_Porsche_911_Carrera_(991_II)_Coup%C3%A9_in_Agate_Grey_Metallic,_front_left.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/2019_Porsche_911_Carrera_%28991_II%29_Coup%C3%A9_in_Agate_Grey_Metallic%2C_front_left.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "model year 2019 = last 991.2",
+      "3-slat side intake + slim DRL",
+      "flush door handle",
+      "bi-xenon headlights (standard)"
+    ],
+    "size": [
+      1920,
+      1132
+    ]
+  },
+  {
+    "file": "06-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "2018 911 Carrera 4S (991.2) coupe in Carmine Red (colour stated by photographer), New Castle, Pennsylvania, 2023-08-27. Wide-body all-wheel-drive model. Front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_Carrera_4S,_front_left,_08-27-2023.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2018_Porsche_911_Carrera_4S%2C_front_left%2C_08-27-2023.jpg",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "MY2018 991.2",
+      "3-slat side intakes, slim DRL",
+      "flush door handle",
+      "wider rear haunches of Carrera 4 body"
+    ],
+    "size": [
+      1920,
+      1133
+    ]
+  },
+  {
+    "file": "07-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "991.2 911 Carrera S coupe in GT Silver Metallic ('Argent GT métallisé', stated by photographer) in a Porsche Centre showroom, France, 2016-01-02. Front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_Carrera_S_MkII_(25231303995).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Porsche_991_Carrera_S_MkII_%2825231303995%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "Jan 2016 dealer display -> 991.2",
+      "'Carrera S' plate",
+      "3-slat side intakes + slim DRL",
+      "LED headlights"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "08-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "991.2 911 Carrera 4 (filename '911-4'; all-wheel drive, wide body) coupe, red (name not stated), Aachen, Germany, 2019-01-11. Front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911-4_in_Aachen.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Porsche_911-4_in_Aachen.jpg",
+    "author": "Charles01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "3-slat side intakes + slim DRL (991.2)",
+      "flush door handle",
+      "wide rear arches (Carrera 4)"
+    ],
+    "size": [
+      1920,
+      1142
+    ]
+  },
+  {
+    "file": "09-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "Official Porsche launch teaser photo (2015): red 911 Carrera S coupe (991.2; same S-GO 4020 car Porsche captions '911 Carrera S, 2015' in the rear shot), front + car's RIGHT flank, with a grey 911 Carrera S Cabriolet behind (ignore the cabriolet). Neutral desert setting.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-new-2015-11366.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/porsche_newsroom/Produkte/911/Der-neue-911-Carrera/P15_0774_NR.jpg",
+    "author": "Porsche AG (press release 'The new 911 Carrera', 07/09/2015)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche's 991.2 launch press release",
+      "3-slat side intakes + slim DRL",
+      "LED headlights with 4-point DRL",
+      "flush door handle"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "10-front.jpg",
+    "view": "front",
+    "description": "Straight-on front of the Graphite Blue Metallic 991.2 911 Carrera coupe (2023-10-16, South Korea). Camera centred at roughly bonnet height.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(16).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2816%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 front: each side intake with 3 horizontal slats (991.1 had 2) and slim DRL strip above",
+      "LED headlights with 4-point DRL",
+      "centre intake below number plate"
+    ],
+    "tracing": "front",
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "11-front.jpg",
+    "view": "front",
+    "description": "Second straight-on front view of the same Graphite Blue Metallic 991.2 Carrera, slightly off-centre.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(15).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2815%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "3-slat side intakes",
+      "LED 4-point headlights"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "12-front.jpg",
+    "view": "front",
+    "description": "Official Porsche image captioned '911 Carrera Range': a silver 991.2 911 Carrera leads a staggered row of the six earlier 911 generations; the 991.2 is seen straight-on from the front at bonnet height on a plain studio floor (roof cropped at top edge). Likely a retouched composite.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-one-millionth-911-milestone-automotive-icon-sports-car-13737.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/porsche_newsroom/Produkte/911/1-Mio.-911/b-CZ16MOD0007_rgb.jpg",
+    "author": "Porsche AG (Newsroom article 'The Porsche 911', 12/05/2017)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 front: slim LED DRL strip above each side intake, 3 horizontal slats per side intake, 2 slats in centre intake",
+      "LED headlights with 4-point DRL",
+      "caption fuel data refers to '911 Carrera' (2016 model)"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "13-rear.jpg",
+    "view": "rear",
+    "description": "Official Porsche photo: 911 Carrera T (991.2, MY2018 lightweight Carrera derivative on the narrow Carrera body), Racing Yellow, straight-on rear, slightly elevated camera. Rear body identical to 911 Carrera apart from 'Carrera T' script, black-finished details and centre sports-exhaust.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-t-puristic-performance-driving-pleasure-touring-14410.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:539b6f12-2137-48ca-a486-5067a0c12790/b-P17_0889_a3_rgb.jpg",
+    "author": "Porsche AG (press release 'Less is more – the new Porsche 911 Carrera T', 23/10/2017)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "991.2 taillights (thin 3D light bar with four-point brake light)",
+      "no full-width light strip (rear-wheel-drive narrow body)",
+      "centre-mounted twin tailpipes of sports exhaust (991.2 layout)"
+    ],
+    "tracing": "rear",
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "14-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "Official Porsche launch photo (2015): 911 Carrera S coupe (991.2), red, rear + car's LEFT flank, plain grey studio-like backdrop.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-new-2015-11366.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/porsche_newsroom/Produkte/911/Der-neue-911-Carrera/911-Carrera---Bildergalerie/P15_0731_NR.jpg",
+    "author": "Porsche AG (press release 'The new 911 Carrera', 07/09/2015)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "991.2 taillights",
+      "quad round tailpipes (Carrera S)",
+      "'911 Carrera S' script"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "15-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "991.2 911 Carrera (base) coupe, white, France, 2017-03-13. Rear + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_Carrera_MkII_(33457588735).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Porsche_991_Carrera_MkII_%2833457588735%29.jpg",
+    "author": "Alexandre Prévot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "'911 Carrera' script",
+      "centre twin tailpipes (sports exhaust option)",
+      "991.2 taillights"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "16-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "2019 911 Carrera (991.2) coupe in Agate Grey Metallic (stated), rear + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2019_Porsche_911_Carrera_(991_II)_Coup%C3%A9_in_Agate_Grey_Metallic,_rear_left.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/2019_Porsche_911_Carrera_%28991_II%29_Coup%C3%A9_in_Agate_Grey_Metallic%2C_rear_left.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "standard exhaust: single oval tailpipe each side",
+      "air duct at side of rear apron (991.2)"
+    ],
+    "size": [
+      1920,
+      1145
+    ]
+  },
+  {
+    "file": "17-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "991.2 911 Carrera (base, rear badge '911') coupe, silver metallic, Nancy, France, 2018-05-19. Rear + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991_Carrera_(54141920581).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Porsche_991_Carrera_%2854141920581%29.jpg",
+    "author": "Alexandre Prevot from Nancy, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "991.2 taillights",
+      "single oval tailpipe per side"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "18-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "991.2 911 Carrera 4S coupe (wide body, all-wheel drive), Racing Yellow-like yellow (name not stated), Poznań Motor Show 2016 (roof bike rack accessory). Rear + car's LEFT flank. Shows the AWD-only full-width light strip.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_4S_-_ty%C5%82_(MSP16).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Porsche_911_Carrera_4S_-_ty%C5%82_%28MSP16%29.jpg",
+    "author": "Jakub \"Flyz1\" Maciejewski",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "full-width light strip between taillights = Carrera 4/4S (not on Carrera/Carrera S)",
+      "'911 Carrera 4S' script, quad tailpipes"
+    ],
+    "size": [
+      1920,
+      1278
+    ]
+  },
+  {
+    "file": "19-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Graphite Blue Metallic 991.2 911 Carrera coupe (2023-10-16), rear + car's RIGHT flank; optional sunroof and sports exhaust.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(19).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2819%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "991.2 taillights",
+      "'911 Carrera' script",
+      "air duct in rear apron behind right rear wheel",
+      "centre twin oval tailpipes (sports exhaust)"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "20-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Official Porsche launch photo captioned '911 Carrera S, 2015': red 991.2 911 Carrera S coupe (S-GO 4020) driving, rear + car's RIGHT flank.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-new-2015-11366.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:7ac3a6e7-63fe-44f6-b23d-bd05879ab51d/P15_0779_rgb_NR.jpg",
+    "author": "Porsche AG (press release 'The new 911 Carrera', 07/09/2015)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 rear-lid grille with longitudinal louvres",
+      "991.2 taillights",
+      "quad round tailpipes, '911 Carrera S' script"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "21-top.jpg",
+    "view": "top",
+    "description": "2016 911 Carrera (991.2) coupe, white, photographed from high above (rear three-quarter top view showing the car's RIGHT flank, nose to image-right).",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_(991.2,_2016)_(54868749045).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Porsche_911_Carrera_%28991.2%2C_2016%29_%2854868749045%29.jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "plan view of roof, rear screen and rear haunches (perspective, not orthographic)"
+    ],
+    "size": [
+      1920,
+      1405
+    ]
+  },
+  {
+    "file": "22-top.jpg",
+    "view": "top",
+    "description": "991.2 911 Carrera 4S coupe, black, from high above (rear top view), Washington DC area, 2025-08-03. Wide body with full-width light strip.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_4S_(991.2)_Washington_DC_Metro_Area,_USA.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Porsche_911_Carrera_4S_%28991.2%29_Washington_DC_Metro_Area%2C_USA.jpg",
+    "author": "OWS Photography",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "full-width rear light strip (Carrera 4S)",
+      "plan shape of wide rear haunches"
+    ],
+    "size": [
+      1280,
+      1024
+    ]
+  },
+  {
+    "file": "23-detail-headlight.jpg",
+    "view": "detail-headlight",
+    "description": "Crop (300x320 px, made for this research) of the left headlight from the straight-front Graphite Blue Metallic 991.2 Carrera photo above.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(16).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2816%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 optional LED headlight: two round projector modules framed by 4-point DRL elements"
+    ],
+    "note": "Derived crop of the Commons file; same license/attribution.",
+    "size": [
+      300,
+      320
+    ]
+  },
+  {
+    "file": "24-detail-taillight.jpg",
+    "view": "detail-taillight",
+    "description": "Crop (460x150 px, made for this research) of the right taillight of the Graphite Blue Metallic 991.2 Carrera.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(19).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2819%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "991.2 taillight: slimmer 3D-effect light blade inside the red lens (four-point brake light)"
+    ],
+    "note": "Derived crop of the Commons file; same license/attribution.",
+    "size": [
+      460,
+      150
+    ]
+  },
+  {
+    "file": "25-detail-engine-lid.jpg",
+    "view": "detail-engine-lid",
+    "description": "Official Porsche detail: rear lid louvres, left taillight and 'PORSCHE / 911 Carrera T' script of a Racing Yellow 911 Carrera T (991.2, 2017).",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-t-puristic-performance-driving-pleasure-touring-14410.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:9da97c94-e8eb-4382-8b09-92cbe59af3c5/b-P17_0893_a3_rgb.jpg",
+    "author": "Porsche AG (press release 'Less is more – the new Porsche 911 Carrera T', 23/10/2017)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 rear engine-lid grille with many longitudinal (fore-aft) louvres instead of 991.1's 3 transverse slats",
+      "991.2 taillight edge"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "26-detail-wheel.jpg",
+    "view": "detail-wheel",
+    "description": "Crop (360x320 px, made for this research) of the left front 20-inch 10-spoke wheel of the Graphite Blue Metallic 991.2 Carrera side-view photo.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_(18).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Porsche_991.2_911_Carrera_Graphite_Blue_Metallic_%2818%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "10-spoke two-tone 20-inch wheel with Porsche crest centre cap"
+    ],
+    "note": "Derived crop of the Commons file; same license/attribution.",
+    "size": [
+      360,
+      320
+    ]
+  },
+  {
+    "file": "27-interior.jpg",
+    "view": "interior",
+    "description": "Official Porsche photo: straight-on dashboard of a 911 Carrera T (991.2, 2017): GT sport steering wheel, 5 round dials with 'Carrera T' logo in the right dial, 6-speed manual gear lever, and the Carrera T's optional PCM-delete storage tray in place of the touchscreen (not standard Carrera equipment).",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-t-puristic-performance-driving-pleasure-touring-14410.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:20c8277a-d0bf-4e03-be14-efc9a404d893/b-P17_0870_a3_rgb.jpg",
+    "author": "Porsche AG (press release 'Less is more – the new Porsche 911 Carrera T', 23/10/2017)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "991.2 dashboard layout with 5 round instruments",
+      "GT sport steering wheel (918-derived)",
+      "manual gear lever + PCM delete = Carrera T specifics"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  },
+  {
+    "file": "28-interior.jpg",
+    "view": "interior",
+    "description": "Official Porsche photo captioned 'Porsche Communication Management (PCM), 2015': cockpit of the new 991.2 911 Carrera from the passenger side - 7-inch PCM 4 multi-touch screen, PDK selector, 5-dial cluster, light grey leather.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-911-carrera-new-2015-11366.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:bb1ab0df-329b-4172-be49-ba1475eb8f16/c_P15_0776.jpg",
+    "author": "Porsche AG (press release 'The new 911 Carrera', 07/09/2015)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "PCM 4.0 touchscreen introduced with the 991.2 (Porsche press release)",
+      "991 rising centre console with PDK selector"
+    ],
+    "size": [
+      1920,
+      1083
+    ]
+  },
+  {
+    "file": "29-other.jpg",
+    "view": "other",
+    "description": "Official Porsche studio photo: the one-millionth 911 (built 11 May 2017), a 911 Carrera S (991.2) in Irish Green with special classic-style wheels; front + car's LEFT flank, plain grey studio background. Factory one-off (special wheels/interior) - use for body shape and historic Irish Green colour only.",
+    "source_page": "https://newsroom.porsche.com/en/products/porsche-one-millionth-911-milestone-seven-generations-13735.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:fe897302-d647-4e07-8dd5-10a5ac94400d/b-911-7571.jpg",
+    "author": "Porsche AG (gallery 'One-millionth 911, 911 Carrera S Kit, 2017')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "3-slat side intakes + slim DRL (991.2)",
+      "LED headlights with 4-point DRL",
+      "flush door handle"
+    ],
+    "size": [
+      1920,
+      1082
+    ]
+  }
+]

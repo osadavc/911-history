@@ -1,0 +1,45 @@
+{
+ "side": {
+  "image": "research/blueprints/09-964-1989/vec-10947_porsche-911-carrera-964-1990_4view-dims-watermarked.jpg",
+  "wheelF": [
+   229.82,
+   279.38
+  ],
+  "wheelR": [
+   624.34,
+   277.9
+  ],
+  "tipF": 72.5,
+  "crop": [
+   50,
+   60,
+   830,
+   345
+  ]
+ },
+ "top": {
+  "image": "research/traces/09-964-1989/ref-top.png",
+  "tipF": 33.0,
+  "tipR": 768.0,
+  "centreY": 166.23753767870147,
+  "crop": null
+ },
+ "front": {
+  "image": "research/traces/09-964-1989/ref-front.png",
+  "centreX": 176.0999999999999,
+  "groundY": 254.68604326987432,
+  "left": 26.40059523809515,
+  "right": 325.79940476190467,
+  "width": 1.652,
+  "crop": null
+ },
+ "rear": {
+  "image": "research/traces/09-964-1989/ref-rear.png",
+  "centreX": 176.0,
+  "groundY": 255.0744542369572,
+  "left": 26.30059523809524,
+  "right": 325.69940476190476,
+  "width": 1.652,
+  "crop": null
+ }
+}

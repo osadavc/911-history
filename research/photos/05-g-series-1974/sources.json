@@ -1,0 +1,740 @@
+[
+  {
+    "file": "01-side-left.jpg",
+    "view": "side-left",
+    "description": "1974 Porsche 911 (G-series) coupé, orange — official Porsche studio photo captioned '1974, 911 Carrera Coupé, G-Series, 2.7 litre, Generations'; orthographic left profile on dark gradient",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/60-Jahre-911---Generationen.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=250543&w=6000&h=6000&crop=0&public=1&cs=b972431cd02e5e65",
+    "author": "Dr. Ing. h.c. F. Porsche AG",
+    "license": "© Porsche AG — press/editorial use, reference only",
+    "license_url": "https://newsroom.porsche.com/en/terms-of-use.html",
+    "verified_features": [
+      "1974 impact bumpers with black rubber bellows at both ends (new for G-series per Porsche/supercarnostalgia)",
+      "narrow body, no rear spoiler (ducktail was optional/deletable)",
+      "bright window frames",
+      "Fuchs forged wheels",
+      "black rubbing strip above body-colour sill"
+    ],
+    "tracing": "side",
+    "notes": "Porsche caption says Carrera 2.7; no Carrera side script or spoiler is visible, so treat as the generic 1974 G-series silhouette.",
+    "size": [
+      1920,
+      1014
+    ]
+  },
+  {
+    "file": "02-side-left.jpg",
+    "view": "side-left",
+    "description": "1977 Porsche 911 S 2.7 coupé, cream/beige — Porsche Museum exhibit, left profile (museum display surfboard on a roof rack)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911S_1977_2.7_Coup%C3%A8_LSide_PorscheM_9June2013_(15009539551).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Porsche_911S_1977_2.7_Coup%C3%A8_LSide_PorscheM_9June2013_%2815009539551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Porsche_911S_1977_2.7_Coup%C3%A8_LSide_PorscheM_9June2013_%2815009539551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Valder137",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911S 1977 2.7 Coupè LSide PorscheM 9June2013 (15009539551).jpg",
+    "verified_features": [
+      "museum label '911S 1977 2.7 Coupé' (per file title)",
+      "impact bumpers with bellows",
+      "no rear spoiler",
+      "Fuchs wheels"
+    ],
+    "notes": "Roof rack + surfboard are a museum display accessory — ignore for the roofline.",
+    "size": [
+      1200,
+      803
+    ]
+  },
+  {
+    "file": "03-side-right.jpg",
+    "view": "side-right",
+    "description": "1975 Porsche 911 Carrera 2.7 (G-series), orange with black 'Carrera' side script — Porsche Museum car, official photo captioned 'Porsche 911 G Model: Carrera (1975)'; right profile",
+    "source_page": "https://newsroom.porsche.com/en/2019/history/porsche-klassik-911-eight-generations-dna-18914.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2019/history/Porsche-Klassik-Sonderausgabe-2019/For-eternity/technical-data/b-45A7781.jpg",
+    "author": "Dr. Ing. h.c. F. Porsche AG",
+    "license": "© Porsche AG — press/editorial use, reference only",
+    "license_url": "https://newsroom.porsche.com/en/terms-of-use.html",
+    "verified_features": [
+      "whale-tail rear spoiler (1975 Carrera option per supercarnostalgia)",
+      "'Carrera' side script",
+      "wider rear flares of the Carrera",
+      "black-centre Fuchs",
+      "impact bumpers with bellows"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "04-side-right.jpg",
+    "view": "side-right",
+    "description": "Porsche 911 S (G-series 1974–77), red — right profile on grass",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_S_(7494361986).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Porsche_911_S_%287494361986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Porsche_911_S_%287494361986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "nakhon100",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911 S (7494361986).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "narrow body without spoiler",
+      "source title 'Porsche 911 S'"
+    ],
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  {
+    "file": "05-side-right.jpg",
+    "view": "side-right",
+    "description": "Porsche 911 S (G-series), lime/yellow-green — right profile at an indoor show",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_S_(8456344695).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Porsche_911_S_%288456344695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Porsche_911_S_%288456344695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "nakhon100",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911 S (8456344695).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "no spoiler",
+      "Fuchs wheels",
+      "source title 'Porsche 911 S'"
+    ],
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  {
+    "file": "06-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1974 Porsche 911 (G-series) coupé, orange — official Porsche photo captioned '1974, 911 Carrera Coupé, G-Series, 2.7 litre, Generations' (same car as the studio profile)",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/60-Jahre-911---Generationen.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=250550&w=6000&h=6000&crop=0&public=1&cs=b07864ac7bd7f798",
+    "author": "Dr. Ing. h.c. F. Porsche AG",
+    "license": "© Porsche AG — press/editorial use, reference only",
+    "license_url": "https://newsroom.porsche.com/en/terms-of-use.html",
+    "verified_features": [
+      "front impact bumper with black rubber strip, amber indicators set in the bumper, bellows at the ends",
+      "chrome headlight rim and chrome flag mirror (pre-black-look trim)",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "file": "07-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1976 Porsche 911 S coupé, Grand Prix White (colour per source title), Sudbury, Ontario",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1976_Porsche_911_S_Coupe_in_Grand_Prix_White,_Front_Left,_05-21-2023.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1976_Porsche_911_S_Coupe_in_Grand_Prix_White%2C_Front_Left%2C_05-21-2023.jpg/1920px-1976_Porsche_911_S_Coupe_in_Grand_Prix_White%2C_Front_Left%2C_05-21-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/1976_Porsche_911_S_Coupe_in_Grand_Prix_White%2C_Front_Left%2C_05-21-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:1976 Porsche 911 S Coupe in Grand Prix White, Front Left, 05-21-2023.jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "plain front apron",
+      "Fuchs wheels",
+      "title: 1976 911 S Coupe in Grand Prix White"
+    ],
+    "size": [
+      1920,
+      1099
+    ]
+  },
+  {
+    "file": "08-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1976 Porsche 911 coupé, white (RMYC show, Newport NSW)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1976_Porsche_911_coupe_(28978871622).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1976_Porsche_911_coupe_%2828978871622%29.jpg/1920px-1976_Porsche_911_coupe_%2828978871622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1976_Porsche_911_coupe_%2828978871622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1976 Porsche 911 coupe (28978871622).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "narrow body",
+      "source: 1976 Porsche 911 coupe"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "09-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1977 Porsche 911 2.7 coupé, blue (UK PLH 590R), NEC Classic Motor Show 2013",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_2.7_(11031429265).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1977_Porsche_911_2.7_%2811031429265%29.jpg/1920px-1977_Porsche_911_2.7_%2811031429265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1977_Porsche_911_2.7_%2811031429265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Andrew Bone from Weymouth, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 2.7 (11031429265).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "source title '1977 Porsche 911 2.7'"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "10-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1974 Porsche 911 2.7 coupé, silver",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_2.7,_(1974)._(55024303267).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Porsche_911_2.7%2C_%281974%29._%2855024303267%29.jpg/1920px-Porsche_911_2.7%2C_%281974%29._%2855024303267%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Porsche_911_2.7%2C_%281974%29._%2855024303267%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Txemari. (Navarra). from Navarra, España",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Porsche 911 2.7, (1974). (55024303267).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "chrome headlight rims",
+      "source title 'Porsche 911 2.7 (1974)'"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "11-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Porsche 911 Carrera 2.7 coupé (G-series), orange with 'Carrera' script — Porsche Museum",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_2.7_Coupe_in_the_Porsche-Museum_(2009)_1X7A0350.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Porsche_911_Carrera_2.7_Coupe_in_the_Porsche-Museum_%282009%29_1X7A0350.jpg/1920px-Porsche_911_Carrera_2.7_Coupe_in_the_Porsche-Museum_%282009%29_1X7A0350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Porsche_911_Carrera_2.7_Coupe_in_the_Porsche-Museum_%282009%29_1X7A0350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Porsche 911 Carrera 2.7 Coupe in the Porsche-Museum (2009) 1X7A0350.jpg",
+    "verified_features": [
+      "'Carrera' side script",
+      "rear spoiler visible",
+      "impact bumpers with bellows",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1920,
+      1046
+    ]
+  },
+  {
+    "file": "12-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1975 Porsche 911 Carrera 2.7 MFI coupé, silver (RM Sotheby's Paris 2017)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:RM_Sotheby%E2%80%99s_2017_-_Porsche_911_Carrera_2.7_MFI_-_1975_-_001.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/RM_Sotheby%E2%80%99s_2017_-_Porsche_911_Carrera_2.7_MFI_-_1975_-_001.jpg/1920px-RM_Sotheby%E2%80%99s_2017_-_Porsche_911_Carrera_2.7_MFI_-_1975_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/RM_Sotheby%E2%80%99s_2017_-_Porsche_911_Carrera_2.7_MFI_-_1975_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:RM Sotheby’s 2017 - Porsche 911 Carrera 2.7 MFI - 1975 - 001.jpg",
+    "verified_features": [
+      "source: 1975 Carrera 2.7 MFI",
+      "impact bumpers with bellows",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "13-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "1977 Porsche 911 S 2.7 coupé, cream/beige — Porsche Museum (display surfboard on roof)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911S_1977_2.7_Coup%C3%A8_LFrontSide_Night_Mode_PorscheM_9June2013_(14826012058).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Porsche_911S_1977_2.7_Coup%C3%A8_LFrontSide_Night_Mode_PorscheM_9June2013_%2814826012058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Porsche_911S_1977_2.7_Coup%C3%A8_LFrontSide_Night_Mode_PorscheM_9June2013_%2814826012058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Valder137",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911S 1977 2.7 Coupè LFrontSide Night Mode PorscheM 9June2013 (14826012058).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "chrome headlight rims",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1200,
+      803
+    ]
+  },
+  {
+    "file": "14-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "1974 Porsche 911 Carrera 2.7 MFI coupé, brown metallic (UK RTA 434M)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1974_Porsche_911_Carrera_2.7_MFi.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/1974_Porsche_911_Carrera_2.7_MFi.jpg/1920px-1974_Porsche_911_Carrera_2.7_MFi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/1974_Porsche_911_Carrera_2.7_MFi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:1974 Porsche 911 Carrera 2.7 MFi.jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "faint 'Carrera' side script",
+      "Fuchs wheels",
+      "source title '1974 Porsche 911 Carrera 2.7 MFi'"
+    ],
+    "size": [
+      1920,
+      1217
+    ]
+  },
+  {
+    "file": "15-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "1975 Porsche 911 Carrera 2.7 MFI 'Jubiläum' coupé, silver (RM Sotheby's Paris 2018)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_001.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_001.jpg/1920px-Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Paris - RM Sotheby’s 2018 - Porsche 911 Carrera 2.7 MFI Jubiläum - 1975 - 001.jpg",
+    "verified_features": [
+      "'Carrera' side script",
+      "impact bumpers with bellows",
+      "Fuchs wheels",
+      "source: 1975 Carrera 2.7 MFI Jubiläum"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "16-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "1975 Porsche 911 Carrera 2.7 MFI coupé, light yellow with black 'Carrera' script",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_2.7_MFI_Coup%C3%A9_(1975)_(54871336810).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Porsche_911_Carrera_2.7_MFI_Coup%C3%A9_%281975%29_%2854871336810%29.jpg/1920px-Porsche_911_Carrera_2.7_MFI_Coup%C3%A9_%281975%29_%2854871336810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Porsche_911_Carrera_2.7_MFI_Coup%C3%A9_%281975%29_%2854871336810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "commons_title": "File:Porsche 911 Carrera 2.7 MFI Coupé (1975) (54871336810).jpg",
+    "verified_features": [
+      "'Carrera' side script",
+      "impact bumpers with bellows",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "17-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "1975 Porsche 911 S coupé, red (Llandudno)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911S_(1975)_(33996179774).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Porsche_911S_%281975%29_%2833996179774%29.jpg/1920px-Porsche_911S_%281975%29_%2833996179774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Porsche_911S_%281975%29_%2833996179774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Andrew Bone from Weymouth, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911S (1975) (33996179774).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "chrome trim",
+      "source: Porsche 911S (1975)"
+    ],
+    "size": [
+      1920,
+      1169
+    ]
+  },
+  {
+    "file": "18-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "Porsche 911 S (G-series), lime green",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_S_(5432959433).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Porsche_911_S_%285432959433%29.jpg/1920px-Porsche_911_S_%285432959433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Porsche_911_S_%285432959433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "nakhon100",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911 S (5432959433).jpg",
+    "verified_features": [
+      "impact bumpers with bellows",
+      "Fuchs wheels"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "19-front.jpg",
+    "view": "front",
+    "description": "1974 Porsche 911 S coupé, orange-red — near straight-on front (close range, slight angle)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911s_1974_(8168750700).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Porsche_911s_1974_%288168750700%29.jpg/1920px-Porsche_911s_1974_%288168750700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Porsche_911s_1974_%288168750700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "commons_title": "File:Porsche 911s 1974 (8168750700).jpg",
+    "verified_features": [
+      "round headlights with chrome rims",
+      "impact bumper with black rubber strip and amber indicators",
+      "front lid with crest",
+      "source: 'Porsche 911s 1974'"
+    ],
+    "tracing": "front",
+    "notes": "Close camera — some perspective; no better straight-front photo of a 1974–77 coupé was found.",
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "20-rear.jpg",
+    "view": "rear",
+    "description": "1976 Porsche 911 coupé, silver (Brisbane) — near straight-on rear, no spoiler",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Coupe_1976_BP_Service_Station_Lytton_Rd_East_Brisbane_P1430100.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Porsche_911_Coupe_1976_BP_Service_Station_Lytton_Rd_East_Brisbane_P1430100.jpg/1920px-Porsche_911_Coupe_1976_BP_Service_Station_Lytton_Rd_East_Brisbane_P1430100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Porsche_911_Coupe_1976_BP_Service_Station_Lytton_Rd_East_Brisbane_P1430100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "John Robert McPherson",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "commons_title": "File:Porsche 911 Coupe 1976 BP Service Station Lytton Rd East Brisbane P1430100.jpg",
+    "verified_features": [
+      "full-width red reflector with PORSCHE lettering joining the taillights (new for 1974)",
+      "rear impact bumper with bellows and rubber overriders",
+      "slatted engine-lid grille, no spoiler"
+    ],
+    "tracing": "rear",
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "21-rear.jpg",
+    "view": "rear",
+    "description": "1977 Porsche 911 Carrera 3.0 coupé, green metallic — straight rear with whale tail",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_Carrera_3.0_(16485231107).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1977_Porsche_911_Carrera_3.0_%2816485231107%29.jpg/1920px-1977_Porsche_911_Carrera_3.0_%2816485231107%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/1977_Porsche_911_Carrera_3.0_%2816485231107%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 Carrera 3.0 (16485231107).jpg",
+    "verified_features": [
+      "'Carrera 3.0' script on engine lid",
+      "whale-tail spoiler",
+      "PORSCHE reflector panel",
+      "bumper overriders"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "22-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "1976 Porsche 911 coupé, silver (UK OSD 421R; uploader titles it Carrera 2.7 — unverified)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1976_Porsche_911_Carrera_2.7_(22546).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/1976_Porsche_911_Carrera_2.7_%2822546%29.jpg/1920px-1976_Porsche_911_Carrera_2.7_%2822546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1976_Porsche_911_Carrera_2.7_%2822546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:1976 Porsche 911 Carrera 2.7 (22546).jpg",
+    "verified_features": [
+      "PORSCHE reflector panel",
+      "rear bumper with bellows",
+      "no spoiler"
+    ],
+    "size": [
+      1920,
+      1263
+    ]
+  },
+  {
+    "file": "23-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "1975 Porsche 911 Carrera 2.7 MFI 'Jubiläum', silver, whale tail (RM Sotheby's Paris 2018)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_003.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_003.jpg/1920px-Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Paris_-_RM_Sotheby%E2%80%99s_2018_-_Porsche_911_Carrera_2.7_MFI_Jubil%C3%A4um_-_1975_-_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Paris - RM Sotheby’s 2018 - Porsche 911 Carrera 2.7 MFI Jubiläum - 1975 - 003.jpg",
+    "verified_features": [
+      "whale tail",
+      "'Carrera' script on lid and side",
+      "Carrera rear flares"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "24-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "1977 Porsche 911 S 2.7 coupé, cream/beige — Porsche Museum",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911S_1977_2.7_Coup%C3%A8_LSideRear_PorscheM_9June2013_(15009539161).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Porsche_911S_1977_2.7_Coup%C3%A8_LSideRear_PorscheM_9June2013_%2815009539161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Porsche_911S_1977_2.7_Coup%C3%A8_LSideRear_PorscheM_9June2013_%2815009539161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Valder137",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911S 1977 2.7 Coupè LSideRear PorscheM 9June2013 (15009539161).jpg",
+    "verified_features": [
+      "no spoiler",
+      "PORSCHE reflector",
+      "rear bumper with bellows"
+    ],
+    "size": [
+      1200,
+      803
+    ]
+  },
+  {
+    "file": "25-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "1975 Porsche 911 S coupé, red (UK HCC 693N)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911S_(1975)_(34799472746).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Porsche_911S_%281975%29_%2834799472746%29.jpg/1920px-Porsche_911S_%281975%29_%2834799472746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Porsche_911S_%281975%29_%2834799472746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Andrew Bone from Weymouth, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:Porsche 911S (1975) (34799472746).jpg",
+    "verified_features": [
+      "'911 S' script on engine lid",
+      "PORSCHE reflector panel",
+      "rear bumper with bellows and overriders"
+    ],
+    "size": [
+      1920,
+      1283
+    ]
+  },
+  {
+    "file": "26-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "1977 Porsche 911 Carrera 3.0 coupé, light blue metallic (UK SPN 733R), no spoiler",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_Carrera_3.0_(68246).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/1977_Porsche_911_Carrera_3.0_%2868246%29.jpg/1920px-1977_Porsche_911_Carrera_3.0_%2868246%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1977_Porsche_911_Carrera_3.0_%2868246%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:1977 Porsche 911 Carrera 3.0 (68246).jpg",
+    "verified_features": [
+      "'Carrera 3.0'-style script on lid",
+      "PORSCHE reflector",
+      "no spoiler"
+    ],
+    "size": [
+      1920,
+      1244
+    ]
+  },
+  {
+    "file": "27-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "1977 Porsche 911 2.7 coupé, blue (UK PLH 590R), whale-tail spoiler",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_2.7_(11031538596).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1977_Porsche_911_2.7_%2811031538596%29.jpg/1920px-1977_Porsche_911_2.7_%2811031538596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1977_Porsche_911_2.7_%2811031538596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Andrew Bone from Weymouth, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 2.7 (11031538596).jpg",
+    "verified_features": [
+      "whale tail",
+      "PORSCHE reflector panel",
+      "rear bumper bellows"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  },
+  {
+    "file": "28-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "1976 Porsche 911 2.7 S coupé, yellow (US)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_2,7_S_(1976)_(55215912924).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Porsche_911_2%2C7_S_%281976%29_%2855215912924%29.jpg/1920px-Porsche_911_2%2C7_S_%281976%29_%2855215912924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Porsche_911_2%2C7_S_%281976%29_%2855215912924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "commons_title": "File:Porsche 911 2,7 S (1976) (55215912924).jpg",
+    "verified_features": [
+      "PORSCHE reflector",
+      "US bumper overriders",
+      "no spoiler"
+    ],
+    "size": [
+      1920,
+      1287
+    ]
+  },
+  {
+    "file": "29-top.jpg",
+    "view": "top",
+    "description": "1974 Porsche 911 Targa (yellow), 911 S coupé (green) and 911 Carrera coupé (orange, ducktail) — official period press photo from a high angle",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/2.-Generation---Karosserievarianten.html",
+    "image_url": "https://pmdb.porsche.de/newsroomzips/a0ff53ff-563c-490d-b73b-c36d59b5247e.zip (media/Images/gallery_2/img_55.jpg, caption '1974, 911 Targa, 911 S Coupé, 911 Carrera Coupé')",
+    "author": "Dr. Ing. h.c. F. Porsche AG",
+    "license": "© Porsche AG — press/editorial use, reference only",
+    "license_url": "https://newsroom.porsche.com/en/terms-of-use.html",
+    "verified_features": [
+      "high-angle plan view of 1974 coupés",
+      "ducktail spoiler on the 1974 Carrera",
+      "Targa included (left car) — use the coupés"
+    ],
+    "size": [
+      1000,
+      766
+    ]
+  },
+  {
+    "file": "30-other.jpg",
+    "view": "other",
+    "description": "1976 Porsche 911 model range (coupé, Targa, Carrera 3.0) — official period press photo",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/2.-Generation---Karosserievarianten.html",
+    "image_url": "https://pmdb.porsche.de/newsroomzips/a0ff53ff-563c-490d-b73b-c36d59b5247e.zip (media/Images/gallery_2/img_45.jpg, caption '1976, Porsche 911 models')",
+    "author": "Dr. Ing. h.c. F. Porsche AG",
+    "license": "© Porsche AG — press/editorial use, reference only",
+    "license_url": "https://newsroom.porsche.com/en/terms-of-use.html",
+    "verified_features": [
+      "1976 G-series line-up",
+      "colour variety (red, silver, brown)"
+    ],
+    "size": [
+      1000,
+      708
+    ]
+  },
+  {
+    "file": "31-detail-headlight.jpg",
+    "view": "detail-headlight",
+    "description": "1977 Porsche 911 Carrera 3.0, green — headlight, front bumper bellows and indicator",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_Carrera_3.0_(16072560593).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/1977_Porsche_911_Carrera_3.0_%2816072560593%29.jpg/1920px-1977_Porsche_911_Carrera_3.0_%2816072560593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1977_Porsche_911_Carrera_3.0_%2816072560593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 Carrera 3.0 (16072560593).jpg",
+    "verified_features": [
+      "round headlight",
+      "black rubber bellows at bumper end",
+      "front wing flare"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "32-detail-taillight.jpg",
+    "view": "detail-taillight",
+    "description": "1977 Porsche 911 Carrera 3.0, green — tail-lamp, rear bumper bellows and whale-tail edge",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_Carrera_3.0_(16666585716).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/1977_Porsche_911_Carrera_3.0_%2816666585716%29.jpg/1920px-1977_Porsche_911_Carrera_3.0_%2816666585716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/1977_Porsche_911_Carrera_3.0_%2816666585716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 Carrera 3.0 (16666585716).jpg",
+    "verified_features": [
+      "amber/red tail-lamp",
+      "rear bellows",
+      "whale tail"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "33-detail-wheel.jpg",
+    "view": "detail-wheel",
+    "description": "1977 Porsche 911 Carrera 3.0, green — black-centre Fuchs wheel and front bumper bellows",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1977_Porsche_911_Carrera_3.0_(16485238827).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1977_Porsche_911_Carrera_3.0_%2816485238827%29.jpg/1920px-1977_Porsche_911_Carrera_3.0_%2816485238827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/1977_Porsche_911_Carrera_3.0_%2816485238827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "commons_title": "File:1977 Porsche 911 Carrera 3.0 (16485238827).jpg",
+    "verified_features": [
+      "Fuchs forged wheel",
+      "front bellows"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "34-interior.jpg",
+    "view": "interior",
+    "description": "Porsche 911 G-series 2.7 — dashboard and 4-spoke steering wheel (IAA 2019 display)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_G-Serie_2.7_IAA_2019_JM_0382.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Porsche_911_G-Serie_2.7_IAA_2019_JM_0382.jpg/1920px-Porsche_911_G-Serie_2.7_IAA_2019_JM_0382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Porsche_911_G-Serie_2.7_IAA_2019_JM_0382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Johannes Maximilian",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Porsche 911 G-Serie 2.7 IAA 2019 JM 0382.jpg",
+    "verified_features": [
+      "five round gauges",
+      "4-spoke padded wheel of the mid-70s"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "35-interior.jpg",
+    "view": "interior",
+    "description": "Porsche 911 G-series 2.7 — cockpit from the open driver's door (IAA 2019)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_G-Serie_2.7_IAA_2019_JM_0859.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Porsche_911_G-Serie_2.7_IAA_2019_JM_0859.jpg/1920px-Porsche_911_G-Serie_2.7_IAA_2019_JM_0859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Porsche_911_G-Serie_2.7_IAA_2019_JM_0859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Johannes Maximilian",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_title": "File:Porsche 911 G-Serie 2.7 IAA 2019 JM 0859.jpg",
+    "verified_features": [
+      "G-series dash",
+      "gear lever",
+      "door-card"
+    ],
+    "size": [
+      1920,
+      1440
+    ]
+  }
+]

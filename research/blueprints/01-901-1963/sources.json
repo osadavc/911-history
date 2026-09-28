@@ -1,0 +1,92 @@
+{
+  "stop_id": "01-901-1963",
+  "coverage_summary": "Side elevation only; no dedicated 901 front/rear/top drawing found. For the other views use the SWB 911 drawings in ../02-911-swb-1964/ (901 prototype -> 911 production body is near-identical in plan; trim/badging differ).",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-64510_porsche-901-1963_side.png",
+      "rank": "primary",
+      "views_included": [
+        "side (left, car facing right)"
+      ],
+      "resolution_px": "1513x477",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/64510/view/porsche_901_1963/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-901-1963.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Clean line drawing titled 'Porsche 901 (1963)': steel wheels with hub caps, slim chrome bumpers with overriders, rear exhaust visible, door mirror on the wing, fuel filler lid on the left front wing.",
+      "measured_wb_over_len": 0.542,
+      "accuracy_notes": "Measured WB/L = 0.542 (auto-detected wheels, verified overlay). SWB drawings that print their own dimensions (the-blueprints vector preview 'Porsche 911 (1967)': 2211 / 4163 mm; Autocar 1966: 7 ft 3.5 in / 13 ft 8 in) give 0.531-0.534, so this drawing's wheelbase is ~2% long relative to its length (same contributor's later side drawings 64516/64517 are badly distorted, see those stops). Scale it by the wheelbase and re-check overhangs against ../02 factory drawing.",
+      "bytes": 20905,
+      "ratio_check_vs_official": "measured WB/L 0.542 vs official 2204/4135 mm = 0.533 -> +1.7% : close (1-2%)"
+    },
+    {
+      "file": "official_porsche_sketch_1963_side.jpg",
+      "views_included": [
+        "side (left side",
+        "orthographic elevation with wheel-centre lines and ground line)"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/history/porsche-911-construction-sketch-10955.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/db96470d-1b16-4bf9-b7a6-bdc7f65b3465.zip (media/Images/img.jpg, 3300x1860)",
+      "license_notes": "(c) Dr. Ing. h.c. F. Porsche AG; Porsche Newsroom media package - editorial/journalistic use terms (Newsroom T&C). Reference only.",
+      "accuracy_notes": "Porsche AG caption 'Sketch, Porsche 911, 1963'. Measured: wheel-centre lines x=925/2332 px -> WB 1407 px; extremes over bumper guards 335..2998 px -> 2663 px; WB/L = 0.528 vs 901 brochure 2204/4135 = 0.533 and 1965 911 brochure 2211/4163 = 0.531 (within 1%). Roof-to-ground ~1270 mm at WB scale (901 brochure height 1273; 1965 911 1320 unladen) -> matches the 1963 901 prototype best.",
+      "_from": "part_A.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "3300x1860",
+      "measured_wb_over_len": 0.525,
+      "measurement_note": "auto-detected wheels, overlay verified",
+      "ratio_check_vs_official": "measured WB/L 0.525 vs official 2204/4135 mm = 0.533 -> -1.5% : close (1-2%)"
+    },
+    {
+      "file": "official_porsche_sketch_1963_front.jpg",
+      "views_included": [
+        "front (orthographic elevation)"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/history/porsche-911-construction-sketch-10955.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/db96470d-1b16-4bf9-b7a6-bdc7f65b3465.zip (media/Images/img_1.jpg, 1100x620)",
+      "license_notes": "(c) Dr. Ing. h.c. F. Porsche AG; Porsche Newsroom media package - editorial use terms. Reference only.",
+      "accuracy_notes": "Porsche AG caption 'Sketch, Porsche 911, 1963'. Measured body width 443 px (321..764 px, mirror excluded) vs left tyre centre-line x=357.5 px; symmetric track ~370 px -> width/track 1.197 vs brochure 1600/1332 = 1.201 (901) / 1610/1337 = 1.204 (911). Shows NO bumper guards (matches 1963 prototypes). 1100x620 px only.",
+      "_from": "part_A.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1100x620"
+    },
+    {
+      "file": "brochure_901_1963_phantom_side.png",
+      "views_included": [
+        "side (phantom/cut-away line drawing",
+        "right side",
+        "slight perspective on wheels)"
+      ],
+      "source_page": "https://www.stuttcars.com/porsche-911-1964-1973-sales-brochures/",
+      "image_url": "https://www.stuttcars.com/wp-content/uploads/2021/05/1963-porsche-901.pdf (PDF page 2, embedded 4677x1653 CMYK JPEG converted to RGB)",
+      "license_notes": "Porsche 901 sales brochure W 221 e (9.63), (c) Porsche; free download from stuttcars.com. Reference only.",
+      "accuracy_notes": "Estimated wheel centres ~885/3000 px, extremes ~45/4005 px -> WB/L ~0.534 vs brochure's own 2204/4135 = 0.533 (good). Wheels drawn as slight ellipses (not strictly orthographic). Colours are a naive CMYK->RGB conversion (bright green background).",
+      "_from": "part_A.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "4677x1653",
+      "measured_wb_over_len": 0.5315,
+      "measurement_note": "auto-detected wheels, overlay verified",
+      "ratio_check_vs_official": "measured WB/L 0.531 vs official 2204/4135 mm = 0.533 -> -0.3% : matches (within 1%)"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.533,
+    "dims": "2204/4135 mm",
+    "sources": [
+      "https://www.stuttcars.com/wp-content/uploads/2021/05/1963-porsche-901.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

@@ -1,0 +1,60 @@
+{
+ "side": {
+  "image": "research/blueprints/17-992-1-2019/vec-17529_porsche-911-carrera-4s-992-2019_4view-dims-watermarked.jpg",
+  "wheelF": [
+   229.35,
+   274.19635836734693
+  ],
+  "wheelR": [
+   648.49,
+   274.19635836734693
+  ],
+  "tipF": 52.4619093877551,
+  "crop": [
+   30,
+   90,
+   850,
+   345
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/17-992-1-2019/vec-17529_porsche-911-carrera-4s-992-2019_4view-dims-watermarked.jpg",
+  "tipF": 50.5,
+  "tipR": 826.5,
+  "centreY": 628.0,
+  "crop": [
+   30,
+   440,
+   850,
+   820
+  ]
+ },
+ "front": {
+  "image": "research/blueprints/17-992-1-2019/vec-17529_porsche-911-carrera-4s-992-2019_4view-dims-watermarked.jpg",
+  "centreX": 1053.75,
+  "groundY": 333.42602591792655,
+  "left": 894,
+  "right": 1213.5,
+  "width": 1.852,
+  "crop": [
+   860,
+   95,
+   1260,
+   340
+  ]
+ },
+ "rear": {
+  "image": "research/blueprints/17-992-1-2019/vec-17529_porsche-911-carrera-4s-992-2019_4view-dims-watermarked.jpg",
+  "centreX": 1054.25,
+  "groundY": 749.1268898488121,
+  "left": 894,
+  "right": 1214.5,
+  "width": 1.852,
+  "crop": [
+   860,
+   510,
+   1260,
+   755
+  ]
+ }
+}

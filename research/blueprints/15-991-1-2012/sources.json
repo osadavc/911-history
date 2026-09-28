@@ -1,0 +1,142 @@
+{
+  "stop_id": "15-991-1-2012",
+  "coverage_summary": "Vendor 4-view with dims is the only verified orthographic set; several side drawings (one distorted).",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-4101_porsche-911-carrera-s-991-2012_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/4101/porsche_911_carrera_s_991/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_s_991_2011.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 Carrera S 991 (2012)' colour 4-view.",
+      "labeled_dims": "wheelbase 2450, length 4490, width 1806, height 1293 (mm)",
+      "measured_wb_over_len": 0.551,
+      "accuracy_notes": "Manual reading: hubs ~218/~640 px, extremes ~52-818 px -> 0.551 vs printed 2450/4490 = 0.5457 and Wikipedia 991 Carrera 2450/4491 mm = 0.5455 https://en.wikipedia.org/wiki/Porsche_911_(991) (+1%).",
+      "bytes": 429852,
+      "ratio_check_vs_official": "measured WB/L 0.551 vs official 2450/4491 mm = 0.545 -> +1.0% : close (1-2%)"
+    },
+    {
+      "file": "tbp-56902_porsche-911-carrera-4s-2013_side-package-dims.png",
+      "rank": "secondary",
+      "views_included": [
+        "side (with interior dims)"
+      ],
+      "resolution_px": "1756x523",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/56902/view/porsche_911_carrera_4s_2013/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-4s-2013-2.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "991.1 Carrera 4S side with interior package dimensions (mm).",
+      "accuracy_notes": "Not verified.",
+      "bytes": 101222
+    },
+    {
+      "file": "tbp-56297_porsche-911-carrera-4s-2013_side-top-chassis.png",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "top (chassis/drivetrain ghost)"
+      ],
+      "resolution_px": "510x400",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/56297/view/porsche_911_carrera_4s_2013/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-4s-2013.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "991.1 C4S side and top with drivetrain overlay.",
+      "accuracy_notes": "Small.",
+      "bytes": 57377
+    },
+    {
+      "file": "official_photo_991-1_carrera_front.jpg",
+      "views_included": [
+        "front (straight-on studio photo)"
+      ],
+      "source_page": "http://web.archive.org/web/20131219132823/http://www.porsche.com/international/models/911/911-carrera/gallery/",
+      "image_url": "http://web.archive.org/web/20131219132823id_/http://files1.porsche.com/filestore.aspx/zoom.jpg?pool=multimedia&type=galleryimagerwd&id=rd-2013-991-c2-gallery-exterior-01&lang=none&filetype=zoom",
+      "license_notes": "Official Porsche AG gallery image (porsche.com, 2013), 1600x900; copyright Porsche AG, reference use only",
+      "accuracy_notes": "Real photograph, centred straight-on front view; mild perspective (not orthographic). Good for headlight/apron/intake layout of the 991.1 Carrera (Bi-Xenon, slim LED apron strips, three intakes).",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1600x900"
+    },
+    {
+      "file": "official_photo_991-1_carrera_rear.jpg",
+      "views_included": [
+        "rear (straight-on studio photo)"
+      ],
+      "source_page": "http://web.archive.org/web/20131219132823/http://www.porsche.com/international/models/911/911-carrera/gallery/",
+      "image_url": "http://web.archive.org/web/20131219132823id_/http://files1.porsche.com/filestore.aspx/zoom.jpg?pool=multimedia&type=galleryimagerwd&id=rd-2013-991-c2-gallery-exterior-04&lang=none&filetype=zoom",
+      "license_notes": "Official Porsche AG gallery image, 1600x900",
+      "accuracy_notes": "Straight-on rear photo with mild perspective; shows slim separate LED taillights, horizontal-louvre grille, single oval tailpipe each side (Carrera).",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1600x900"
+    },
+    {
+      "file": "official_photo_991-1_carrera_top.jpg",
+      "views_included": [
+        "top (overhead studio photo)"
+      ],
+      "source_page": "http://web.archive.org/web/20131219132823/http://www.porsche.com/international/models/911/911-carrera/gallery/",
+      "image_url": "http://web.archive.org/web/20131219132823id_/http://files1.porsche.com/filestore.aspx/zoom.jpg?pool=multimedia&type=galleryimagerwd&id=rd-2013-991-c2-gallery-exterior-05&lang=none&filetype=zoom",
+      "license_notes": "Official Porsche AG gallery image, 1600x900",
+      "accuracy_notes": "Overhead photo (slight perspective); useful for plan-view waist, mirrors on doors, grille, fuel flap on right front wing.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1600x900"
+    },
+    {
+      "file": "official_photo_991-1_carrera_side-right.jpg",
+      "views_included": [
+        "side, right (outdoor telephoto photo)"
+      ],
+      "source_page": "http://web.archive.org/web/20131219132823/http://www.porsche.com/international/models/911/911-carrera/gallery/",
+      "image_url": "http://web.archive.org/web/20131219132823id_/http://files1.porsche.com/filestore.aspx/zoom.jpg?pool=multimedia&type=galleryimagerwd&id=rd-2013-991-c2-gallery-exterior-15&lang=none&filetype=zoom",
+      "license_notes": "Official Porsche AG gallery image, 1600x900",
+      "accuracy_notes": "NOT to scale: image L/WB = 1.728 vs true 4491/2450 = 1.833 (perspective shrinks the ends ~6 %). Use for shapes/feature placement only.",
+      "_from": "part_F.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1600x900"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/62531/view/porsche_911_carerra_991_2014/",
+      "reason": "Side drawing measures WB/L 0.567 vs 0.546 official - distorted, not copied."
+    },
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/64514/view/porsche_911_991_2011/",
+      "reason": "Same contributor side series as the distorted 996/997/991 drawings - not copied."
+    }
+  ],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5455,
+    "dims": "2450/4491 mm",
+    "sources": [
+      "http://web.archive.org/web/20130520150153/http://www.porsche.com/international/models/911/911-carrera/featuresandspecs/",
+      "http://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_991_2012.pdf",
+      "https://en.wikipedia.org/wiki/Porsche_911_(991)",
+      "https://newsroom.porsche.com/dam/jcr:05c3198c-772f-4e4d-88ad-b6fce31b66ed/S11_0327_en.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

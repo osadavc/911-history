@@ -1,0 +1,698 @@
+[
+  {
+    "file": "01-side-left.jpg",
+    "view": "side-left",
+    "description": "Official photo: 911 Carrera (992.2, MY2025), Slate Grey Neo (colour named in the Porsche gallery title), car's LEFT flank, nose to image-left; distant camera at about hub height = near-orthographic profile. Busy architectural background.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:f61bff7c-fda5-41d2-8adc-0f26ee4fc2e5/SLATE_GREY_NEO_911_CARRERA_023_A1_07288.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption 'Slate Grey Neo 911 Carrera' in the 992.2 US model-range gallery",
+      "992 flush pop-out door handle",
+      "front apron without LED strip above intake",
+      "wheels appear as circles"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "02-side-left.jpg",
+    "view": "side-left",
+    "description": "911 Carrera (992.2) coupe, grey metallic (name not stated), parked in Nancy, France, 2025-08-08. Car's LEFT flank, nose to image-left; near-orthographic profile at hub height, plain wall background.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_(2).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Porsche_992_Carrera_%282%29.jpg",
+    "author": "Alexandre Prevot",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "checked at full resolution: no LED light strip on top of the front side intake (992.2)",
+      "3 horizontal blades visible in the front side intake",
+      "Commons categories 'Porsche 911 Carrera (992.2)' / 'Porsche 992.2 coupes'"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "03-side-left.jpg",
+    "view": "side-left",
+    "description": "Official photo: 911 Carrera S (992.2, MY2025) in Cartagena Yellow Metallic (per Porsche file name 'CARTEGENA_YELLOW_METALLIC_911_CARRERA_S'), car's LEFT flank at the coast; slightly rear-biased near-profile.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:8e292fd8-841d-4db0-b860-21c99136f459/CARTEGENA_YELLOW_METALLIC_911_CARRERA_S_010_A1_05075.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche US gallery '2025 911 Carrera S'",
+      "full-width light strip wrapping into the flank",
+      "flush door handle"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "04-side-right.jpg",
+    "view": "side-right",
+    "description": "Official photo: base 911 Carrera (992.2), bright blue (paint name not stated), 2024 media drive at a race track; true side profile of the car's RIGHT flank, nose to image-right, camera at about hub height. Clean track/sky background - best 992.2 side tracing reference.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287879&w=6000&h=4002&crop=0&public=1&cs=db772755d0364256",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption 'Porsche 911 Carrera, Media Drive, 2024'",
+      "no LED strip in front apron; horizontal intake blades",
+      "fuel-filler flap on right front wing",
+      "wheels appear as circles = near-orthographic"
+    ],
+    "tracing": "side",
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "05-side-right.jpg",
+    "view": "side-right",
+    "description": "Official studio photo: 911 Carrera GTS (992.2, 2024) coupe, Slate Grey Neo (colour taken from Porsche's US file names for the same S-GO 4202 press car), car's RIGHT flank on a plain dark studio background. GTS variant (T-Hybrid): same body shell/silhouette as Carrera, but GTS-specific front/rear aprons, black wheels, yellow calipers.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=281503&w=6000&h=4500&crop=0&public=1&cs=4a2263d7ca2a8560",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery '911 Carrera GTS, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche caption '911 Carrera GTS, 2024'",
+      "992.2 GTS front with vertical active cooling flaps visible at nose",
+      "plain studio background, near-orthographic"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "06-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Official world-premiere photo: base 911 Carrera (992.2), blue, front + car's LEFT flank, driving on a country road.",
+    "source_page": "https://newsroom.porsche.com/en/2024/products/porsche-new-911-world-premiere-hybrid-36322.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2024/Products/992-II/911-Carrera/911_Carrera_RG24_0021_new_BG_Kopie.jpg",
+    "author": "Porsche AG (press release 'The new Porsche 911: T-Hybrid...', world premiere 28/05/2024)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')",
+      "matrix-LED headlights with 4-point signature"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "07-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "Official photo: 2025 911 Carrera S (992.2), white/pale grey (paint name not stated), front + car's LEFT flank, modern villa driveway.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:5ca68d3a-139f-4f4e-8938-05ee44f4b4f5/S25_0025_a3_rgb.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "Carrera S-specific front intakes",
+      "red calipers, 20/21-inch wheels"
+    ],
+    "size": [
+      1920,
+      1081
+    ]
+  },
+  {
+    "file": "08-front-34-left.jpg",
+    "view": "front-34-left",
+    "description": "2025 911 Carrera (992.2) coupe, silver/grey metallic, car show, USA, 2025-10-19. Front + car's LEFT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_(992.2,_2025)_(54872769145).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Porsche_911_Carrera_%28992.2%2C_2025%29_%2854872769145%29.jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "photographer's caption 'Porsche 911 Carrera (992.2, 2025)'"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "09-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "992.2 911 Carrera coupe, dark blue (Gentian Blue-like; name not stated), UK registration LJ74 UGZ (a '74' plate = registered Sept 2024-Feb 2025), photographed 2024-09-08. Front + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_992_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Porsche_911_992_2.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "UK age identifier '74' fits the 992.2 launch period"
+    ],
+    "size": [
+      1920,
+      1206
+    ]
+  },
+  {
+    "file": "10-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "Official photo: base 911 Carrera (992.2), bright blue, front + car's RIGHT flank, 2024 media drive at a race track.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287886&w=6000&h=4002&crop=0&public=1&cs=2b0da7a92381cf93",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "11-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "Official photo: 911 Carrera (992.2), Slate Grey Neo, front + car's RIGHT flank in front of a concrete/red wall.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:97a591c5-07e2-460b-82b5-037e5ba4079f/SLATE_GREY_NEO_911_CARRERA_001_A1_09406.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "12-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "Official photo: 911 Carrera S (992.2) in Cartagena Yellow Metallic (per Porsche file name), front + car's RIGHT flank, coastal overlook.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:217df53a-b98e-4a12-b573-6b2e08a510db/CARTEGENA_YELLOW_METALLIC_911_CARRERA_S_026_A1_03708.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "13-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "992.2 911 coupe (variant badge not legible), light grey (name not stated), Porsche Zentrum Stuttgart-Flughafen plate ES-CL 992, Stuttgart-Vaihingen, 2026-01-18. Front + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_992.2_coupes_IMG_4597.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Porsche_992.2_coupes_IMG_4597.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "same car's rear (see rear-34 photo) has PORSCHE lettering integrated into the light strip"
+    ],
+    "size": [
+      1920,
+      1278
+    ]
+  },
+  {
+    "file": "14-front-34-right.jpg",
+    "view": "front-34-right",
+    "description": "992.2 911 Carrera coupe, bright blue (name not stated), '911 Carrera' display plate, shown at the Goodwood Festival of Speed, July 2024 (first UK showing of the facelift). Front + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2024_Porsche_911_992_Carrera.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2024_Porsche_911_992_Carrera.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "horizontal intake blades",
+      "Commons category 'Porsche 911 Carrera (992.2)'"
+    ],
+    "size": [
+      1920,
+      1369
+    ]
+  },
+  {
+    "file": "15-front.jpg",
+    "view": "front",
+    "description": "Official photo: 911 Carrera (992.2), Slate Grey Neo, straight-on front view while driving in a concrete channel (car sharp, background motion-blurred); camera slightly above bonnet height.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:77038ee5-7e3d-41f1-bef1-6600c68b35f1/SLATE_GREY_NEO_911_CARRERA_008_A1_04222.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')",
+      "centred symmetrical view",
+      "radar/camera sensors in gloss-black panel below the number plate (992.2)"
+    ],
+    "tracing": "front",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "16-front.jpg",
+    "view": "front",
+    "description": "Official photo: 2025 911 Carrera S (992.2), white/pale grey, straight-on front, slightly elevated camera.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:3694d38e-3209-408a-a462-e9932dea624a/S25_0020_a3_rgb.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "Carrera S front apron"
+    ],
+    "size": [
+      1920,
+      1807
+    ]
+  },
+  {
+    "file": "17-front.jpg",
+    "view": "front",
+    "description": "911 Carrera (992.2) coupe, grey metallic, front view (slightly off-centre), Nancy, France, 2025-07-22.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gray_Porsche_992_Carrera.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Gray_Porsche_992_Carrera.jpg",
+    "author": "Alexandre Prevot",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')",
+      "checked at full resolution against a 992.1 front: no light strip along the top of the side intakes"
+    ],
+    "size": [
+      1920,
+      1280
+    ]
+  },
+  {
+    "file": "18-front.jpg",
+    "view": "front",
+    "description": "Official studio photo: 911 Carrera GTS (992.2, 2024), Slate Grey Neo, straight-on front on a dark studio background. NOTE: GTS-specific front apron with five vertical active cooling flaps per side - the base Carrera has horizontal blades instead; use for headlight/bonnet/width only.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=281486&w=6000&h=4500&crop=0&public=1&cs=837c775d6f820f48",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery '911 Carrera GTS, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 GTS: vertical active cooling-air flaps",
+      "matrix-LED headlights with integrated indicators",
+      "no light strip in bumper"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "19-rear.jpg",
+    "view": "rear",
+    "description": "Official studio photo: 911 Carrera GTS (992.2, 2024), Slate Grey Neo, straight-on rear on a dark studio background. Body, light strip, rear lid and plate position shared with the Carrera; the GTS adds two air scoops/centre-exit exhaust in the rear apron.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=281491&w=6000&h=4500&crop=0&public=1&cs=8fdae3572b2436d3",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery '911 Carrera GTS, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper",
+      "Porsche caption '911 Carrera GTS, 2024'"
+    ],
+    "tracing": "rear",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "20-rear.jpg",
+    "view": "rear",
+    "description": "Official photo: base 911 Carrera (992.2), bright blue, from directly behind and above (elevated rear view) on a race track.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287905&w=6000&h=4002&crop=0&public=1&cs=7e048cc201f6513a",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper",
+      "'911 Carrera' script",
+      "standard exhaust with one oval tailpipe each side"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "21-rear-34-left.jpg",
+    "view": "rear-34-left",
+    "description": "Official photo: 911 Carrera (992.2), Slate Grey Neo, rear + car's LEFT flank, driving in the Los Angeles river channel.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:fd6e041f-4bf7-49ea-9a7a-f338485cb3d3/SLATE_GREY_NEO_911_CARRERA_015__SIM3993.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper",
+      "'911 Carrera' script"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "22-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Official world-premiere photo: base 911 Carrera (992.2), blue, rear + car's RIGHT flank, driving on a country road.",
+    "source_page": "https://newsroom.porsche.com/en/2024/products/porsche-new-911-world-premiere-hybrid-36322.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2024/Products/992-II/911-Carrera/911_Carrera_RG24_0014_new_BG_Kopie.jpg",
+    "author": "Porsche AG (press release 'The new Porsche 911: T-Hybrid...', world premiere 28/05/2024)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper",
+      "'911 Carrera' script, single oval tailpipes"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "23-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Official photo: 2025 911 Carrera S (992.2), white/pale grey, rear + car's RIGHT flank in a villa carport.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:a72eb932-91e5-439f-8376-2a40128c67be/S25_0022_a3_rgb.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper",
+      "'911 Carrera S' script"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "24-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "Official photo: 911 Carrera S (992.2) in Cartagena Yellow Metallic (per Porsche file name), rear + car's RIGHT flank at sunset.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:d3720aa8-44b8-4673-950a-312fc45aa9aa/CARTEGENA_YELLOW_METALLIC_911_CARRERA_S_009_A1_04587.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "25-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "2025 911 Carrera (992.2) coupe, silver/grey metallic, rear + car's RIGHT flank, car show, USA, 2025-10-19.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_(992.2,_2025)_(54872469641).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_911_Carrera_%28992.2%2C_2025%29_%2854872469641%29.jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "'911' script",
+      "photographer's caption 'Porsche 911 Carrera (992.2, 2025)'"
+    ],
+    "size": [
+      1920,
+      1240
+    ]
+  },
+  {
+    "file": "26-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "2025 911 Carrera S (992.2) coupe, bright blue (name not stated), dealer event with '911' plate, 2025-10-12. Rear + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2025_Porsche_911_Carrera_S_rear.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/2025_Porsche_911_Carrera_S_rear.jpg",
+    "author": "TTTNIS",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "'911 Carrera S' script"
+    ],
+    "size": [
+      1920,
+      929
+    ]
+  },
+  {
+    "file": "27-rear-34-right.jpg",
+    "view": "rear-34-right",
+    "description": "992.2 911 coupe, light grey (name not stated), plate ES-CL 992, Stuttgart-Vaihingen, 2026-01-18. Rear + car's RIGHT flank.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_992.2_coupes_IMG_4603.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Porsche_992.2_coupes_IMG_4603.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "number plate high in the rear bumper"
+    ],
+    "size": [
+      1920,
+      921
+    ]
+  },
+  {
+    "file": "28-top.jpg",
+    "view": "top",
+    "description": "Official photo shot straight down (plan view): yellow 911 Carrera S coupe (992.2, left/top car) beside a Gentian Blue Metallic 911 Carrera S Cabriolet (Porsche caption names the cabriolet). Use the coupé for the top-view silhouette.",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera-S.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:00fe06a5-1b66-4341-a0f6-441902125ca4/C2S-0345%20Kopie.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "true overhead view",
+      "rear-lid grille and light strip visible from above",
+      "992 forward-extended bonnet with recess"
+    ],
+    "tracing": "top",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "29-top.jpg",
+    "view": "top",
+    "description": "Official photo: 911 Carrera (992.2), Slate Grey Neo, seen from high above/behind (rear three-quarter top view).",
+    "source_page": "https://newsroom.porsche.com/en_US/model-range/911/911-carrera.html",
+    "image_url": "https://newsroom.porsche.com/dam/jcr:20dfe74a-d7da-469f-8a08-ce9c297d905b/SLATE_GREY_NEO_911_CARRERA_013__SIM0570.jpg",
+    "author": "Porsche Cars North America / Porsche AG (Porsche Newsroom USA model-range gallery)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "file": "30-detail-headlight.jpg",
+    "view": "detail-headlight",
+    "description": "Official detail: matrix-LED headlight of the blue 911 Carrera (992.2, 2024) - standard on 992.2 with all light functions integrated.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287866&w=4002&h=6000&crop=0&public=1&cs=6fa79f2aa920de5c",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 matrix-LED headlight with 4-point DRL graphic and integrated indicator"
+    ],
+    "size": [
+      1281,
+      1920
+    ]
+  },
+  {
+    "file": "31-detail-taillight.jpg",
+    "view": "detail-taillight",
+    "description": "Official world-premiere detail: rear of the blue 911 Carrera (992.2) - light strip with integrated arc and 'PORSCHE' lettering, rear-lid grille, '911 Carrera' script, higher number plate.",
+    "source_page": "https://newsroom.porsche.com/en/2024/products/porsche-new-911-world-premiere-hybrid-36322.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2024/Products/992-II/911-Carrera/911_Carrera_RG24_0069-work_Kopie.jpg",
+    "author": "Porsche AG (press release 'The new Porsche 911: T-Hybrid...', world premiere 28/05/2024)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)",
+      "rear-lid grille with 5 louvres per side around the centre third brake light (992.1 had 9 per side)",
+      "number plate mounted higher in a more structured rear bumper"
+    ],
+    "size": [
+      1883,
+      1059
+    ]
+  },
+  {
+    "file": "32-detail-taillight.jpg",
+    "view": "detail-taillight",
+    "description": "Official detail close-up: light strip with the 'PORSCHE' lettering integrated inside the lamp unit and '911 Carrera' script, blue 911 Carrera (992.2).",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287918&w=6000&h=4002&crop=0&public=1&cs=8db53f003237ee3d",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 rear: 'PORSCHE' lettering integrated inside the full-width light strip (992.1 had the lettering on the body below the light bar)"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "33-detail-engine-lid.jpg",
+    "view": "detail-engine-lid",
+    "description": "Official detail: rear-lid cooling grille of the blue 911 Carrera (992.2): black louvres, centre third brake light, grille forming a graphic unit with the rear window.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287916&w=6000&h=4002&crop=0&public=1&cs=35115047e15ff78a",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche: 'A redesigned rear grille with five fins per side connects to the rear window to form a graphic unit'"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "34-detail-wheel.jpg",
+    "view": "detail-wheel",
+    "description": "Official detail: front wheel (5-spoke design) and front corner of the blue 911 Carrera (992.2), showing the horizontal intake blades from the side.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287867&w=6000&h=4002&crop=0&public=1&cs=8d0675a25863d4f3",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')",
+      "5-spoke two-tone wheel with black caliper (base Carrera)"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "35-interior.jpg",
+    "view": "interior",
+    "description": "Official world-premiere photo: cockpit of the 911 Carrera (992.2): fully digital curved 12.6-inch instrument cluster, 10.9-inch PCM screen, start button (no longer a twist/toggle), brown leather.",
+    "source_page": "https://newsroom.porsche.com/en/2024/products/porsche-new-911-world-premiere-hybrid-36322.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2024/Products/992-II/Interieur/911_Carrera_RG24_0075-3__Displays_Kopie.jpg",
+    "author": "Porsche AG (press release 'The new Porsche 911: T-Hybrid...', world premiere 28/05/2024)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2: fully digital instrument cluster (992.1 kept an analogue centre rev counter)",
+      "start button left of the wheel"
+    ],
+    "size": [
+      1800,
+      1013
+    ]
+  },
+  {
+    "file": "36-other.jpg",
+    "view": "other",
+    "description": "Official detail: rear apron of the blue 911 Carrera (992.2) with the higher-mounted number plate and the Carrera's oval tailpipes integrated into the diffuser.",
+    "source_page": "https://newsroom.porsche.com/en/press-kits/911.html",
+    "image_url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=287915&w=6000&h=4002&crop=0&public=1&cs=9dd82585a45ab642",
+    "author": "Porsche AG (press kit 'Porsche 911 Carrera & 911 Carrera GTS', gallery 'Porsche 911 Carrera, Media Drive, 2024')",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "Porsche: 'The number plate is positioned higher, with a clearly structured rear bumper'",
+      "model-specific tailpipes integrated in diffuser fins"
+    ],
+    "size": [
+      1920,
+      1281
+    ]
+  },
+  {
+    "file": "37-other.jpg",
+    "view": "other",
+    "description": "Official world-premiere detail: left front intake of the blue 911 Carrera (992.2) - horizontal blades, no light strip.",
+    "source_page": "https://newsroom.porsche.com/en/2024/products/porsche-new-911-world-premiere-hybrid-36322.html",
+    "image_url": "https://newsroom.porsche.com/dam/pnr/2024/Products/992-II/911-Carrera/911_Carrera_RG24_0067_2.jpg",
+    "author": "Porsche AG (press release 'The new Porsche 911: T-Hybrid...', world premiere 28/05/2024)",
+    "license": "© Porsche AG — press/editorial use",
+    "license_url": "https://newsroom.porsche.com/en/legal-notice.html",
+    "verified_features": [
+      "992.2 front: NO LED light strip in the bumper - all light functions moved into the matrix-LED headlights (992.1 had a thin light strip on top of each side intake)",
+      "base-Carrera front: horizontal cooling-air blades in the side intakes (Porsche: 'the 911 Carrera has inherited the characteristic horizontal cooling air intakes')"
+    ],
+    "size": [
+      1920,
+      1080
+    ]
+  }
+]

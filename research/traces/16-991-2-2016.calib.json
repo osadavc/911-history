@@ -1,0 +1,60 @@
+{
+ "side": {
+  "image": "research/blueprints/16-991-2-2016/dd_porsche-official_911-carrera-s-2016_front-rear-side-mm.gif",
+  "wheelF": [
+   504.5,
+   1093.2010204081632
+  ],
+  "wheelR": [
+   1215.5,
+   1093.2010204081632
+  ],
+  "tipF": 216.18077551020409,
+  "crop": [
+   180,
+   780,
+   1560,
+   1200
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/16-991-2-2016/vec-12233_porsche-911-carrera-s-991-2-2016_4view-dims-watermarked.jpg",
+  "tipF": 40,
+  "tipR": 808,
+  "centreY": 627.0,
+  "crop": [
+   10,
+   440,
+   840,
+   820
+  ]
+ },
+ "front": {
+  "image": "research/blueprints/16-991-2-2016/dd_porsche-official_911-carrera-s-2016_front-rear-side-mm.gif",
+  "centreX": 369.0,
+  "groundY": 471.48960739030025,
+  "left": 101,
+  "right": 637,
+  "width": 1.808,
+  "crop": [
+   40,
+   60,
+   700,
+   490
+  ]
+ },
+ "rear": {
+  "image": "research/blueprints/16-991-2-2016/dd_porsche-official_911-carrera-s-2016_front-rear-side-mm.gif",
+  "centreX": 1357.5,
+  "groundY": 471.48960739030025,
+  "left": 1090,
+  "right": 1625,
+  "width": 1.808,
+  "crop": [
+   1030,
+   60,
+   1690,
+   490
+  ]
+ }
+}

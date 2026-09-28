@@ -1,0 +1,86 @@
+{
+  "stop_id": "04-carrera-rs-27-1973",
+  "coverage_summary": "Good: clean 4-view line drawing + vendor 4-view with dimensions.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-83845_porsche-911-carrera-rs-27-1973_4view.png",
+      "rank": "primary",
+      "views_included": [
+        "front",
+        "side",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1946x1026",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/83845/view/porsche_911_carrera_rs_27_1973/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-rs-27-1973.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Carrera RS 2.7 coupe: ducktail, 'Carrera' side script, Fuchs wheels, flared rear arches, slim bumpers.",
+      "measured_wb_over_len": 0.536,
+      "accuracy_notes": "Measured WB/L 0.536 (auto, overlay verified). Compare with official RS 2.7 figures in geometry.json (vendor preview below prints 2271/4102 = 0.554, a 3% disagreement - one of the two is off; trust the official length/wheelbase and scale by wheelbase).",
+      "bytes": 210048,
+      "ratio_check_vs_official": "measured WB/L 0.536 vs official 2271/4102 mm = 0.554 -> -3.2% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "vec-4925_porsche-911-rs-1973_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/4925/porsche_911_carrera_rs/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_rs_1973.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 RS (1973)' line drawing with ducktail.",
+      "labeled_dims": "wheelbase 2271, length 4102, width 1652, track F 1372 / R 1404, height 1320 (mm)",
+      "measured_wb_over_len": 0.565,
+      "accuracy_notes": "Measured 0.565 (overlay verified: its own 2271 and 4102 dimension lines span ~400 and ~710 px, i.e. the vendor drawing is internally ~2% inconsistent) vs printed 0.554; low-res. Printed length 4102 should be checked against the official RS length (geometry.json).",
+      "bytes": 279270,
+      "ratio_check_vs_official": "measured WB/L 0.565 vs official 2271/4102 mm = 0.554 -> +2.1% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "vec-27875_porsche-911-f-series-carrera-rs-27_4view-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/27875/porsche_911_f_series_carrera_rs_27/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_f_series_carrera_rs_27.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 (F series) Carrera RS 2.7' - shows a front spoiler and wide arches; appears to be a competition-prepared example (roll-over/tow details) - use with care.",
+      "labeled_dims": "wheelbase 2271",
+      "accuracy_notes": "Not measured; use for detail cross-check only.",
+      "bytes": 396137
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5536,
+    "dims": "2271/4102 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_911_(1963)",
+      "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1973-rs.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

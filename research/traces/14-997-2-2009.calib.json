@@ -1,0 +1,50 @@
+{
+ "side": {
+  "image": "research/blueprints/14-997-2-2009/vec-838_porsche-911-carrera-997-2010_side-top-dims-watermarked.jpg",
+  "wheelF": [
+   220.5,
+   268.0
+  ],
+  "wheelR": [
+   624.5,
+   268.0
+  ],
+  "tipF": 48.6,
+  "crop": [
+   20,
+   80,
+   830,
+   340
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/14-997-2-2009/vec-838_porsche-911-carrera-997-2010_side-top-dims-watermarked.jpg",
+  "tipF": 40.0,
+  "tipR": 804.0,
+  "centreY": 629.0,
+  "crop": [
+   20,
+   450,
+   830,
+   810
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/14-997-2-2009/06-side-right.jpg",
+  "wheelF": [
+   1403.1,
+   1039.0
+  ],
+  "wheelR": [
+   614.4,
+   1040.0
+  ],
+  "tipF": 1738.6,
+  "crop": [
+   240,
+   760,
+   1760,
+   1160
+  ]
+ }
+}

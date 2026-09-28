@@ -1,0 +1,428 @@
+[
+ {
+  "file": "01-side-left.jpg",
+  "view": "side-left",
+  "description": "Porsche 911 Carrera coupé (996.1, launch-era press car, c. MY1998/99), official studio side profile on grey gradient; car's LEFT side (nose points left). Paint: light silver/beige metallic (not stated by source; same car as press plate S-PR 195). Silver 5-spoke twist-design wheels.",
+  "source_page": "https://newsroom.porsche.com/en/history/porsche-911-seven-generations-part-5-typ-996-16487.html",
+  "image_url": "https://newsroom.porsche.com/dam/jcr:5dcc354b-4c1f-4896-830a-81058a6186eb/b-P13_0162.jpg",
+  "author": "Porsche AG",
+  "license": "© Porsche AG — press/editorial use; kept locally as research reference only",
+  "license_url": "https://newsroom.porsche.com/",
+  "verified_features": [
+   "amber side-marker lenses in the front wing and apron corner (early 996.1 amber-lens lighting)",
+   "996.1 fried-egg headlight shape (same press car shown head-on in 13-front-34-left)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "short rear spoiler retracted flush with engine lid",
+   "camera at roughly wheel-hub height, long lens — near-orthographic"
+  ],
+  "tracing": "side"
+ },
+ {
+  "file": "02-side-right.jpg",
+  "view": "side-left",
+  "description": "2001 Porsche 911 Carrera coupé 6-speed (996.1), Guards Red, 18-inch Turbo-look wheels; car's RIGHT side (nose points right), low camera at hub height, long lens.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7627-23511-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight shape of the 996.1 with the later clear indicator lens (MY2000.5–2001); lower edge follows the bumper line (no 996.2 Turbo-style S-curve)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "BaT listing states model year 2001 and Guards Red paint",
+   "good secondary side reference (mirror side of the traced 01)"
+  ],
+  "label_note": "Filename says side-right, but the photo shows the car's left side (nose pointing left); view corrected, filename kept so trace references stay valid."
+ },
+ {
+  "file": "03-side-right.jpg",
+  "view": "side-right",
+  "description": "2000 Porsche 911 Carrera coupé 6-speed (996.1), Forest Green Metallic; car's RIGHT side (nose points right), shot from distance with long lens. Note: calipers painted red (cosmetic, non-standard for a Carrera).",
+  "source_page": "https://bringatrailer.com/listing/2000-porsche-911-carrera-coupe-6-speed/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2023/08/2000_Porsche_911_996_Coupe_Rainforest_Green_6_Speed_Manual_For_Sale_By_Backroads-22-35768-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 fried-egg headlight shape visible at nose",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "17/18-inch 5-spoke twist wheels",
+   "BaT listing states 2000 and Forest Green Metallic"
+  ]
+ },
+ {
+  "file": "04-side-right.jpg",
+  "view": "side-right",
+  "description": "1999 Porsche 911 Carrera coupé 6-speed (996.1), Glacier White; car's RIGHT side, 17-inch Carrera twist wheels.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_dd9a0270-df3d-4441-af6e-78c0001341ff-y7yLMA-50869-50871-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000)",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "17-inch 5-spoke 'Carrera' twist wheels",
+   "BaT listing states 1999 and Glacier White"
+  ]
+ },
+ {
+  "file": "05-side-left.jpg",
+  "view": "side-left",
+  "description": "1999 Porsche 911 Carrera coupé 6-speed (996.1, Japanese-market), Arctic Silver Metallic, 18-inch Turbo-look wheels; car's LEFT side, long lens.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-216/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2026/07/01_Exterior-996-BRA_7818-HDR-97389.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 fried-egg headlight shape",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "BaT listing states 1999 and Arctic Silver Metallic"
+  ]
+ },
+ {
+  "file": "06-side-right.jpg",
+  "view": "side-right",
+  "description": "Porsche 911 Carrera coupé (996.1), black, 17-inch twist wheels; car's RIGHT side, parked (Commons category 'Porsche 996 Carrera (1997) coupes'; companion shots 'Porsche 911 vr.jpg' / 'hr.jpg' show the fried-egg headlights).",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_r.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Porsche_911_r.jpg/1280px-Porsche_911_r.jpg",
+  "author": "not machine-readable on Commons (see file page / upload history)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "verified_features": [
+   "996.1 fried-egg headlight (checked on companion photo of the same car)",
+   "narrow-body Carrera (no wide rear arches), stock ride height",
+   "stock 17-inch Carrera twist wheels",
+   "free licence alternative for the side view (lower resolution, slight 3/4)"
+  ]
+ },
+ {
+  "file": "07-front.jpg",
+  "view": "front",
+  "description": "2001 Porsche 911 Carrera coupé (996.1), Guards Red — straight-on front at bumper height, long lens.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7671-23885-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight shape of the 996.1 with the later clear indicator lens (MY2000.5–2001); lower edge follows the bumper line (no 996.2 Turbo-style S-curve)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "no front plate",
+   "BaT listing states 2001 Guards Red"
+  ],
+  "tracing": "front"
+ },
+ {
+  "file": "08-front.jpg",
+  "view": "front",
+  "description": "1999 Porsche 911 Carrera coupé (996.1), Arena Red Metallic — straight-on front (wheels refinished black by owner, not visible here).",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-175/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/10/Porsche-911_20251007-007-29372-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000) — amber lower lenses clearly visible",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "BaT listing states 1999 Arena Red Metallic"
+  ]
+ },
+ {
+  "file": "09-front.jpg",
+  "view": "front",
+  "description": "1999 Porsche 911 Carrera coupé (996.1), Mirage Metallic — straight-on front (plate holder blanked).",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-182/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/11/PorscheCarrera99-a-10313-24923-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "BaT listing states 1999 Mirage Metallic"
+  ]
+ },
+ {
+  "file": "10-rear.jpg",
+  "view": "rear",
+  "description": "2001 Porsche 911 Carrera coupé (996.1), Guards Red — straight-on rear from distance, long lens.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7645-23672-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "engine-lid grille with 'Carrera' script, integrated deployable spoiler retracted",
+   "red/clear 996.1 taillights"
+  ],
+  "tracing": "rear"
+ },
+ {
+  "file": "11-rear.jpg",
+  "view": "rear",
+  "description": "2000 Porsche 911 Carrera coupé (996.1), Forest Green Metallic — straight-on rear, long lens.",
+  "source_page": "https://bringatrailer.com/listing/2000-porsche-911-carrera-coupe-6-speed/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2023/08/2000_Porsche_911_996_Coupe_Rainforest_Green_6_Speed_Manual_For_Sale_By_Backroads-19-35739-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "'Carrera' script on engine lid",
+   "BaT listing states 2000 Forest Green Metallic"
+  ]
+ },
+ {
+  "file": "12-front-34-left.jpg",
+  "view": "front-34-left",
+  "description": "Porsche 911 Carrera coupé (996.1) official press photo, dark blue metallic (colour not stated), front 3/4 showing the car's LEFT side, driving (motion blur background).",
+  "source_page": "https://newsroom.porsche.com/en/history/porsche-911-seven-generations-part-5-typ-996-16487.html",
+  "image_url": "https://newsroom.porsche.com/dam/pnr/porsche_newsroom/Produkte/911/992/911-Generationen/Typ-996/b-P13_0210.jpg",
+  "author": "Porsche AG",
+  "license": "© Porsche AG — press/editorial use; kept locally as research reference only",
+  "license_url": "https://newsroom.porsche.com/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "silver 5-spoke wheels",
+   "official Porsche AG image from the 911 generations history series"
+  ]
+ },
+ {
+  "file": "13-front-34-left.jpg",
+  "view": "front-34-left",
+  "description": "Porsche 911 Carrera coupé (996.1) — cut-out on white, cropped from Porsche AG infographic 'Porsche 911: Across the Generations — Part 5 (Type 996)'. Same silver/beige press car (S-PR 195) as 01-side-left; car's LEFT side, front 3/4.",
+  "source_page": "https://newsroom.porsche.com/en/history/porsche-911-seven-generations-part-5-typ-996-16487.html",
+  "image_url": "https://newsroom.porsche.com/dam/jcr:51823233-1670-4490-b3ce-38f64bdd36f7/04_911er_Generationen_996_EN.jpg",
+  "author": "Porsche AG",
+  "license": "© Porsche AG — press/editorial use; kept locally as research reference only",
+  "license_url": "https://newsroom.porsche.com/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "18-inch Turbo-look twist wheels",
+   "plain background (cut-out)"
+  ]
+ },
+ {
+  "file": "14-front-34-right.jpg",
+  "view": "front-34-right",
+  "description": "2001 Porsche 911 Carrera coupé (996.1), Guards Red — front 3/4 showing the car's RIGHT side, low camera.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7664-23838-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight shape of the 996.1 with the later clear indicator lens (MY2000.5–2001); lower edge follows the bumper line (no 996.2 Turbo-style S-curve)",
+   "996.1 front apron: three slatted intakes, small outer intakes (996.2 has larger reshaped intakes)",
+   "side marker in front wing ahead of the wheel",
+   "narrow-body Carrera (no wide rear arches), stock ride height"
+  ]
+ },
+ {
+  "file": "15-rear-34-left.jpg",
+  "view": "rear-34-left",
+  "description": "2001 Porsche 911 Carrera coupé (996.1), Guards Red — rear 3/4 showing the car's LEFT side.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7638-23615-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "red/clear taillights",
+   "narrow-body Carrera (no wide rear arches), stock ride height"
+  ]
+ },
+ {
+  "file": "16-rear-34-right.jpg",
+  "view": "rear-34-right",
+  "description": "2000 Porsche 911 Carrera coupé (996.1), Forest Green Metallic — rear 3/4 showing the car's RIGHT side.",
+  "source_page": "https://bringatrailer.com/listing/2000-porsche-911-carrera-coupe-6-speed/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2023/08/2000_Porsche_911_996_Coupe_Rainforest_Green_6_Speed_Manual_For_Sale_By_Backroads-20-35749-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "'Carrera' script, spoiler retracted",
+   "narrow-body Carrera (no wide rear arches), stock ride height"
+  ]
+ },
+ {
+  "file": "17-rear-34-right.jpg",
+  "view": "rear-34-right",
+  "description": "1999 Porsche 911 Carrera coupé (996.1), silver — rear 3/4 showing the car's RIGHT side (free-licence image).",
+  "source_page": "https://commons.wikimedia.org/wiki/File:1999_Porsche_911_Carrera_(996)_coupe_(2011-05-26).jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1999_Porsche_911_Carrera_%28996%29_coupe_%282011-05-26%29.jpg/1920px-1999_Porsche_911_Carrera_%28996%29_coupe_%282011-05-26%29.jpg",
+  "author": "OSX",
+  "license": "Public domain",
+  "license_url": "",
+  "verified_features": [
+   "996.1 rear apron: smooth continuous surface below the plate recess, only a fine notch (no raised arch-to-arch 'brace' of the 996.2); single oval tailpipe each side",
+   "'Carrera' script",
+   "17-inch twist wheels",
+   "narrow-body Carrera (no wide rear arches), stock ride height"
+  ]
+ },
+ {
+  "file": "18-top.jpg",
+  "view": "top",
+  "description": "2001 Porsche 911 Carrera coupé (996.1), Guards Red — high-angle view down onto the front lid, windscreen and roof (no true overhead photo found).",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7677-23923-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "front lid shape between the fried-egg headlights",
+   "windscreen/A-pillar and mirror placement from above"
+  ]
+ },
+ {
+  "file": "19-top.jpg",
+  "view": "top",
+  "description": "Porsche 911 Carrera coupé (996.1), dark blue — high-angle front 3/4 shot from above (street).",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_(996)_Washington_DC_Metro_Area,_USA.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Porsche_911_Carrera_%28996%29_Washington_DC_Metro_Area%2C_USA.jpg/1920px-Porsche_911_Carrera_%28996%29_Washington_DC_Metro_Area%2C_USA.jpg",
+  "author": "OWS Photography",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "verified_features": [
+   "996.1 fried-egg headlights with integrated lower lenses",
+   "front lid / roof plan shape from above"
+  ]
+ },
+ {
+  "file": "20-detail-headlight.jpg",
+  "view": "detail-headlight",
+  "description": "1999 Porsche 911 Carrera (996.1), Glacier White — headlight close-up with AMBER lower indicator lens; amber side marker at left edge.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_b4c446e4-ff96-4a69-96e8-47160ad83d56-xScZNa-50949-50950-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight (round main lamp + integrated lower indicator/fog section, lower edge follows the bumper line, no 996.2 S-shaped cut-out) with AMBER indicator lens (MY1999/early MY2000)"
+  ]
+ },
+ {
+  "file": "21-detail-headlight.jpg",
+  "view": "detail-headlight",
+  "description": "2001 Porsche 911 Carrera (996.1), Guards Red — headlight close-up (later clear-lens version).",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7680-23952-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "one-piece 'fried-egg' headlight shape of the 996.1 with the later clear indicator lens (MY2000.5–2001); lower edge follows the bumper line (no 996.2 Turbo-style S-curve)"
+  ]
+ },
+ {
+  "file": "22-detail-taillight.jpg",
+  "view": "detail-taillight",
+  "description": "1999 Porsche 911 Carrera (996.1), Glacier White — taillight close-up; early version with AMBER indicator segment.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_7c685311-ea11-4368-b94f-2e2c3184cfbb-a6sOu8-50984-50985-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 taillight: smoked upper band, red lower band with amber indicator segment (1999)"
+  ]
+ },
+ {
+  "file": "23-detail-taillight.jpg",
+  "view": "detail-taillight",
+  "description": "2001 Porsche 911 Carrera (996.1), Guards Red — taillight close-up; later version with clear/grey indicator segment.",
+  "source_page": "https://bringatrailer.com/listing/2001-porsche-911-carrera-coupe-51/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/09/DSC_7649-23709-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 taillight shape with clear indicator segment (2001)"
+  ]
+ },
+ {
+  "file": "24-detail-wheel.jpg",
+  "view": "detail-wheel",
+  "description": "1999 Porsche 911 Carrera (996.1) — standard 17-inch 5-spoke 'Carrera' twist wheel, front left (nose points left); amber side marker visible.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_550bfd54-9838-4507-9a87-20018e5c73fd-cXZJvQ-51317-51319-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "factory 17-inch twist-spoke wheel with Porsche crest centre cap",
+   "amber side marker lens in front wing"
+  ]
+ },
+ {
+  "file": "25-detail-wheel.jpg",
+  "view": "detail-wheel",
+  "description": "1999 Porsche 911 Carrera (996.1), Arctic Silver — optional 18-inch Turbo-look (hollow-spoke twist) wheel, front right (nose points right).",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-216/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2026/07/02_Details-996-BRA_7871-97395.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "factory optional 18-inch Turbo-look wheel"
+  ]
+ },
+ {
+  "file": "26-detail-engine-lid.jpg",
+  "view": "detail-engine-lid",
+  "description": "1999 Porsche 911 Carrera (996.1), Glacier White — engine lid with the automatic rear spoiler raised (bellows visible), 'Carrera' script.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_55841c9d-ae0c-48ab-a45c-45857b597d76-09Z9o0-51204-51205-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 deployable spoiler integrated in engine lid, shown extended",
+   "engine-lid grille slats",
+   "third brake light at the rear window base"
+  ]
+ },
+ {
+  "file": "27-interior.jpg",
+  "view": "interior",
+  "description": "1999 Porsche 911 Carrera (996.1) — dashboard seen from the passenger door: grey leather, four-spoke airbag wheel, no glovebox (plain passenger airbag panel), centre stack with radio and climate panel.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_e908764a-bc62-450f-9cf5-da3cdda3bc73-9nF9Zd-51362-51363-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "no glovebox (added only on 996.2)",
+   "no cup holders above the centre vents",
+   "four-spoke steering wheel"
+  ]
+ },
+ {
+  "file": "28-interior.jpg",
+  "view": "interior",
+  "description": "1999 Porsche 911 Carrera (996.1) — driver's side cockpit: five overlapping round gauges, four-spoke wheel, manual gearshift.",
+  "source_page": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-165/",
+  "image_url": "https://bringatrailer.com/wp-content/uploads/2025/08/1999_porsche_911-carrera-coupe_1999_porsche_911-carrera-coupe_4ecc23d3-0281-4ab9-86e3-32123455f6ef-xXNr75-51353-51354-scaled.jpg",
+  "author": "Bring a Trailer seller/listing photographer (see listing)",
+  "license": "© respective owner (Bring a Trailer listing photo) — used locally as research reference only, not for redistribution",
+  "license_url": "https://bringatrailer.com/terms-of-use/",
+  "verified_features": [
+   "996.1 overlapping-dial instrument cluster",
+   "four-spoke wheel"
+  ]
+ }
+]

@@ -1,0 +1,94 @@
+{
+  "stop_id": "11-996-1-1998",
+  "coverage_summary": "Excellent: detailed 4-view drawing of a 996.1 Carrera 4 (1998) + vendor 4-view with dims + Cabriolet 4-view.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-765_porsche-911-carrera-4-1998_4view.gif",
+      "rank": "primary",
+      "views_included": [
+        "top",
+        "side",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "1320x1350",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/765/view/porsche_911_carrera_4_1998/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-4-1998.GIF",
+      "contributor": "Janne Kaasalainen",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Janne Kaasalainen. Also mirrored on drawingdatabase.com (porsche-911-carrera-1998).",
+      "depicts": "996.1 Carrera 4 coupe with sunroof: 'fried-egg' headlamps with integrated indicators, 5-spoke wheels, '911 Carrera' plates, twin exhaust.",
+      "measured_wb_over_len": 0.528,
+      "accuracy_notes": "Measured 0.528 (auto, verified) vs Wikipedia 996: 92.6 in / 174.5 in (2352/4432 mm) = 0.531 (-0.5%) https://en.wikipedia.org/wiki/Porsche_911_(996).",
+      "bytes": 229588,
+      "ratio_check_vs_official": "measured WB/L 0.528 vs official 2350/4430 mm = 0.530 -> -0.5% : matches (within 1%)"
+    },
+    {
+      "file": "vec-1888_porsche-911-carrera-4-996-1998_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/1888/porsche_911_carrera_4_996/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_4_996_1998.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 Carrera 4 996 (1998)' colour 4-view.",
+      "labeled_dims": "wheelbase 2352, length 4432, width 1597(?), height 1305 (mm)",
+      "measured_wb_over_len": 0.53,
+      "accuracy_notes": "Measured 0.530 vs printed 0.531 (consistent). Printed width 1597 disagrees with Wikipedia 996 width 69.5 in (1765 mm, 1999-2001) - ignore that label.",
+      "bytes": 353477,
+      "ratio_check_vs_official": "measured WB/L 0.530 vs official 2350/4430 mm = 0.530 -> -0.1% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-92534_porsche-911-cabriolet-2000_4view.png",
+      "rank": "secondary",
+      "views_included": [
+        "rear",
+        "side",
+        "top",
+        "front"
+      ],
+      "resolution_px": "1080x544",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/92534/view/porsche_911_cabriolet_2000/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-cabriolet-2000.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "996.1 Cabriolet (hard-top/roof up) with aero-kit style rear wing and 10-spoke wheels - not standard Carrera.",
+      "accuracy_notes": "Use front/rear shapes only.",
+      "bytes": 85906
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/64516/view/porsche_911_996_1998/",
+      "reason": "Side drawing measures WB/L 0.583 vs 0.53 official (wheelbase ~10% too long) - distorted, not copied."
+    }
+  ],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5305,
+    "dims": "2350/4430 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_996",
+      "https://www.auto-motor-und-sport.de/marken-modelle/porsche/911/996/technische-daten/",
+      "https://www.excellence-mag.com/resources/specs/57",
+      "https://www.stuttcars.com/porsche-911-1998-2005-sales-brochures/",
+      "https://www.stuttcars.com/wp-content/uploads/2021/05/996-1997-1.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

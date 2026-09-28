@@ -1,0 +1,175 @@
+{
+  "stop_id": "06-930-turbo-1975",
+  "coverage_summary": "Excellent: two fully dimensioned 4-view drawings (side/top/front/rear) + two 4-view line drawings (3.0 wing and 3.3 wing).",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "dd_911-turbo-1986_4view-mm-dims.jpg",
+      "rank": "primary",
+      "views_included": [
+        "rear",
+        "front",
+        "top (doors open ghosted)",
+        "side (lids open ghosted)"
+      ],
+      "resolution_px": "1509x2441",
+      "source_page": "https://drawingdatabase.com/porsche-911-turbo/",
+      "image_url": "https://drawingdatabase.com/wp-content/uploads/2014/04/Porsche_911-Turbo_1986.jpg",
+      "license_notes": "drawingdatabase.com free blueprint image (site states drawings are for reference/3D modelling). Original copyright belongs to the author/publisher of the drawing. Reference only. Looks like a factory/technical-manual dimension sheet.",
+      "depicts": "911 Turbo 3.3 (tea-tray wing) - file named 1986.",
+      "labeled_dims": "length 4291, wheelbase 2272, front overhang 932, rear overhang 1087, width 1775, height 1310, track F 1432 / R 1501, ground clearance 120, approach 14.5 deg, departure 16 deg, door-open width 3600, lid-open height 1550 (mm)",
+      "measured_wb_over_len": 0.527,
+      "accuracy_notes": "Dimension ticks: 932/2272/1087/4291 mm = 258/635/312/1205 px -> WB/L 0.527 vs printed 0.5295; consistent to <1%. Matches Wikipedia 930 figures (2272/4291, width 1775) https://en.wikipedia.org/wiki/Porsche_911_(930)",
+      "bytes": 295751,
+      "ratio_check_vs_official": "measured WB/L 0.527 vs official 2272/4291 mm = 0.529 -> -0.5% : matches (within 1%)"
+    },
+    {
+      "file": "dd_911-turbo_plan01_polish-4view-sections-mm.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "top",
+        "front",
+        "rear",
+        "sections A-D",
+        "wheel section",
+        "crest",
+        "steering wheel"
+      ],
+      "resolution_px": "1912x1354",
+      "source_page": "https://drawingdatabase.com/porsche-911-turbo/",
+      "image_url": "https://drawingdatabase.com/wp-content/uploads/2014/04/Plan_01.jpg",
+      "license_notes": "drawingdatabase.com free blueprint image (site states drawings are for reference/3D modelling). Original copyright belongs to the author/publisher of the drawing. Reference only. Polish modelling plan 'PORSCHE 911 turbo - rzuty, przekroje' by Z. Zakrzewski.",
+      "depicts": "911 Turbo with early-type rear wing, Fuchs wheels; body sections A-D.",
+      "labeled_dims": "wheelbase 2272, length 4291, height 1310, width 1775, track F 1432 / R 1492 (mm)",
+      "measured_wb_over_len": 0.522,
+      "accuracy_notes": "Measured 0.522 (auto, verified) vs 0.5295 -> ~1.5% short wheelbase or long overhangs. Sections are unique and useful.",
+      "bytes": 159394,
+      "ratio_check_vs_official": "measured WB/L 0.522 vs official 2272/4291 mm = 0.529 -> -1.4% : close (1-2%)"
+    },
+    {
+      "file": "tbp-77242_porsche-911-turbo-930-1977_4view.png",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "top",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "1120x583",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/77242/view/porsche_911_turbo_930_1977/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-turbo-930-1977.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "930 with the early (3.0) whale-tail wing with rubber lip.",
+      "measured_wb_over_len": 0.529,
+      "accuracy_notes": "Measured 0.529 (auto-detected, overlay verified: hubs ~168/~549 px, bumpers ~15-734 px) vs 2272/4291 = 0.5295 (Wikipedia 930).",
+      "bytes": 90484,
+      "ratio_check_vs_official": "measured WB/L 0.529 vs official 2272/4291 mm = 0.529 -> -0.1% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-12920_porsche-911-turbo-33-1977_4view.gif",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "top",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "706x818",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/12920/view/porsche_911_turbo_33_1977/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-turbo-33-1977.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "930 3.3 with the raised-edge 'tea tray' wing (intercooler).",
+      "measured_wb_over_len": 0.523,
+      "accuracy_notes": "Measured 0.523 (auto, verified) vs 0.5295 (~1%).",
+      "bytes": 65959,
+      "ratio_check_vs_official": "measured WB/L 0.523 vs official 2272/4291 mm = 0.529 -> -1.2% : close (1-2%)"
+    },
+    {
+      "file": "tbp-51670_porsche-911-turbo-33-930-1988_3view-colour.png",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "671x431",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/51670/view/porsche_911_turbo_33_930_1988/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-turbo-33-930-1988.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Colour 930 3.3 (1978-89 look: tea-tray wing, red rear reflector panel, twin exhaust).",
+      "accuracy_notes": "Colour reference only.",
+      "bytes": 179444
+    },
+    {
+      "file": "brochure_1976_us_turbo_carrera_cover_side_photo.jpg",
+      "views_included": [
+        "side (right) — photograph, near-orthographic panning shot"
+      ],
+      "source_page": "https://archive.org/details/Porsche1976USA",
+      "image_url": "https://archive.org/download/Porsche1976USA/porsche%201976%20USA.zip (1.jpg inside the zip)",
+      "license_notes": "Porsche 1976 US brochure (33-71-660 10) scan on the Internet Archive, item marked Public Domain Mark 1.0 by uploader; reference use.",
+      "accuracy_notes": "Official photo of MY1976 US Turbo Carrera (whale tail, 15-in Fuchs). Perspective photo, not a drawing: 1606x1134 px. Wheelbase/length ratio measured on photo only approximately matches 2272/4291 — use for feature placement, not scaling.",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1606x1134"
+    },
+    {
+      "file": "brochure_1989_fr_911turbo33_side_photo.jpg",
+      "views_included": [
+        "side (left) — photograph"
+      ],
+      "source_page": "https://archive.org/details/01_20260422_20260422_1505",
+      "image_url": "https://archive.org/download/01_20260422_20260422_1505/05.jpg",
+      "license_notes": "Porsche France 1989 brochure (7-1988) scan on the Internet Archive; no license stated; reference use.",
+      "accuracy_notes": "MY1989 Turbo 3.3 with tea-tray wing, 16-in Fuchs, twin left tailpipes visible; 5000 px wide crop of a two-page spread (centre fold visible).",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "5000x2771"
+    },
+    {
+      "file": "brochure_1981_911sc_us_techdata_side_dimension_drawing.png",
+      "views_included": [
+        "side with dimensions — shared G-series body (see 07 folder)"
+      ],
+      "source_page": "https://archive.org/details/101_20260509_20260509_1504",
+      "image_url": "https://archive.org/download/101_20260509_20260509_1504/133.png",
+      "license_notes": "see 07 entry",
+      "accuracy_notes": "Closest official dimension drawing: Turbo shares length 4291, wheelbase 2272 and overhangs 932/1087 mm (FISA B-208) with the SC drawing; Turbo differs in wider arches and wing.",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "922x1038",
+      "measured_wb_over_len": 0.522,
+      "measurement_note": "auto-detected; drawing prints 89.5/168.9 in = 0.530",
+      "ratio_check_vs_official": "measured WB/L 0.522 vs official 2272/4291 mm = 0.529 -> -1.4% : close (1-2%)"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5295,
+    "dims": "2272/4291 mm",
+    "sources": [
+      "https://archive.org/download/01_20260422_20260422_1505/36.jpg",
+      "https://www.excellence-mag.com/resources/specs/372",
+      "https://www.stuttcars.com/fia-homologation-protocol-for-porsche-930-3-0-1976/",
+      "https://www.stuttcars.com/fisa-homologation-protocol-for-porsche-930-3-3-1982/",
+      "https://www.stuttcars.com/wp-content/uploads/2025/09/02-535.jpg",
+      "https://www.stuttcars.com/wp-content/uploads/2025/09/1-137.jpg"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

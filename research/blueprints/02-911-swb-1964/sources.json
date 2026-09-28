@@ -1,0 +1,221 @@
+{
+  "stop_id": "02-911-swb-1964",
+  "coverage_summary": "Good coverage: factory body-shell drawing with mm dimensions (front/rear/side/top) + colour 4-view + vendor 4-views.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-40868_porsche-911-1967_factory-body-4view-mm.png",
+      "rank": "primary",
+      "views_included": [
+        "front",
+        "rear",
+        "side (body shell)",
+        "top (body shell)",
+        "rear section"
+      ],
+      "resolution_px": "3486x1396",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/40868/view/porsche_911_1967/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1967.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga. Appears to be a scan of a Porsche factory body-shell dimension drawing (body-repair style: 'Plan 0' datum, tolerances like 1359+-0.5, 1595-1).",
+      "depicts": "911 (1967, SWB) body-in-white: bumpers/wheels mostly omitted in side view; front and rear views include bumpers, overriders, lamps. Dimensions in mm (e.g. body width 1595, rear width 1578, roof/glass widths 1016/1076/1300).",
+      "labeled_dims": "mm body dimensions (1595 overall body width front view, 1578 rear, 1359 windscreen frame, 600/229 heights etc.)",
+      "accuracy_notes": "Factory dimensioned drawing - use its printed mm values directly; best source for body sections, glass sizes and plan shape. Wheel-arch centres not drawn as wheels, so WB/L not measured.",
+      "bytes": 271782
+    },
+    {
+      "file": "tbp-53230_porsche-911-1968_4view-colour.png",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "935x1007",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/53230/view/porsche_911_1968/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1968.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Colour-rendered SWB 911 coupe (steel wheels + chrome hub caps, slim chrome bumpers with rubber-faced overriders, horn grilles beside the indicators, chrome engine grille, '911' script).",
+      "measured_wb_over_len": 0.542,
+      "accuracy_notes": "Manual gridded reading: hubs at x~204/~690 px, extremes 17-912 px -> WB/L 0.542 vs 0.531 (2211/4163 mm): ~2% long wheelbase. Top/front/rear views are useful for plan and section shape.",
+      "bytes": 469493,
+      "ratio_check_vs_official": "measured WB/L 0.542 vs official 2211/4163 mm = 0.531 -> +2.1% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "vec-3097_porsche-911-1967_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/3097/porsche_911/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_1964.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview titled 'Porsche 911 (1967)' (same image served for model years 1964-67 & 1969): SWB coupe with Fuchs wheels.",
+      "labeled_dims": "wheelbase 2211, length 4163, width 1610, track F 1367 / R 1341, height 1320 (mm)",
+      "measured_wb_over_len": 0.529,
+      "accuracy_notes": "WB/L measured 0.529 vs printed 2211/4163 = 0.531 -> internally consistent (<0.5%). Low-res (tyre ~110 px).",
+      "bytes": 371698,
+      "ratio_check_vs_official": "measured WB/L 0.529 vs official 2211/4163 mm = 0.531 -> -0.4% : matches (within 1%)"
+    },
+    {
+      "file": "vec-1486_porsche-911s-1967_4view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/1486/porsche_911_s/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_s_1967.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 S (1967)': SWB 911 S with Fuchs wheels.",
+      "labeled_dims": "wheelbase 2212, length 4163, width 1610, height 1321 (mm)",
+      "accuracy_notes": "Vendor dimensions agree with the 1967 911 preview; not independently measured.",
+      "bytes": 345285
+    },
+    {
+      "file": "tbp-55425_porsche-911-1966_autocar-side-front-dims.png",
+      "rank": "secondary",
+      "views_included": [
+        "side (cutaway, dimensioned)",
+        "front/rear half sections"
+      ],
+      "resolution_px": "1170x325",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/55425/view/porsche_911_1966/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1966.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga. Style of a period magazine (Autocar-type) dimension drawing, 'scale 1:40 approx.'",
+      "depicts": "911 (1966) interior/package drawing with imperial dimensions.",
+      "labeled_dims": "wheelbase 7 ft 3.5 in (2223 mm), length 13 ft 8 in (4166 mm), overall width 5 ft 3.25 in, front track 4 ft 5 in, rear track 4 ft 4.25 in, unladen height 4 ft 3.5 in, ground clearance 5.5 in",
+      "accuracy_notes": "Printed WB/L = 0.534 (imperial, rounded). Grey-tone cutaway; wheels not measurable reliably.",
+      "bytes": 62140
+    },
+    {
+      "file": "commons_Porsche_911_targa_profile_1967.svg",
+      "rank": "secondary",
+      "views_included": [
+        "side (vector SVG)"
+      ],
+      "resolution_px": "vector (SVG, 2048x800 nominal)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_targa_profile.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Porsche_911_targa_profile.svg",
+      "license_notes": "Wikimedia Commons, Public domain (author: Marseille77, de.wikipedia) - free to use.",
+      "depicts": "Colour vector profile described as 'Porsche 911 Targa (1967)': SWB Targa with soft rear window, Fuchs wheels, slim chrome bumpers with overriders, amber front indicator. Lower body identical to the coupe; roof differs.",
+      "measured_wb_over_len": 0.526,
+      "accuracy_notes": "Measured on a 3840-px render: 0.526 (auto, overlay verified) - the only freely-licensed VECTOR side profile found; roof/Targa bar must be replaced by the coupe roof.",
+      "bytes": 66748,
+      "ratio_check_vs_official": "measured WB/L 0.526 vs official 2211/4163 mm = 0.531 -> -1.0% : matches (within 1%)"
+    },
+    {
+      "file": "commons_Porsche_911_targa_profile_1967_render-3840.png",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "3840x1500",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_targa_profile.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Porsche_911_targa_profile.svg/3840px-Porsche_911_targa_profile.svg.png",
+      "license_notes": "Wikimedia Commons, Public domain (author: Marseille77, de.wikipedia) - free to use.",
+      "depicts": "Wikimedia's own 3840-px PNG render of the SVG above.",
+      "measured_wb_over_len": 0.526,
+      "accuracy_notes": "Same as the SVG.",
+      "bytes": 436823,
+      "ratio_check_vs_official": "measured WB/L 0.526 vs official 2211/4163 mm = 0.531 -> -1.0% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-17867_porsche-911-1965_cutaway-side.gif",
+      "rank": "secondary",
+      "views_included": [
+        "side (cutaway)"
+      ],
+      "resolution_px": "1111x341",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/17867/view/porsche_911_1965/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1965.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "1965 911 cutaway side on a grid (chrome hub caps).",
+      "accuracy_notes": "Cutaway - use only for silhouette cross-check.",
+      "bytes": 95121
+    },
+    {
+      "file": "tbp-40871_porsche-911-targa-1967_factory-body-4view-mm.png",
+      "rank": "secondary",
+      "views_included": [
+        "front",
+        "rear",
+        "side (body shell)",
+        "top",
+        "rear section"
+      ],
+      "resolution_px": "1590x749",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/40871/view/porsche_911_targa_1967/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-targa-1967.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga. Same factory body-drawing family as 40868.",
+      "depicts": "911 Targa (1967) body shell - front/rear/lower body identical in style to the coupe; roof differs.",
+      "accuracy_notes": "Factory dimensioned drawing (mm); lower resolution than 40868.",
+      "bytes": 106902
+    },
+    {
+      "file": "official_porsche_sketch_1963_side.jpg",
+      "views_included": [
+        "side (orthographic elevation) - same file as 01 (1963 sketch of the 901/911 body)"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/history/porsche-911-construction-sketch-10955.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/db96470d-1b16-4bf9-b7a6-bdc7f65b3465.zip (media/Images/img.jpg, 3300x1860)",
+      "license_notes": "(c) Dr. Ing. h.c. F. Porsche AG; Newsroom media package - editorial use terms. Reference only.",
+      "accuracy_notes": "Porsche AG caption 'Sketch, Porsche 911, 1963'. Measured: wheel-centre lines x=925/2332 px -> WB 1407 px; extremes over bumper guards 335..2998 px -> 2663 px; WB/L = 0.528 vs 901 brochure 2204/4135 = 0.533 and 1965 911 brochure 2211/4163 = 0.531 (within 1%). Roof-to-ground ~1270 mm at WB scale (901 brochure height 1273; 1965 911 1320 unladen) -> matches the 1963 901 prototype best. For the 1965 production car scale by WB 2211 and expect ~47 mm more body height (1320 unladen) and front bumper guards/fog lamps (not in the front sketch).",
+      "_from": "part_A.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "3300x1860",
+      "measured_wb_over_len": 0.525,
+      "measurement_note": "auto-detected wheels, overlay verified",
+      "ratio_check_vs_official": "measured WB/L 0.525 vs official 2211/4163 mm = 0.531 -> -1.1% : close (1-2%)"
+    },
+    {
+      "file": "official_porsche_sketch_1963_front.jpg",
+      "views_included": [
+        "front (orthographic elevation) - same file as 01"
+      ],
+      "source_page": "https://newsroom.porsche.com/en/history/porsche-911-construction-sketch-10955.html",
+      "image_url": "https://pmdb.porsche.de/newsroomzips/db96470d-1b16-4bf9-b7a6-bdc7f65b3465.zip (media/Images/img_1.jpg, 1100x620)",
+      "license_notes": "(c) Dr. Ing. h.c. F. Porsche AG; Newsroom media package - editorial use terms. Reference only.",
+      "accuracy_notes": "Porsche AG caption 'Sketch, Porsche 911, 1963'. Measured body width 443 px (321..764 px, mirror excluded) vs left tyre centre-line x=357.5 px; symmetric track ~370 px -> width/track 1.197 vs brochure 1600/1332 = 1.201 (901) / 1610/1337 = 1.204 (911). Shows NO bumper guards (matches 1963 prototypes). 1100x620 px only. Production SWB cars add two chrome bumper guards and two fog lamps under the bumper.",
+      "_from": "part_A.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1100x620"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5311,
+    "dims": "2211/4163 mm",
+    "sources": [
+      "https://archive.org/details/101_20260421_20260421_1757",
+      "https://archive.org/details/101_20260429_20260429_1155",
+      "https://en.wikipedia.org/wiki/Porsche_911_(classic)",
+      "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/1.-Generation---Karosserievarianten.html",
+      "https://www.excellence-mag.com/resources/specs/9"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

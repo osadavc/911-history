@@ -1,0 +1,64 @@
+{
+ "side": {
+  "image": "research/blueprints/01-901-1963/official_porsche_sketch_1963_side.jpg",
+  "wheelF": [
+   925,
+   1570.4845735027225
+  ],
+  "wheelR": [
+   2332,
+   1570.4845735027225
+  ],
+  "tipF": 372,
+  "crop": [
+   300,
+   880,
+   3060,
+   1790
+  ]
+ },
+ "front": {
+  "image": "research/blueprints/01-901-1963/official_porsche_sketch_1963_front.jpg",
+  "centreX": 542.5,
+  "groundY": 491.5,
+  "left": 321,
+  "right": 764,
+  "width": 1.6,
+  "crop": [
+   280,
+   110,
+   810,
+   510
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/01-901-1963/01-side-left.jpg",
+  "wheelF": [
+   439.0,
+   777.5
+  ],
+  "wheelR": [
+   1390.4,
+   786.6
+  ],
+  "tipF": 65.1,
+  "crop": [
+   40,
+   330,
+   1880,
+   940
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/02-911-swb-1964/tbp-40868_porsche-911-1967_factory-body-4view-mm.png",
+  "tipF": 1714,
+  "tipR": 3364.5,
+  "centreY": 1014,
+  "crop": [
+   1650,
+   660,
+   3420,
+   1360
+  ]
+ }
+}

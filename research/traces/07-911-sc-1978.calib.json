@@ -1,0 +1,66 @@
+{
+ "side": {
+  "image": "research/traces/07-911-sc-1978/ref-side.png",
+  "wheelF": [
+   255.65,
+   856.1904148950308
+  ],
+  "wheelR": [
+   633.15,
+   856.1904148950308
+  ],
+  "tipF": 100.79524647887322,
+  "crop": [
+   60,
+   600,
+   880,
+   960
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/07-911-sc-1978/05-side-left.jpg",
+  "wheelF": [
+   449.5,
+   838.5
+  ],
+  "wheelR": [
+   1396.5,
+   841.5
+  ],
+  "tipF": 61.02992957746471,
+  "crop": [
+   80,
+   400,
+   1860,
+   1000
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/07-911-sc-1978/vec-30946_porsche-911sc_4view-dims-watermarked.jpg",
+  "tipF": 84,
+  "tipR": 806,
+  "centreY": 629.0,
+  "crop": [
+   60,
+   440,
+   850,
+   810
+  ]
+ },
+ "front": {
+  "image": "research/traces/07-911-sc-1978/ref-front.png",
+  "centreX": 160.5,
+  "groundY": 235.2246376811594,
+  "left": 24.0,
+  "right": 297.0,
+  "width": 1.61
+ },
+ "rear": {
+  "image": "research/traces/07-911-sc-1978/ref-rear.png",
+  "centreX": 161.0,
+  "groundY": 231.66048381722464,
+  "left": 23.0,
+  "right": 299.0,
+  "width": 1.652
+ }
+}

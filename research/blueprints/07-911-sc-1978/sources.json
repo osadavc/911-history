@@ -1,0 +1,141 @@
+{
+  "stop_id": "07-911-sc-1978",
+  "coverage_summary": "Good: 3-view line drawing + vendor 4-view with dims + Autocar-type top/side.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-25361_porsche-911sc-1979_3view.gif",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "743x467",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/25361/view/porsche_911sc_1979/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911sc-1979.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "911 SC coupe, no rear spoiler, impact bumpers.",
+      "measured_wb_over_len": 0.524,
+      "accuracy_notes": "Measured 0.524 (auto, verified) vs 2271/4291 mm printed on the same-body period drawing in ../05 (0.529): -1%.",
+      "bytes": 24527,
+      "ratio_check_vs_official": "measured WB/L 0.524 vs official 2272/4291 mm = 0.529 -> -1.0% : close (1-2%)"
+    },
+    {
+      "file": "vec-30946_porsche-911sc_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x906",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/30946/porsche_911sc/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911sc.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911SC' colour 4-view.",
+      "labeled_dims": "wheelbase 2271, length 4290 (mm)",
+      "measured_wb_over_len": 0.527,
+      "accuracy_notes": "Measured 0.527 vs printed 0.529 (consistent).",
+      "bytes": 360744,
+      "ratio_check_vs_official": "measured WB/L 0.527 vs official 2272/4291 mm = 0.529 -> -0.5% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-58380_porsche-911-sc-1981_autocar-top-side.png",
+      "rank": "secondary",
+      "views_included": [
+        "top (interior dims)",
+        "side (interior dims)"
+      ],
+      "resolution_px": "847x664",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/58380/view/porsche_911_sc_1981/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-sc-1981-2.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "1981 911 SC package drawing on grid.",
+      "accuracy_notes": "Package drawing; top view outline usable.",
+      "bytes": 86966
+    },
+    {
+      "file": "tbp-58381_porsche-911-sc-1981_side.png",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "779x245",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/58381/view/porsche_911_sc_1981/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-sc-1981.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "1981 911 SC side on halftone background.",
+      "accuracy_notes": "Not measured.",
+      "bytes": 105893
+    },
+    {
+      "file": "brochure_1981_911sc_us_techdata_side_dimension_drawing.png",
+      "views_included": [
+        "side (left) with dimensions"
+      ],
+      "source_page": "https://archive.org/details/101_20260509_20260509_1504",
+      "image_url": "https://archive.org/download/101_20260509_20260509_1504/133.png",
+      "license_notes": "Porsche + Audi Division, Volkswagen of America 1980 (W73-711-6031) '911 SC Technical Data 1981' scanned on the Internet Archive; no license stated; reference use.",
+      "accuracy_notes": "Official Porsche dimension drawing: 36.6 in front overhang + 89.5 in wheelbase + 42.8 in rear overhang = 168.9 in; matches FISA B-207 932/2272/1087/4291 mm (ratio wheelbase/length 0.5295). 922x1038 px page, drawing ≈730 px wide (low res). Shows approach 16°, departure 17°, ground clearance 4.7 in.",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "922x1038",
+      "measured_wb_over_len": 0.522,
+      "measurement_note": "auto-detected; drawing prints 89.5/168.9 in = 0.530",
+      "ratio_check_vs_official": "measured WB/L 0.522 vs official 2272/4291 mm = 0.529 -> -1.4% : close (1-2%)"
+    },
+    {
+      "file": "brochure_1981_911sc_us_techdata_cover_front_wireframe.png",
+      "views_included": [
+        "front — half rendered / half wireframe styling line drawing"
+      ],
+      "source_page": "https://archive.org/details/101_20260509_20260509_1504",
+      "image_url": "https://archive.org/download/101_20260509_20260509_1504/131.png",
+      "license_notes": "As above.",
+      "accuracy_notes": "Grid line drawing of the front, slight perspective; not dimensioned — proportions only.",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "922x1020"
+    },
+    {
+      "file": "brochure_1979_us_911sc_side_photo.jpg",
+      "views_included": [
+        "side (left) — photograph"
+      ],
+      "source_page": "https://archive.org/details/101_20260421_20260421_1846",
+      "image_url": "https://archive.org/download/101_20260421_20260421_1846/113.png",
+      "license_notes": "Porsche 1979 US brochure (W 73-71-96021) scan on the Internet Archive; reference use.",
+      "accuracy_notes": "Early SC with chrome window frames and ATS wheels; low resolution (990x310).",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "990x310"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5295,
+    "dims": "2272/4291 mm",
+    "sources": [
+      "https://archive.org/download/101_20260509_20260509_1504/132.png",
+      "https://www.stuttcars.com/fisa-homologation-protocol-for-porsche-911-sc-1982/",
+      "https://www.stuttcars.com/wp-content/uploads/2025/09/02-489.jpg"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

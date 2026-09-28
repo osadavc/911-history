@@ -1,0 +1,66 @@
+{
+ "side": {
+  "image": "research/blueprints/06-930-turbo-1975/dd_911-turbo-1986_4view-mm-dims.jpg",
+  "wheelF": [
+   462.5,
+   2259.9408450704227
+  ],
+  "wheelR": [
+   1100.5,
+   2259.9408450704227
+  ],
+  "tipF": 200.78521126760558,
+  "crop": [
+   150,
+   1880,
+   1480,
+   2380
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/06-930-turbo-1975/01-side-left.jpg",
+  "wheelF": [
+   462.9,
+   975.6
+  ],
+  "wheelR": [
+   1375.5,
+   974.0
+  ],
+  "tipF": 88.54119718309846,
+  "crop": [
+   60,
+   540,
+   1880,
+   1120
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/06-930-turbo-1975/dd_911-turbo-1986_4view-mm-dims.jpg",
+  "tipF": 87,
+  "tipR": 1266,
+  "centreY": 1213.5,
+  "crop": [
+   60,
+   940,
+   1300,
+   1490
+  ]
+ },
+ "front": {
+  "image": "research/traces/06-930-turbo-1975/ref-front.png",
+  "centreX": 266.0,
+  "groundY": 399.6886215498512,
+  "left": 30.5,
+  "right": 501.5,
+  "width": 1.7
+ },
+ "rear": {
+  "image": "research/traces/06-930-turbo-1975/ref-rear.png",
+  "centreX": 269.75,
+  "groundY": 379.64808172444685,
+  "left": 32.75,
+  "right": 506.75,
+  "width": 1.775
+ }
+}

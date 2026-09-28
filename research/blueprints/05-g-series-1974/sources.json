@@ -1,0 +1,171 @@
+{
+  "stop_id": "05-g-series-1974",
+  "coverage_summary": "Good: dimensioned period drawings (inch and mm versions) with side/front/rear, plus side line drawing and vendor 3-view. No top view specific to 1974-77 -> use the 930/Carrera 3.2 top views (../06, ../08) with narrow-body arches.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "dd_911-1974-lined-drawing_side-front-rear-inch-dims.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side (with dims)",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "1024x820",
+      "source_page": "https://drawingdatabase.com/porsche-911-sc-1979/",
+      "image_url": "https://drawingdatabase.com/wp-content/uploads/2015/01/74LineDrawing-s.jpg",
+      "license_notes": "drawingdatabase.com free blueprint image (site states drawings are for reference/3D modelling). Original copyright belongs to the author/publisher of the drawing. Reference only.",
+      "depicts": "Impact-bumper 911 with inch dimensions. drawingdatabase titles it '911 SC 1979', but the file name is '74LineDrawing' and the drawing labels the rear wheel '6J X 15 185/70 VR15' -> treat as a 1974-77 911/911 S.",
+      "labeled_dims": "length 168.94 in (4291 mm), wheelbase 89.41 in (2271 mm), front overhang 36.69 in (932 mm), width 63.39 in (1610 mm), front track 54.06 in, rear track 53.31 in, height 51.97 in, approach 16 deg, departure 17 deg",
+      "measured_wb_over_len": 0.524,
+      "accuracy_notes": "Dimension-tick pixel positions: 932/2271/4291 mm span 200/493/940 px -> scale consistent to ~1% (printed WB/L 0.529). Good primary side reference; bumpers include rubber bellows.",
+      "bytes": 99197,
+      "ratio_check_vs_official": "measured WB/L 0.524 vs official 2271/4291 mm = 0.529 -> -1.0% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-27778_porsche-911-1976_side-front-rear-mm-dims.gif",
+      "rank": "primary",
+      "views_included": [
+        "side (with dims)",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "703x573",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/27778/view/porsche_911_1976/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1976.gif",
+      "contributor": "Leander Mutsaers",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Leander Mutsaers.",
+      "depicts": "Same period drawing in mm with three sets of figures (911 / Carrera / Turbo).",
+      "labeled_dims": "wheelbase 2271/2271/2272, length ~4291, width 1610/1652/1775, track F 1372/1372/1432, R 1354/1380/1502, height 1320/1320/1304, ground clearance 120/120/104 mm",
+      "accuracy_notes": "Metric twin of the drawing above; lower resolution.",
+      "bytes": 37835
+    },
+    {
+      "file": "tbp-64518_porsche-911-1976_side.png",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "1557x490",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/64518/view/porsche_911_1976/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1976.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Clean side line drawing, impact bumpers with bellows, no spoiler.",
+      "measured_wb_over_len": 0.539,
+      "accuracy_notes": "Manual gridded reading: hubs ~395/~1222 px, extremes ~12-1545 px -> 0.539. Other side drawings by the same contributor (964/993/996/997/991) are distorted by 6-10%, this one is only ~2% off - still prefer the dimensioned drawings.",
+      "bytes": 19710,
+      "ratio_check_vs_official": "measured WB/L 0.539 vs official 2271/4291 mm = 0.529 -> +1.9% : close (1-2%)"
+    },
+    {
+      "file": "commons_Porsche-911-zianotipo_G-body-side.svg",
+      "rank": "secondary",
+      "views_included": [
+        "side (vector SVG, cyanotype style)"
+      ],
+      "resolution_px": "vector (SVG, 512x362 nominal)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Porsche-911-zianotipo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Porsche-911-zianotipo.svg",
+      "license_notes": "Wikimedia Commons, CC BY-SA 4.0 (author: Batix Ezeiza) - attribution + share-alike required if redistributed.",
+      "depicts": "Basque description: 'side view of the classic Porsche 911, technical drawing in cyanotype style'. Drawn car has impact bumpers with bellows, Fuchs wheels, engine lid open (G-series body).",
+      "measured_wb_over_len": 0.539,
+      "accuracy_notes": "Manual extents on a 3840-px render (hubs 930.6/2746.2 px, bumpers ~235-3605 px): 0.539 vs 2271/4291 = 0.529 (+1.8%). Poster-style artwork - use for line work/details, scale by wheelbase.",
+      "bytes": 2706224,
+      "ratio_check_vs_official": "measured WB/L 0.539 vs official 2271/4291 mm = 0.529 -> +1.9% : close (1-2%)"
+    },
+    {
+      "file": "commons_Porsche-911-zianotipo_G-body-side_render-3840.png",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "3840x2716",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Porsche-911-zianotipo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Porsche-911-zianotipo.svg/3840px-Porsche-911-zianotipo.svg.png",
+      "license_notes": "Wikimedia Commons, CC BY-SA 4.0 (author: Batix Ezeiza) - attribution + share-alike required if redistributed.",
+      "depicts": "Wikimedia's 3840-px PNG render of the SVG above (white lines on blue).",
+      "measured_wb_over_len": 0.539,
+      "accuracy_notes": "Same as the SVG.",
+      "bytes": 804403,
+      "ratio_check_vs_official": "measured WB/L 0.539 vs official 2271/4291 mm = 0.529 -> +1.9% : close (1-2%)"
+    },
+    {
+      "file": "vec-2915_porsche-911-1976_3view-dims-watermarked.jpg",
+      "rank": "secondary",
+      "views_included": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/2915/porsche_911/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_1974.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 (1976)' colour 3-view.",
+      "labeled_dims": "wheelbase 2272, length 4290, width 1652, track F 1369 / R 1380, height 1321 (mm)",
+      "accuracy_notes": "Vendor dims agree with the period drawing within 1-2 mm.",
+      "bytes": 306573
+    },
+    {
+      "file": "brochure_1975-US-911S_side-front-rear.png",
+      "views_included": [
+        "side (left)",
+        "front",
+        "rear"
+      ],
+      "source_page": "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1975-2.pdf",
+      "image_url": "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1975-2.pdf (PDF page 36 of 39; embedded JPEG 2500x1723 px, cropped to the drawing)",
+      "license_notes": "Porsche sales brochure 'Porsche 1975' (US, publication 1055.21), (c) Porsche AG; scan hosted by auto-brochures.com - reference use only.",
+      "accuracy_notes": "Official dimensioned drawing of the 1975 US 911 S (inches): L 168.94 (4,291 mm), WB 89.41 (2,271), front overhang 36.69 (932), W 63.39 (1,610), track F 54.06 (1,373) / R 53.31 (1,354), H 51.97 (1,320), tyres 6J x 15 185/70 VR15. Pixel check: WB/L = 744/1421.5 = 0.523 vs official 0.529 (-1.1%); front view drawn ~3.5% larger scale than side view; rear overhang measures 44.2 in vs derived 42.8 in. Use printed numbers, not pixels, for exact values. Shows US-spec rear overriders.",
+      "_from": "part_B.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "1513x1275",
+      "measured_wb_over_len": 0.523,
+      "measurement_note": "auto-detected; drawing prints 89.41/168.94 in = 0.529",
+      "ratio_check_vs_official": "measured WB/L 0.523 vs official 2271/4291 mm = 0.529 -> -1.2% : close (1-2%)"
+    },
+    {
+      "file": "brochure_1975-US-911S_dimension-drawing_full-page.png",
+      "views_included": [
+        "side (left)",
+        "front",
+        "rear",
+        "power curves"
+      ],
+      "source_page": "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1975-2.pdf",
+      "image_url": "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1975-2.pdf (PDF page 36)",
+      "license_notes": "as above",
+      "accuracy_notes": "Uncropped page incl. 911 S / Carrera power curves.",
+      "_from": "part_B.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "2500x1723",
+      "measured_wb_over_len": 0.523,
+      "measurement_note": "same drawing as the side-front-rear crop",
+      "ratio_check_vs_official": "measured WB/L 0.523 vs official 2271/4291 mm = 0.529 -> -1.2% : close (1-2%)"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5292,
+    "dims": "2271/4291 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_911_(1963)",
+      "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/50-Jahre-Porsche-911-(G-Serie)-%E2%80%93-Der-Dauerbrenner-von-Porsche.html",
+      "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1974.pdf",
+      "https://www.auto-brochures.com/makes/Porsche/911/Porsche_US%20911_1975-2.pdf",
+      "https://www.excellence-mag.com/resources/specs/32"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

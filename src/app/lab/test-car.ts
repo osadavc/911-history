@@ -1,0 +1,218 @@
+import type { CarDef } from "@/lib/car/types";
+
+// Deliberately generic placeholder shapes used only to exercise the render
+// pipeline in /lab. Not a 911 — real cars are traced from research/.
+const flat = (v: number) =>
+  [
+    [0, v],
+    [10, v],
+  ] as const;
+
+export function testCar(
+  id: string,
+  length: number,
+  roof: number,
+  spokes: "fuchs" | "twin-spoke",
+): CarDef {
+  const L = length;
+  return {
+    id,
+    length: L,
+    frontAxle: 0.9,
+    rearAxle: L - 1.0,
+    trackFront: 1.4,
+    trackRear: 1.45,
+    body: {
+      floorY: flat(0.18),
+      rockerY: [
+        [0, 0.3],
+        [0.5, 0.26],
+        [0.55, 0.62],
+        [1.25, 0.62],
+        [1.3, 0.24],
+        [L - 1.35, 0.24],
+        [L - 1.3, 0.62],
+        [L - 0.65, 0.62],
+        [L - 0.6, 0.28],
+        [L, 0.32],
+      ],
+      rockerZ: [
+        [0, 0.0],
+        [0.15, 0.6],
+        [L - 0.15, 0.62],
+        [L, 0.0],
+      ],
+      sideY: flat(0.55),
+      sideZ: [
+        [0, 0.0],
+        [0.12, 0.66],
+        [0.5, 0.8],
+        [L - 0.5, 0.82],
+        [L - 0.12, 0.68],
+        [L, 0.0],
+      ],
+      crestY: [
+        [0, 0.6],
+        [0.3, 0.8],
+        [1.6, 0.86],
+        [L - 1.2, 0.86],
+        [L, 0.62],
+      ],
+      crestZ: [
+        [0, 0.0],
+        [0.2, 0.6],
+        [L - 0.2, 0.62],
+        [L, 0.0],
+      ],
+      beltY: [
+        [0, 0.62],
+        [1.5, 0.8],
+        [1.7, 0.9],
+        [L - 1.3, 0.92],
+        [L - 1.0, 0.82],
+        [L, 0.64],
+      ],
+      beltZ: [
+        [0, 0.0],
+        [0.2, 0.45],
+        [1.6, 0.6],
+        [L - 1.2, 0.62],
+        [L - 0.2, 0.45],
+        [L, 0.0],
+      ],
+      roofY: [
+        [0, 0.62],
+        [1.5, 0.82],
+        [2.1, roof - 0.04],
+        [L - 1.6, roof - 0.04],
+        [L - 0.9, 0.84],
+        [L, 0.64],
+      ],
+      roofZ: [
+        [0, 0.0],
+        [0.2, 0.2],
+        [1.6, 0.25],
+        [2.1, 0.52],
+        [L - 1.6, 0.52],
+        [L - 0.9, 0.25],
+        [L, 0.0],
+      ],
+      topY: [
+        [0, 0.6],
+        [0.4, 0.76],
+        [1.5, 0.84],
+        [2.1, roof],
+        [L - 1.6, roof],
+        [L - 0.5, 0.82],
+        [L, 0.64],
+      ],
+    },
+    decals: [
+      {
+        id: "dlo",
+        plane: "side",
+        kind: "fill",
+        points: [
+          [1.75, 0.93],
+          [2.2, roof - 0.07],
+          [L - 1.7, roof - 0.07],
+          [L - 1.2, 0.92],
+        ],
+        finish: "glass",
+        color: "#1c232b",
+        depth: [0.3, 2],
+        facing: 0.3,
+      },
+      {
+        id: "screen",
+        plane: "top",
+        kind: "fill",
+        points: [
+          [1.55, 0.0],
+          [1.55, 0.55],
+          [2.05, 0.48],
+          [2.05, 0.0],
+        ],
+        finish: "glass",
+        color: "#1c232b",
+        facing: 0.2,
+      },
+      {
+        id: "door",
+        plane: "side",
+        kind: "line",
+        points: [
+          [1.8, 0.3],
+          [1.8, 0.9],
+          [2.9, 0.9],
+          [2.95, 0.3],
+        ],
+        finish: "satin",
+        color: "#222222",
+        depth: [0.5, 2],
+      },
+      {
+        id: "tail",
+        plane: "rear",
+        kind: "fill",
+        points: [
+          [0.45, 0.62],
+          [0.7, 0.62],
+          [0.7, 0.72],
+          [0.45, 0.72],
+        ],
+        finish: "lens",
+        color: "#c8201a",
+        depth: [L - 0.3, L + 0.1],
+        facing: 0.3,
+      },
+    ],
+    wheels: {
+      front: {
+        diameter: 0.64,
+        width: 0.19,
+        rim: 0.4,
+        design: spokes,
+        face: "#c9c9c9",
+        lip: "#e0e0e0",
+        caliper: null,
+      },
+      rear: {
+        diameter: 0.66,
+        width: 0.22,
+        rim: 0.4,
+        design: spokes,
+        face: "#c9c9c9",
+        lip: "#e0e0e0",
+        caliper: "#b01010",
+      },
+    },
+    headlight: {
+      centre: [0.25, 0.66, 0.55],
+      outline: Array.from(
+        { length: 24 },
+        (_, i) =>
+          [
+            Math.cos((i / 24) * Math.PI * 2) * 0.085,
+            Math.sin((i / 24) * Math.PI * 2) * 0.085,
+          ] as const,
+      ),
+      yaw: 8,
+      pitch: 12,
+      ring: 0.012,
+      ringColor: "#dddddd",
+      ringFinish: "chrome",
+      lensColor: "#e3e8ea",
+      graphic: "sealed",
+    },
+    mirror: {
+      at: [1.8, 0.95, 0.78],
+      size: [0.12, 0.08, 0.1],
+      shape: "round",
+      color: "#dddddd",
+      finish: "chrome",
+    },
+    wing: { kind: "none", x0: 0, x1: 0, y: 0, halfSpan: 0, lip: "#111111" },
+    exhausts: [[L - 0.02, 0.25, 0.35, 0.035]],
+  };
+}

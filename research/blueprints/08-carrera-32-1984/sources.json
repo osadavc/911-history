@@ -1,0 +1,129 @@
+{
+  "stop_id": "08-carrera-32-1984",
+  "coverage_summary": "Vendor 4-view with dims is the best; plus small 4-view line drawing, Targa colour 3-view and package drawing.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-1941_porsche-911-carrera-1985_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/1941/porsche_911_carrera/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_1983.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 Carrera (1985)' (same image for MY1983-89): coupe with whale tail, Fuchs.",
+      "labeled_dims": "wheelbase 2272, length 4291, width 1652, height 1320 (mm)",
+      "measured_wb_over_len": 0.533,
+      "accuracy_notes": "Measured 0.533 vs printed 0.5295 (+0.6%).",
+      "bytes": 416400,
+      "ratio_check_vs_official": "measured WB/L 0.533 vs official 2272/4291 mm = 0.529 -> +0.7% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-17202_porsche-911-carrera-1985_4view.gif",
+      "rank": "secondary",
+      "views_included": [
+        "rear",
+        "top",
+        "front",
+        "side"
+      ],
+      "resolution_px": "602x321",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/17202/view/porsche_911_carrera_1985/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-1985.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Carrera 3.2 coupe line 4-view (small).",
+      "accuracy_notes": "Too low-res for a reliable ratio.",
+      "bytes": 24954
+    },
+    {
+      "file": "tbp-68298_porsche-911-carrera-targa-1989_3view-colour.png",
+      "rank": "secondary",
+      "views_included": [
+        "front",
+        "rear",
+        "side (Targa)"
+      ],
+      "resolution_px": "1097x702",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68298/view/porsche_911_carrera_targa_1989/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-targa-1989.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Carrera 3.2 Targa with whale tail: front view shows fog lamps in the front apron, rear shows full-width red reflector panel.",
+      "accuracy_notes": "Front/rear views valid for the coupe; roof differs.",
+      "bytes": 635024
+    },
+    {
+      "file": "tbp-64519_porsche-911-carrera-32-club-sport-1988_autocar.png",
+      "rank": "secondary",
+      "views_included": [
+        "top",
+        "side (package dims)"
+      ],
+      "resolution_px": "403x365",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/64519/view/porsche_911_carrera_32_club_sport_1988/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-carrera-32-club-sport-1988.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "Carrera 3.2 Club Sport package drawing.",
+      "accuracy_notes": "Small; outline only.",
+      "bytes": 42999
+    },
+    {
+      "file": "brochure_1989_fr_911carrera_targa_side_photo.jpg",
+      "views_included": [
+        "side (right) — photograph of a Carrera Targa"
+      ],
+      "source_page": "https://archive.org/details/01_20260422_20260422_1505",
+      "image_url": "https://archive.org/download/01_20260422_20260422_1505/03.jpg",
+      "license_notes": "Porsche France 1989 brochure scan on the Internet Archive; reference use.",
+      "accuracy_notes": "Targa body (roll bar) but same wings/bumpers/wheels: shows side repeater position, bumper side markers, Fuchs; 5902x1721 px two-page spread with centre fold.",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "5902x1721"
+    },
+    {
+      "file": "brochure_1981_911sc_us_techdata_side_dimension_drawing.png",
+      "views_included": [
+        "side with dimensions — shared G-series body (see 07 folder)"
+      ],
+      "source_page": "https://archive.org/details/101_20260509_20260509_1504",
+      "image_url": "https://archive.org/download/101_20260509_20260509_1504/133.png",
+      "license_notes": "see 07 entry",
+      "accuracy_notes": "Closest official dimension drawing: Carrera 3.2 body identical in length/wheelbase/overhangs (B-282: 4291/2272/932/1087 mm) and widths (1610/1652 mm).",
+      "_from": "part_C.json",
+      "rank": "official/brochure (added by research fork)",
+      "resolution_px": "922x1038",
+      "measured_wb_over_len": 0.522,
+      "measurement_note": "auto-detected; drawing prints 89.5/168.9 in = 0.530",
+      "ratio_check_vs_official": "measured WB/L 0.522 vs official 2272/4291 mm = 0.529 -> -1.4% : close (1-2%)"
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5295,
+    "dims": "2272/4291 mm",
+    "sources": [
+      "https://archive.org/download/01_20260422_20260422_1505/36.jpg",
+      "https://www.stuttcars.com/fia-homologation-protocol-for-porsche-911-carrera-3-2-1986/",
+      "https://www.stuttcars.com/wp-content/uploads/2025/09/02-514.jpg"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

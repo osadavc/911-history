@@ -1,0 +1,109 @@
+{
+  "stop_id": "09-964-1989",
+  "coverage_summary": "Weakest modern stop: the vendor 4-view (dims printed) is ~3% off in WB/L; plus Autocar-type top/side and a cutaway. Scale every 964 drawing by the official wheelbase (2272 mm) and check overhangs against geometry.json.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "vec-10947_porsche-911-carrera-964-1990_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "rear",
+        "top"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/10947/porsche_911_carrera_964/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_carrera_964_1989.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 Carrera 964 (1990)' colour 4-view (Design 90 wheels).",
+      "labeled_dims": "wheelbase 2270, length 4275, width 1650, height ~1310 (mm)",
+      "measured_wb_over_len": 0.518,
+      "accuracy_notes": "Manual reading: hubs ~227/~610 px, extremes 72-808 px -> 0.518 vs printed 0.531 (-2.4%, low-res). Wikipedia 964: wheelbase 2270, length 4275 mm https://en.wikipedia.org/wiki/Porsche_911_(964) - see geometry.json for Porsche figures.",
+      "bytes": 419983,
+      "ratio_check_vs_official": "measured WB/L 0.518 vs official 2272/4250 mm = 0.535 -> -3.1% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    },
+    {
+      "file": "vec-23631_porsche-911-964-targa-1993_4view-dims-watermarked.jpg",
+      "rank": "primary",
+      "views_included": [
+        "side",
+        "front",
+        "top",
+        "rear"
+      ],
+      "resolution_px": "1280x905",
+      "source_page": "https://www.the-blueprints.com/vectordrawings/show/23631/porsche_911_964_targa/",
+      "image_url": "https://www.the-blueprints.com/modules/vectordrawings/preview-wm/porsche_911_964_targa_1991.jpg",
+      "license_notes": "Watermarked PREVIEW of a paid the-blueprints.com vector drawing (the vector itself was NOT bought). The preview is freely viewable on the product page. Reference only; watermark crosses the drawing; dimensions printed on it are the vendor's.",
+      "depicts": "Preview 'Porsche 911 964 Targa (1993)': 964 Targa (Cup-style 5-spoke wheels, rear light bar with PORSCHE lettering). Roof/Targa bar differ from the coupe; lower body, bumpers, lamps and plan shape are the same family.",
+      "labeled_dims": "wheelbase 2270, length 4275, height 1310 (mm)",
+      "measured_wb_over_len": 0.539,
+      "accuracy_notes": "Measured 0.539 (auto, overlay verified; extents = printed dimension ticks) - the best-proportioned 964 drawing found; use it for the side silhouette below the beltline and for the top-view plan.",
+      "bytes": 368086,
+      "ratio_check_vs_official": "measured WB/L 0.539 vs official 2272/4250 mm = 0.535 -> +0.8% : matches (within 1%)"
+    },
+    {
+      "file": "tbp-8812_porsche-911-964-1989_autocar-top-side.gif",
+      "rank": "secondary",
+      "views_included": [
+        "top (interior dims)",
+        "side (spoiler raised)"
+      ],
+      "resolution_px": "587x448",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/8812/view/porsche_911_964_1989/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-964-1989.gif",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "964 Carrera 2 package drawing with the speed-activated spoiler raised.",
+      "accuracy_notes": "Package drawing; outline only.",
+      "bytes": 43636
+    },
+    {
+      "file": "tbp-82897_porsche-911-1990_cutaway-side.png",
+      "rank": "secondary",
+      "views_included": [
+        "side (cutaway)"
+      ],
+      "resolution_px": "1862x603",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/82897/view/porsche_911_1990/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911-1990.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "964 cutaway with raised spoiler, Cup-style wheel at front.",
+      "measured_wb_over_len": 0.558,
+      "accuracy_notes": "Measured 0.558 (auto, verified) - wheelbase ~4% too long; cutaway, silhouette/detail only.",
+      "bytes": 408941,
+      "ratio_check_vs_official": "measured WB/L 0.558 vs official 2272/4250 mm = 0.535 -> +4.4% : DISAGREES (>2%) - scale by wheelbase and check overhangs"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://www.the-blueprints.com/blueprints/cars/porsche/64513/view/porsche_911_964_1989/",
+      "reason": "Side line drawing measures WB/L 0.570 (hubs ~372/~1231 px, extremes ~8-1515 px) vs 2272/4250 = 0.535 official (+6.5%) - distorted, removed."
+    }
+  ],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5346,
+    "dims": "2272/4250 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_964",
+      "https://www.auto-motor-und-sport.de/oldtimer/porsche-911-964-carrera-2-im-fahrbericht-auch-der-964-ist-ein-echter-elfer/technische-daten/",
+      "https://www.excellence-mag.com/resources/specs/291",
+      "https://www.stuttcars.com/porsche-911-1989-1994-sales-brochures/",
+      "https://www.stuttcars.com/wp-content/uploads/2021/05/964-1991.pdf"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}

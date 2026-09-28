@@ -1,0 +1,78 @@
+{
+ "side": {
+  "image": "research/blueprints/04-carrera-rs-27-1973/tbp-83845_porsche-911-carrera-rs-27-1973_4view.png",
+  "wheelF": [
+   895.63,
+   325.98
+  ],
+  "wheelR": [
+   1612.33,
+   325.89
+  ],
+  "tipF": 622.0,
+  "crop": [
+   590,
+   0,
+   1946,
+   440
+  ]
+ },
+ "side_photo": {
+  "image": "research/photos/04-carrera-rs-27-1973/01-side-left.jpg",
+  "wheelF": [
+   414.78,
+   803.9
+  ],
+  "wheelR": [
+   1397.76,
+   795.7
+  ],
+  "tipF": 39.4,
+  "crop": [
+   40,
+   330,
+   1880,
+   950
+  ]
+ },
+ "top": {
+  "image": "research/blueprints/04-carrera-rs-27-1973/tbp-83845_porsche-911-carrera-rs-27-1973_4view.png",
+  "tipF": 622.0,
+  "tipR": 1930.7,
+  "centreY": 740.5,
+  "crop": [
+   590,
+   440,
+   1946,
+   1026
+  ]
+ },
+ "front": {
+  "image": "research/photos/04-carrera-rs-27-1973/02-front.jpg",
+  "centreX": 943.5,
+  "groundY": 1250,
+  "left": 389.6538461538462,
+  "right": 1497.3461538461538,
+  "width": 1.6,
+  "crop": [
+   300,
+   250,
+   1640,
+   1180
+  ]
+ },
+ "rear": {
+  "image": "research/photos/04-carrera-rs-27-1973/03-rear.jpg",
+  "centreX": 959.5,
+  "groundY": 1228,
+  "left": 394.88461538461536,
+  "right": 1524.1153846153848,
+  "width": 1.6,
+  "crop": [
+   300,
+   250,
+   1640,
+   1180
+  ]
+ }
+}

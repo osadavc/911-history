@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "01-901-1963",
+    "year": 1963,
+    "name": "901",
+    "code": "IAA show car",
+    "span": "1963–1964",
+    "summary": "Porsche unveiled the 356's successor as the 901 at the Frankfurt IAA on 12 September 1963: a 2+2 fastback designed by Butzi Porsche with a new 130 PS air-cooled flat-six.",
+    "specs": {
+      "engine": "2.0 L air-cooled flat-six",
+      "powerPs": 130.0,
+      "torqueNm": 174.0,
+      "zeroTo100": 9.1,
+      "topSpeedKmh": 210.0,
+      "weightKg": 1080.0
+    },
+    "colors": [
+      {
+        "name": "Yellow (IAA 1963 show car)",
+        "code": null,
+        "hex": "#eae1c1",
+        "type": "special"
+      },
+      {
+        "name": "Signal Red",
+        "code": "6407",
+        "hex": "#e8160d",
+        "type": "solid"
+      },
+      {
+        "name": "White (prototype 901/01 'Sturmvogel')",
+        "code": null,
+        "hex": "#dad4da",
+        "type": "special"
+      },
+      {
+        "name": "Quick Blue (prototype 'Quickblau')",
+        "code": null,
+        "hex": "#3d7394",
+        "type": "special"
+      },
+      {
+        "name": "Irish Green",
+        "code": "6406",
+        "hex": "#244b2a",
+        "type": "solid"
+      },
+      {
+        "name": "Slate Grey",
+        "code": "6401",
+        "hex": "#5b5d5f",
+        "type": "solid"
+      },
+      {
+        "name": "Ruby Red",
+        "code": "6402",
+        "hex": "#b5271c",
+        "type": "solid"
+      },
+      {
+        "name": "Sky Blue (Enamel Blue)",
+        "code": "6403",
+        "hex": "#4297c8",
+        "type": "solid"
+      },
+      {
+        "name": "Light Ivory",
+        "code": "6404",
+        "hex": "#e8e1ca",
+        "type": "solid"
+      }
+    ],
+    "signature": 0
+  },
+  {
+    "id": "02-911-swb-1964",
+    "year": 1964,
+    "name": "911 2.0",
+    "code": "O/A-series",
+    "span": "1964–1968",
+    "summary": "The first production 911: a compact 2+2 coupé with an air-cooled 2.0-litre flat-six (130 PS) hung behind the rear axle and a shape by F. A. 'Butzi' Porsche.",
+    "specs": {
+      "engine": "2.0 L air-cooled flat-six",
+      "powerPs": 130.0,
+      "torqueNm": 174.0,
+      "zeroTo100": 9.1,
+      "topSpeedKmh": 210.0,
+      "weightKg": 1080.0
+    },
+    "colors": [
+      {
+        "name": "Signal Red",
+        "code": "6407 / 016",
+        "hex": "#e8160d",
+        "type": "solid"
+      },
+      {
+        "name": "Light Ivory",
+        "code": "6404 / 6604 / 6804",
+        "hex": "#e8e1ca",
+        "type": "solid"
+      },
+      {
+        "name": "Champagne Yellow",
+        "code": "6405 / 6822",
+        "hex": "#f0e07f",
+        "type": "solid"
+      },
+      {
+        "name": "Irish Green",
+        "code": "6406 / 6606 / 6806",
+        "hex": "#244b2a",
+        "type": "solid"
+      },
+      {
+        "name": "Slate Grey",
+        "code": "6401 / 6601 / 6801",
+        "hex": "#5b5d5f",
+        "type": "solid"
+      },
+      {
+        "name": "Bali Blue (special)",
+        "code": "6412",
+        "hex": "#172b55",
+        "type": "solid"
+      },
+      {
+        "name": "Polo Red",
+        "code": "6602 / 6802",
+        "hex": "#842b33",
+        "type": "solid"
+      },
+      {
+        "name": "Bahama Yellow",
+        "code": "6605 / 6805",
+        "hex": "#d18e27",
+        "type": "solid"
+      },
+      {
+        "name": "Golf Blue",
+        "code": "6603",
+        "hex": "#1a4e8d",
+        "type": "solid"
+      },
+      {
+        "name": "Tangerine",
+        "code": "6809",
+        "hex": "#db4323",
+        "type": "solid"
+      }
+    ],
+    "signature": 0
+  },
+  {
+    "id": "03-911-lwb-1969",
+    "year": 1968,
+    "name": "911",
+    "code": "B–F series",
+    "span": "1968–1973",
+    "summary": "From model year 1969 Porsche moved the 911's rear wheels back 57 mm (wheelbase 2,268 mm) to tame its handling, and split the range into the carburetted T, the injected E and the top S.",
+    "specs": {
+      "engine": "2.0 L air-cooled flat-six",
+      "powerPs": 110.0,
+      "torqueNm": 157.0,
+      "zeroTo100": 10.0,
+      "topSpeedKmh": 200.0,
+      "weightKg": 1020.0
+    },
+    "colors": [
+      {
+        "name": "Light Ivory",
+        "code": "6804 / 1111 / 131",
+        "hex": "#e8e1ca",
+        "type": "solid"
+      },
+      {
+        "name": "Slate Grey",
+        "code": "6801",
+        "hex": "#5b5d5f",
+        "type": "solid"
+      },
+      {
+        "name": "Irish Green",
+        "code": "6806 / 1515 / 213",
+        "hex": "#244b2a",
+        "type": "solid"
+      },
+      {
+        "name": "Tangerine (Blood Orange)",
+        "code": "6809 / 2323 / 018",
+        "hex": "#db4323",
+        "type": "solid"
+      },
+      {
+        "name": "Signal Yellow",
+        "code": "6823 / 114",
+        "hex": "#fca613",
+        "type": "solid"
+      },
+      {
+        "name": "Albert Blue",
+        "code": "1818 / 325",
+        "hex": "#132d57",
+        "type": "solid"
+      },
+      {
+        "name": "Signal Orange",
+        "code": "1414 / 116 / L20E",
+        "hex": "#e67715",
+        "type": "solid"
+      },
+      {
+        "name": "Viper Green",
+        "code": "225",
+        "hex": "#187b32",
+        "type": "solid"
+      },
+      {
+        "name": "Aubergine",
+        "code": "025",
+        "hex": "#562130",
+        "type": "solid"
+      },
+      {
+        "name": "Gemini Blue Metallic",
+        "code": "8484 / 330 / 335",
+        "hex": "#4c86b9",
+        "type": "metallic"
+      }
+    ],
+    "signature": 1
+  },
+  {
+    "id": "04-carrera-rs-27-1973",
+    "year": 1972,
+    "name": "911 Carrera RS 2.7",
+    "code": "F-series",
+    "span": "1972–1973",
+    "summary": "Built to homologate the 911 for Group 4 racing, the Carrera RS 2.7 paired a 210 PS 2.7-litre flat-six with a lightened body and the world's first production rear spoiler — the 'ducktail'.",
+    "specs": {
+      "engine": "2.7 L air-cooled flat-six",
+      "powerPs": 210.0,
+      "torqueNm": 255.0,
+      "zeroTo100": 6.3,
+      "topSpeedKmh": 240.0,
+      "weightKg": 1075.0
+    },
+    "colors": [
+      {
+        "name": "Grand Prix White with Carrera script",
+        "code": "908",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Light Yellow",
+        "code": "117",
+        "hex": "#eefa55",
+        "type": "solid"
+      },
+      {
+        "name": "Tangerine (Blood Orange)",
+        "code": "018",
+        "hex": "#db4323",
+        "type": "solid"
+      },
+      {
+        "name": "Gulf Orange",
+        "code": "019",
+        "hex": "#f16527",
+        "type": "solid"
+      },
+      {
+        "name": "Rose Red (Fraise)",
+        "code": "024",
+        "hex": "#c91842",
+        "type": "solid"
+      },
+      {
+        "name": "Aubergine",
+        "code": "025",
+        "hex": "#562130",
+        "type": "solid"
+      },
+      {
+        "name": "Viper Green",
+        "code": "225",
+        "hex": "#187b32",
+        "type": "solid"
+      },
+      {
+        "name": "Gulf Blue",
+        "code": "328",
+        "hex": "#8dbfd6",
+        "type": "solid"
+      },
+      {
+        "name": "Silver Metallic",
+        "code": "936",
+        "hex": "#c8cbd0",
+        "type": "metallic"
+      }
+    ],
+    "signature": 0
+  },
+  {
+    "id": "05-g-series-1974",
+    "year": 1973,
+    "name": "911 2.7",
+    "code": "G-series",
+    "span": "1973–1977",
+    "summary": "The 1974 'G-series' was the 911's first thorough makeover after ten years: US-mandated 5-mph impact bumpers with black bellows, a 2.7-litre flat-six across the range and a safer, more comfortable cabin.",
+    "specs": {
+      "engine": "2.7 L air-cooled flat-six",
+      "powerPs": 150.0,
+      "torqueNm": 235.0,
+      "zeroTo100": 8.5,
+      "topSpeedKmh": 210.0,
+      "weightKg": 1075.0
+    },
+    "colors": [
+      {
+        "name": "Grand Prix White",
+        "code": "908",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "027",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Black",
+        "code": "041",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Light Yellow",
+        "code": "117",
+        "hex": "#eefa55",
+        "type": "solid"
+      },
+      {
+        "name": "Yellow-Green (Lime Green)",
+        "code": "137",
+        "hex": "#68cc24",
+        "type": "solid"
+      },
+      {
+        "name": "Mexico Blue",
+        "code": "336",
+        "hex": "#2380af",
+        "type": "solid"
+      },
+      {
+        "name": "Peru Red",
+        "code": "042",
+        "hex": "#822623",
+        "type": "solid"
+      },
+      {
+        "name": "Continental Orange",
+        "code": "107",
+        "hex": "#e74d07",
+        "type": "solid"
+      },
+      {
+        "name": "Silver Metallic",
+        "code": "936",
+        "hex": "#c8cbd0",
+        "type": "metallic"
+      },
+      {
+        "name": "Copper Brown Metallic",
+        "code": "443 / 432",
+        "hex": "#63391b",
+        "type": "metallic"
+      }
+    ],
+    "signature": 4
+  },
+  {
+    "id": "06-930-turbo-1975",
+    "year": 1974,
+    "name": "911 Turbo 3.0",
+    "code": "930",
+    "span": "1975–1989",
+    "summary": "Shown in Paris in October 1974 and on sale from spring 1975, the 911 Turbo (type 930) bolted a turbocharger to a 3.0-litre flat-six for 260 PS.",
+    "specs": {
+      "engine": "3.0 L turbo flat-six",
+      "powerPs": 260.0,
+      "torqueNm": 343.0,
+      "zeroTo100": 5.5,
+      "topSpeedKmh": 250.0,
+      "weightKg": 1140.0
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "code": "041",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Grand Prix White",
+        "code": "908",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "027",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Talbot Yellow",
+        "code": "106",
+        "hex": "#f8c533",
+        "type": "solid"
+      },
+      {
+        "name": "Silver Metallic",
+        "code": "936",
+        "hex": "#c8cbd0",
+        "type": "metallic"
+      },
+      {
+        "name": "Minerva Blue Metallic",
+        "code": "304",
+        "hex": "#2d76a8",
+        "type": "metallic"
+      },
+      {
+        "name": "Petrol Blue Metallic",
+        "code": "376",
+        "hex": "#22636b",
+        "type": "metallic"
+      },
+      {
+        "name": "Copper Brown Metallic",
+        "code": "443",
+        "hex": "#63391b",
+        "type": "metallic"
+      },
+      {
+        "name": "Oak Green Metallic",
+        "code": "265 / 22L",
+        "hex": "#3b4c3d",
+        "type": "metallic"
+      },
+      {
+        "name": "Emerald Green Metallic",
+        "code": "264",
+        "hex": "#548b50",
+        "type": "metallic"
+      }
+    ],
+    "signature": 8
+  },
+  {
+    "id": "07-911-sc-1978",
+    "year": 1977,
+    "name": "911 SC",
+    "code": "G-series",
+    "span": "1977–1983",
+    "summary": "The 1978 911 SC ('Super Carrera') cut the range to two cars and gave every non-turbo 911 a torquey 180 PS 3.0-litre engine and the wider Carrera rear wings.",
+    "specs": {
+      "engine": "3.0 L air-cooled flat-six",
+      "powerPs": 180.0,
+      "torqueNm": 265.0,
+      "zeroTo100": 7.0,
+      "topSpeedKmh": 225.0,
+      "weightKg": 1160.0
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "code": "041 / 700",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Grand Prix White",
+        "code": "908",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "027",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Talbot Yellow",
+        "code": "106",
+        "hex": "#f8c533",
+        "type": "solid"
+      },
+      {
+        "name": "Minerva Blue Metallic",
+        "code": "304 / LM5Y",
+        "hex": "#2d76a8",
+        "type": "metallic"
+      },
+      {
+        "name": "Petrol Blue Metallic",
+        "code": "376 / LM5V",
+        "hex": "#22636b",
+        "type": "metallic"
+      },
+      {
+        "name": "Copper Brown Metallic",
+        "code": "443",
+        "hex": "#63391b",
+        "type": "metallic"
+      },
+      {
+        "name": "Oak Green Metallic",
+        "code": "265",
+        "hex": "#3b4c3d",
+        "type": "metallic"
+      },
+      {
+        "name": "Platinum Metallic",
+        "code": "655 / LM8U",
+        "hex": "#8b8873",
+        "type": "metallic"
+      }
+    ],
+    "signature": 1
+  },
+  {
+    "id": "08-carrera-32-1984",
+    "year": 1983,
+    "name": "911 Carrera 3.2",
+    "code": "G-series",
+    "span": "1983–1989",
+    "summary": "The 1984 911 Carrera 3.2 brought back the Carrera name and gave the saved 911 a 231 PS 3.2-litre engine with Bosch Motronic digital engine electronics.",
+    "specs": {
+      "engine": "3.2 L air-cooled flat-six",
+      "powerPs": 231.0,
+      "torqueNm": 284.0,
+      "zeroTo100": 6.1,
+      "topSpeedKmh": 245.0,
+      "weightKg": 1210.0
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "code": "041 / 700 (A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Grand Prix White",
+        "code": "908 (P5)",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "027 / LM3A (G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Summer Yellow",
+        "code": "10W / LM1A (B1)",
+        "hex": "#ead547",
+        "type": "solid"
+      },
+      {
+        "name": "Silver Metallic",
+        "code": "936 (S7)",
+        "hex": "#c8cbd0",
+        "type": "metallic"
+      },
+      {
+        "name": "Cassis Red Metallic",
+        "code": "80D (F9)",
+        "hex": "#a88d98",
+        "type": "metallic"
+      },
+      {
+        "name": "Diamond Blue Metallic",
+        "code": "697 / LM5U (F5)",
+        "hex": "#d9d9e9",
+        "type": "metallic"
+      },
+      {
+        "name": "Granite Green Metallic",
+        "code": "699 (F3)",
+        "hex": "#858f84",
+        "type": "metallic"
+      },
+      {
+        "name": "Nougat Brown Metallic",
+        "code": "40B / LM8V (F4)",
+        "hex": "#cb9f74",
+        "type": "metallic"
+      },
+      {
+        "name": "Venetian Blue Metallic",
+        "code": "35U / 36P (F8)",
+        "hex": "#3b5975",
+        "type": "metallic"
+      }
+    ],
+    "signature": 2
+  },
+  {
+    "id": "09-964-1989",
+    "year": 1988,
+    "name": "911 Carrera 2",
+    "code": "964",
+    "span": "1988–1994",
+    "summary": "The 964 kept the classic 911 silhouette, but about 85% of it was new: a 250 PS 3.6-litre twin-spark flat-six, coil-spring suspension, ABS and power steering, and on the Carrera 4 the first all-wheel-drive 911.",
+    "specs": {
+      "engine": "3.6 L air-cooled flat-six",
+      "powerPs": 250.0,
+      "torqueNm": 310.0,
+      "zeroTo100": 5.7,
+      "topSpeedKmh": 260.0,
+      "weightKg": 1350.0
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "code": "041 / 700 (A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Grand Prix White",
+        "code": "908 (P5)",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "027 / 80K / LM3A (G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Mint Green",
+        "code": "22R (N4)",
+        "hex": "#76e1b9",
+        "type": "solid"
+      },
+      {
+        "name": "Maritime Blue",
+        "code": "38B / LM5A (F2)",
+        "hex": "#304ca3",
+        "type": "solid"
+      },
+      {
+        "name": "Rubystone Red (Ruby Star)",
+        "code": "82N / LM3B (G4)",
+        "hex": "#8b2246",
+        "type": "solid"
+      },
+      {
+        "name": "Polar Silver Metallic",
+        "code": "92E (A8)",
+        "hex": "#bfcbd1",
+        "type": "metallic"
+      },
+      {
+        "name": "Midnight Blue Metallic",
+        "code": "37W (F8)",
+        "hex": "#131d2d",
+        "type": "metallic"
+      },
+      {
+        "name": "Amethyst Metallic",
+        "code": "38A (F9)",
+        "hex": "#492335",
+        "type": "metallic"
+      }
+    ],
+    "signature": 4
+  },
+  {
+    "id": "10-993-1994",
+    "year": 1993,
+    "name": "911 Carrera",
+    "code": "993",
+    "span": "1993–1998",
+    "summary": "The 993 was the last 911 with an air-cooled engine.",
+    "specs": {
+      "engine": "3.6 L air-cooled flat-six",
+      "powerPs": 272.0,
+      "torqueNm": 330.0,
+      "zeroTo100": 5.6,
+      "topSpeedKmh": 270.0,
+      "weightKg": 1370.0
+    },
+    "colors": [
+      {
+        "name": "Grand Prix White",
+        "code": "908 (P5)",
+        "hex": "#fafbf9",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "80K / LM3A / 027 (G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Speed Yellow",
+        "code": "12G / 12H (X4)",
+        "hex": "#e4b12a",
+        "type": "solid"
+      },
+      {
+        "name": "Riviera Blue",
+        "code": "39E / 3AG (S8)",
+        "hex": "#348ebd",
+        "type": "solid"
+      },
+      {
+        "name": "Amaranth Violet",
+        "code": "39D / 3AH (T3)",
+        "hex": "#4c3866",
+        "type": "solid"
+      },
+      {
+        "name": "Polar Silver Metallic",
+        "code": "92E / 92M (A8)",
+        "hex": "#bfcbd1",
+        "type": "metallic"
+      },
+      {
+        "name": "Midnight Blue Metallic",
+        "code": "37W / 39C (F8)",
+        "hex": "#131d2d",
+        "type": "metallic"
+      },
+      {
+        "name": "Aventurine Green Metallic",
+        "code": "39R / 39S (K6)",
+        "hex": "#2f443e",
+        "type": "metallic"
+      },
+      {
+        "name": "Arctic Silver Metallic",
+        "code": "92T / 92U (X1)",
+        "hex": "#c2bfc3",
+        "type": "metallic"
+      },
+      {
+        "name": "Arena Red Metallic",
+        "code": "84R / 84S (H8)",
+        "hex": "#6b1f28",
+        "type": "metallic"
+      }
+    ],
+    "signature": 1
+  },
+  {
+    "id": "11-996-1-1998",
+    "year": 1997,
+    "name": "911 Carrera",
+    "code": "996.1",
+    "span": "1997–2001",
+    "summary": "The 996 was the biggest reinvention in 911 history: an all-new, longer and sleeker body shared with the Boxster, and a water-cooled four-valve flat-six.",
+    "specs": {
+      "engine": "3.4 L water-cooled flat-six",
+      "powerPs": 300.0,
+      "torqueNm": 350.0,
+      "zeroTo100": 5.2,
+      "topSpeedKmh": 280.0,
+      "weightKg": 1320.0
+    },
+    "colors": [
+      {
+        "name": "Guards Red",
+        "code": "80K / 84A",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Glacier White",
+        "code": "3AU",
+        "hex": "#f2f5f5",
+        "type": "solid"
+      },
+      {
+        "name": "Speed Yellow",
+        "code": "12G / 12H",
+        "hex": "#e4b12a",
+        "type": "solid"
+      },
+      {
+        "name": "Arctic Silver Metallic",
+        "code": "92T / 92U",
+        "hex": "#c2bfc3",
+        "type": "metallic"
+      },
+      {
+        "name": "Ocean Blue Metallic",
+        "code": "3AZ / 3AY",
+        "hex": "#1c3244",
+        "type": "metallic"
+      },
+      {
+        "name": "Zenith Blue Metallic",
+        "code": "3AX / 3AW",
+        "hex": "#3b3f7b",
+        "type": "metallic"
+      },
+      {
+        "name": "Arena Red Metallic",
+        "code": "84S / 84R",
+        "hex": "#6b1f28",
+        "type": "metallic"
+      }
+    ],
+    "signature": 2
+  },
+  {
+    "id": "12-996-2-2002",
+    "year": 2001,
+    "name": "911 Carrera",
+    "code": "996.2",
+    "span": "2001–2004",
+    "summary": "For 2002 Porsche answered the 'fried egg' criticism by giving the 996 the 911 Turbo's headlights and a sharper nose.",
+    "specs": {
+      "engine": "3.6 L water-cooled flat-six",
+      "powerPs": 320.0,
+      "torqueNm": 370.0,
+      "zeroTo100": 5.0,
+      "topSpeedKmh": 285.0,
+      "weightKg": 1345.0
+    },
+    "colors": [
+      {
+        "name": "Guards Red",
+        "code": "80K / 84A",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Carrara White",
+        "code": "B9A",
+        "hex": "#f0f0ed",
+        "type": "solid"
+      },
+      {
+        "name": "Speed Yellow",
+        "code": "12G / 12H",
+        "hex": "#e4b12a",
+        "type": "solid"
+      },
+      {
+        "name": "Basalt Black Metallic",
+        "code": "C9Z",
+        "hex": "#131520",
+        "type": "metallic"
+      },
+      {
+        "name": "Arctic Silver Metallic",
+        "code": "92T / 92U",
+        "hex": "#c2bfc3",
+        "type": "metallic"
+      },
+      {
+        "name": "Seal Grey Metallic",
+        "code": "6B4 / 6B5",
+        "hex": "#717472",
+        "type": "metallic"
+      },
+      {
+        "name": "Lapis Blue Metallic",
+        "code": "3A8 / M5W",
+        "hex": "#152359",
+        "type": "metallic"
+      },
+      {
+        "name": "Cobalt Blue Metallic",
+        "code": "3C8",
+        "hex": "#335497",
+        "type": "metallic"
+      },
+      {
+        "name": "GT Silver Metallic",
+        "code": "M7Z",
+        "hex": "#c6cad2",
+        "type": "special"
+      }
+    ],
+    "signature": 0
+  },
+  {
+    "id": "13-997-1-2005",
+    "year": 2004,
+    "name": "911 Carrera",
+    "code": "997.1",
+    "span": "2004–2008",
+    "summary": "The 997 brought back the round headlights and muscular hips that 911 fans had missed on the 996.",
+    "specs": {
+      "engine": "3.6 L water-cooled flat-six",
+      "powerPs": 325.0,
+      "torqueNm": 370.0,
+      "zeroTo100": 5.0,
+      "topSpeedKmh": 285.0,
+      "weightKg": 1395.0
+    },
+    "colors": [
+      {
+        "name": "Guards Red",
+        "code": "84A / 80K",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Carrara White",
+        "code": "B9A",
+        "hex": "#f0f0ed",
+        "type": "solid"
+      },
+      {
+        "name": "Speed Yellow",
+        "code": "12H / 12G",
+        "hex": "#e4b12a",
+        "type": "solid"
+      },
+      {
+        "name": "Basalt Black Metallic",
+        "code": "C9Z",
+        "hex": "#131520",
+        "type": "metallic"
+      },
+      {
+        "name": "Arctic Silver Metallic",
+        "code": "92U",
+        "hex": "#c2bfc3",
+        "type": "metallic"
+      },
+      {
+        "name": "Atlas Grey Metallic",
+        "code": "M7X",
+        "hex": "#484940",
+        "type": "metallic"
+      },
+      {
+        "name": "Seal Grey Metallic",
+        "code": "6B4",
+        "hex": "#717472",
+        "type": "metallic"
+      },
+      {
+        "name": "Lapis Blue Metallic",
+        "code": "M5W",
+        "hex": "#152359",
+        "type": "metallic"
+      },
+      {
+        "name": "Cobalt Blue Metallic",
+        "code": "3C8",
+        "hex": "#335497",
+        "type": "metallic"
+      },
+      {
+        "name": "Carmon Red Metallic",
+        "code": "M3W",
+        "hex": "#890a22",
+        "type": "metallic"
+      }
+    ],
+    "signature": 8
+  },
+  {
+    "id": "14-997-2-2009",
+    "year": 2008,
+    "name": "911 Carrera",
+    "code": "997.2",
+    "span": "2008–2012",
+    "summary": "The 2008 facelift kept the 997's shape but changed almost everything under it: direct-injection engines, the PDK dual-clutch gearbox and LED lights front and rear.",
+    "specs": {
+      "engine": "3.6 L water-cooled flat-six",
+      "powerPs": 345.0,
+      "torqueNm": 390.0,
+      "zeroTo100": 4.9,
+      "topSpeedKmh": 289.0,
+      "weightKg": 1415.0
+    },
+    "colors": [
+      {
+        "name": "Guards Red",
+        "code": "84A / 80K",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Carrara White",
+        "code": "B9A",
+        "hex": "#f0f0ed",
+        "type": "solid"
+      },
+      {
+        "name": "Speed Yellow",
+        "code": "12H / 12G",
+        "hex": "#e4b12a",
+        "type": "solid"
+      },
+      {
+        "name": "Basalt Black Metallic",
+        "code": "C9Z",
+        "hex": "#131520",
+        "type": "metallic"
+      },
+      {
+        "name": "Aqua Blue Metallic",
+        "code": "M5R",
+        "hex": "#2141af",
+        "type": "metallic"
+      },
+      {
+        "name": "Macadamia Metallic",
+        "code": "M8W",
+        "hex": "#4f382c",
+        "type": "metallic"
+      },
+      {
+        "name": "GT Silver Metallic",
+        "code": "M7Z",
+        "hex": "#c6cad2",
+        "type": "metallic"
+      },
+      {
+        "name": "Porsche Racing Green Metallic",
+        "code": "22G",
+        "hex": "#2a442e",
+        "type": "metallic"
+      },
+      {
+        "name": "Crème White",
+        "code": "51A",
+        "hex": "#f0e6d3",
+        "type": "solid"
+      },
+      {
+        "name": "Nordic Gold Metallic",
+        "code": "M2Z",
+        "hex": "#be782c",
+        "type": "metallic"
+      }
+    ],
+    "signature": 9
+  },
+  {
+    "id": "15-991-1-2012",
+    "year": 2011,
+    "name": "911 Carrera",
+    "code": "991.1",
+    "span": "2011–2015",
+    "summary": "The seventh-generation 911 stretched the wheelbase by 100 mm and moved to an aluminium-steel body that made it lighter than the car it replaced.",
+    "specs": {
+      "engine": "3.4 L water-cooled flat-six",
+      "powerPs": 350.0,
+      "torqueNm": 390.0,
+      "zeroTo100": 4.8,
+      "topSpeedKmh": 289.0,
+      "weightKg": 1380.0
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "code": "041 (option A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "White",
+        "code": "C9A (option 0Q)",
+        "hex": "#d7dade",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "84A",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Racing Yellow",
+        "code": "1S1",
+        "hex": "#f1dc2c",
+        "type": "solid"
+      },
+      {
+        "name": "Agate Grey Metallic",
+        "code": "M7S",
+        "hex": "#575756",
+        "type": "metallic"
+      },
+      {
+        "name": "Aqua Blue Metallic",
+        "code": "M5R",
+        "hex": "#2141af",
+        "type": "metallic"
+      },
+      {
+        "name": "Anthracite Brown Metallic",
+        "code": "M8S",
+        "hex": "#3b3732",
+        "type": "metallic"
+      },
+      {
+        "name": "GT Silver Metallic",
+        "code": "M7Z",
+        "hex": "#c6cad2",
+        "type": "metallic"
+      },
+      {
+        "name": "Lava Orange",
+        "code": "M2A",
+        "hex": "#dc3919",
+        "type": "special"
+      }
+    ],
+    "signature": 3
+  },
+  {
+    "id": "16-991-2-2016",
+    "year": 2015,
+    "name": "911 Carrera",
+    "code": "991.2",
+    "span": "2015–2019",
+    "summary": "The mid-life 991.2 swapped the naturally aspirated engines for a 3.0-litre twin-turbo flat-six, the first turbocharged base Carrera.",
+    "specs": {
+      "engine": "3.0 L twin-turbo flat-six",
+      "powerPs": 370.0,
+      "torqueNm": 450.0,
+      "zeroTo100": 4.6,
+      "topSpeedKmh": 295.0,
+      "weightKg": 1430.0
+    },
+    "colors": [
+      {
+        "name": "White",
+        "code": "C9A (option 0Q)",
+        "hex": "#d7dade",
+        "type": "solid"
+      },
+      {
+        "name": "Black",
+        "code": "041 (option A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "84A (option G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Racing Yellow",
+        "code": "1S1 (option P3)",
+        "hex": "#f1dc2c",
+        "type": "solid"
+      },
+      {
+        "name": "Lava Orange",
+        "code": "M2A (option H2)",
+        "hex": "#dc3919",
+        "type": "solid"
+      },
+      {
+        "name": "Miami Blue",
+        "code": "M5C (option J5)",
+        "hex": "#2e91ab",
+        "type": "solid"
+      },
+      {
+        "name": "Chalk (Crayon)",
+        "code": "M9A (option 3H)",
+        "hex": "#b9bcbe",
+        "type": "solid"
+      },
+      {
+        "name": "GT Silver Metallic",
+        "code": "M7Z (option U2)",
+        "hex": "#c6cad2",
+        "type": "metallic"
+      },
+      {
+        "name": "Sapphire Blue Metallic",
+        "code": "M5J (option N1)",
+        "hex": "#245292",
+        "type": "metallic"
+      },
+      {
+        "name": "Graphite Blue Metallic",
+        "code": "M5G (option A7)",
+        "hex": "#49545b",
+        "type": "metallic"
+      }
+    ],
+    "signature": 4
+  },
+  {
+    "id": "17-992-1-2019",
+    "year": 2018,
+    "name": "911 Carrera",
+    "code": "992.1",
+    "span": "2019–2024",
+    "summary": "The eighth-generation 911 gave every model the wide body, with bigger wheels at the rear than the front and a full-width light bar.",
+    "specs": {
+      "engine": "3.0 L twin-turbo flat-six",
+      "powerPs": 385.0,
+      "torqueNm": 450.0,
+      "zeroTo100": 4.2,
+      "topSpeedKmh": 293.0,
+      "weightKg": 1505.0
+    },
+    "colors": [
+      {
+        "name": "White",
+        "code": "C9A (option 0Q)",
+        "hex": "#d7dade",
+        "type": "solid"
+      },
+      {
+        "name": "Black",
+        "code": "041 (option A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "Guards Red",
+        "code": "84A (option G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Racing Yellow",
+        "code": "1S1 (option P3)",
+        "hex": "#f1dc2c",
+        "type": "solid"
+      },
+      {
+        "name": "Gentian Blue Metallic",
+        "code": "M5D (option 1A)",
+        "hex": "#273b7a",
+        "type": "metallic"
+      },
+      {
+        "name": "Aventurine Green Metallic",
+        "code": "M6T (option U4)",
+        "hex": "#7f8484",
+        "type": "metallic"
+      },
+      {
+        "name": "Miami Blue",
+        "code": "M5C (option J5)",
+        "hex": "#2e91ab",
+        "type": "solid"
+      },
+      {
+        "name": "Chalk (Crayon)",
+        "code": "M9A (option 3H)",
+        "hex": "#b9bcbe",
+        "type": "solid"
+      },
+      {
+        "name": "Python Green",
+        "code": "M6C (option 3I)",
+        "hex": "#1a9646",
+        "type": "solid"
+      },
+      {
+        "name": "Shark Blue",
+        "code": "D5C",
+        "hex": "#1975c5",
+        "type": "solid"
+      }
+    ],
+    "signature": 3
+  },
+  {
+    "id": "18-992-2-2024",
+    "year": 2024,
+    "name": "911 Carrera",
+    "code": "992.2",
+    "span": "2024–today",
+    "summary": "The 992.2 facelift brought the first hybrid 911: the GTS T-Hybrid, with an electric turbocharger and 541 PS.",
+    "specs": {
+      "engine": "3.0 L twin-turbo flat-six",
+      "powerPs": 394.0,
+      "torqueNm": 450.0,
+      "zeroTo100": 4.1,
+      "topSpeedKmh": 294.0,
+      "weightKg": 1520.0
+    },
+    "colors": [
+      {
+        "name": "White",
+        "code": "C9A (option 0Q)",
+        "hex": "#d7dade",
+        "type": "solid"
+      },
+      {
+        "name": "Black",
+        "code": "041 (option A1)",
+        "hex": "#17181a",
+        "type": "solid"
+      },
+      {
+        "name": "GT Silver Metallic",
+        "code": "M7Z (option U2)",
+        "hex": "#c6cad2",
+        "type": "metallic"
+      },
+      {
+        "name": "Guards Red",
+        "code": "84A (option G1)",
+        "hex": "#b2211f",
+        "type": "solid"
+      },
+      {
+        "name": "Gentian Blue Metallic",
+        "code": "M5D (option 1A)",
+        "hex": "#273b7a",
+        "type": "metallic"
+      },
+      {
+        "name": "Lugano Blue",
+        "code": "Q5G (option O1)",
+        "hex": "#0e4d92",
+        "type": "solid"
+      },
+      {
+        "name": "Cartagena Yellow Metallic",
+        "code": "M1Q (option D9)",
+        "hex": "#d2d498",
+        "type": "metallic"
+      },
+      {
+        "name": "Chalk (Crayon)",
+        "code": "M9A (option 3H)",
+        "hex": "#b9bcbe",
+        "type": "solid"
+      },
+      {
+        "name": "Shade Green Metallic",
+        "code": "M6F (option G9)",
+        "hex": "#adc6c6",
+        "type": "metallic"
+      },
+      {
+        "name": "Slate Grey Neo",
+        "code": "option 2M",
+        "hex": "#4a505a",
+        "type": "solid"
+      }
+    ],
+    "signature": 5
+  }
+]

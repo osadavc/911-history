@@ -1,0 +1,81 @@
+{
+  "stop_id": "03-911-lwb-1969",
+  "coverage_summary": "Top + side (Autocar-type, dimensioned) for a LWB 911E; plus a 3-view of the 1970 Monte-Carlo 911 S rally car. No clean front/rear line drawing of a road LWB coupe found - use the SWB front/rear views (../02) and add the 1969+ flared arches.",
+  "closest_substitute": null,
+  "blueprints": [
+    {
+      "file": "tbp-68304_porsche-911e-1968_autocar-top-side-dims.png",
+      "rank": "primary",
+      "views_included": [
+        "top (with interior dims)",
+        "side (with interior dims, lids open)"
+      ],
+      "resolution_px": "1203x1251",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68304/view/porsche_911e_1968/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911e-1968.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga. Period magazine-style package drawing.",
+      "depicts": "Titled 'Porsche 911E (1968)' but the printed wheelbase is 7 ft 5.5 in (2273 mm) = long-wheelbase B-series (MY1969+); Fuchs 5-spoke wheels drawn.",
+      "labeled_dims": "wheelbase 7 ft 5.5 in, ground clearance 6 in, interior dims",
+      "measured_wb_over_len": 0.54,
+      "accuracy_notes": "Measured WB/L 0.540 (auto, overlay verified; front extreme touches crop edge, +/-1%). The printed 7 ft 5.5 in wheelbase matches the upper end of the Wikipedia classic-911 wheelbase range 2211-2268 mm https://en.wikipedia.org/wiki/Porsche_911_(classic); compare the ratio with the LWB length in geometry.json.",
+      "bytes": 191037,
+      "ratio_check_vs_official": "measured WB/L 0.540 vs official 2271/4147 mm = 0.548 -> -1.4% : close (1-2%)"
+    },
+    {
+      "file": "tbp-68305_porsche-911s-1970_rally-3view-colour.png",
+      "rank": "secondary",
+      "views_included": [
+        "front",
+        "rear",
+        "side"
+      ],
+      "resolution_px": "637x403",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68305/view/porsche_911s_1970/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911s-1970.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "1970 911 S rally car (Monte-Carlo-style livery, extra driving lamps, Fuchs wheels) - body/trim of LWB era.",
+      "accuracy_notes": "Low-res colour profile; rally additions must be ignored.",
+      "bytes": 289512
+    },
+    {
+      "file": "tbp-68306_porsche-911s_side.png",
+      "rank": "secondary",
+      "views_included": [
+        "side"
+      ],
+      "resolution_px": "554x184",
+      "source_page": "https://www.the-blueprints.com/blueprints/cars/porsche/68306/view/porsche_911s/",
+      "image_url": "https://www.the-blueprints.com/blueprints-depot/cars/porsche/porsche-911s.png",
+      "contributor": "Dr Dan Saranga",
+      "license_notes": "the-blueprints.com free blueprint image (contributor credited on the page). Not logged in, the site shows images at max 500 px ('Login or register to remove this restriction'); the full-size file used here is linked publicly from the same view page (no account created, nothing paid), and the same drawings are offered as free no-login downloads on the getoutlines.com mirror. Copyright stays with the contributor / original publisher (many are scans of magazine or brochure drawings) - private modelling reference only, do not redistribute. Contributor: Dr Dan Saranga.",
+      "depicts": "911 S side line drawing with Fuchs wheels (year not stated).",
+      "accuracy_notes": "Small; silhouette cross-check only.",
+      "bytes": 21269
+    }
+  ],
+  "rejected_candidates": [],
+  "official_reference_for_ratio_check": {
+    "wb_over_len": 0.5476,
+    "dims": "2271/4147 mm",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Porsche_911_(1963)",
+      "https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/50-Jahre-Porsche-911-(G-Serie)-%E2%80%93-Der-Dauerbrenner-von-Porsche.html",
+      "https://www.excellence-mag.com/resources/specs/28",
+      "https://www.stuttcars.com/porsche-911-f-series-the-story/"
+    ],
+    "note": "from ../../geometry.json (dimensions_mm of this stop)"
+  },
+  "measurement_method": "measured_wb_over_len = wheelbase / overall length measured in pixels on the side view (hub centres, bumper extremes); wheels auto-detected with OpenCV HoughCircles and checked on an overlay, or read manually from a 10-px gridded zoom. Typical uncertainty +/-1% (large drawings) to +/-2% (small/low-res). Compare with the sourced dimensions in ../../geometry.json.",
+  "searched_sources": [
+    "the-blueprints.com (free blueprints: all 5 Porsche index pages; vector-drawing previews: 'porsche 911' search)",
+    "drawingdatabase.com ('porsche' search, 3 pages)",
+    "getoutlines.com (all 10 Porsche pages + search '992')",
+    "carblueprints.info (Porsche index - mirrors the same set)",
+    "Wikimedia Commons API (file search)",
+    "Porsche press material (via research forks, see official_* entries if any)"
+  ],
+  "porsche_documents_checked_without_orthographic_drawings": null,
+  "updated": "2026-09-27"
+}
